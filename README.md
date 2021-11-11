@@ -1,2 +1,2 @@
 # CTFs
-CTFs and Hacking projects
+CTFs and other Hacking projects
