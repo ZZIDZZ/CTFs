@@ -1,0 +1,10 @@
+#!/bin/bash
+
+declare -a lines=()
+mapfile -t lines < <(strings crackme |  egrep -r ""* )
+
+for i in lines
+do
+   :./crackme && $lines[$i]
+   # do whatever on $i
+done

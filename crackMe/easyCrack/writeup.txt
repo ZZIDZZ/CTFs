@@ -1,0 +1,23 @@
+There was a check for number of '-' in the string and then to check there was '----' in row when the positions 7,15,23,31 were stringed together
+
+Next there was a check for special characters in each subsection (rax was passed in as arg so 8 chars each time)
+So it was between like 0x22-0x2b and 0x3b-0x40 (these counted as special chars)
+First section needed at least 1 special char
+Second at least two etc
+
+
+[user@macbook Downloads]$ ./de_mucholoko check "abcdef*-hijkl**-nopq***-stu****-wx*****"
+
+[SystemLoading] |
+[SystemAccess]  | Welcome: Mr. Satan 666'
+[SystemAccess]  | Flag: abcdef*-hijkl**-nopq***-stu****-wx*****'
+
+
+I don't know if its unintended or not but 
+all *s and having 4 hyphens in the right place allowed flag generation
+
+[SystemLoading] |
+[SystemAccess]  | Welcome: Mr. Satan 666'
+[SystemAccess]  | Flag: *******-*******-*******-*******-*******'
+
+

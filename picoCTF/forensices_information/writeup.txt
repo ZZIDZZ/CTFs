@@ -1,0 +1,14 @@
+the first thing I'd look for on a forensic CTFs are weird codes that usually represent something
+focus your attention to this line:
+
+  <cc:license rdf:resource='cGljb0NURnt0aGVfbTN0YWRhdGFfMXNfbW9kaWZpZWR9'/>
+
+especially this string:
+    cGljb0NURnt0aGVfbTN0YWRhdGFfMXNfbW9kaWZpZWR9
+  
+now, the first thing I'd suspect for is Base64 encoding, because that is very common on entry CTFs like this one
+as the tools are available online and easy to use
+
+quick online Base64 decoding show that this decodes to:
+picoCTF{the_m3tadata_1s_modified}
+bingo

@@ -1,0 +1,11 @@
+#!/bin/bash
+
+array=()
+while read; do
+    array+=( "$REPLY" )
+done < <(strings crackme |  egrep -r)
+
+for i in array
+do
+   : ./crackme "${lines[$i]}"
+done
