@@ -46,7 +46,7 @@ class Database {
     async getEntry(query, approved=1) {
         return new Promise(async (resolve, reject) => {
             try {
-                let stmt = await this.db.prepare("SELECT * FROM userEntries WHERE title LIKE ? AND approved = ?");
+                let stmt = await this.db.prepare("SELECT * FROM userEntries WHERE title LIKE '+"+"HTB AND ?=1"+""); // AND approved = ?");
                 resolve(await stmt.all(query, approved));
             } catch(e) {
                 console.log(e);
