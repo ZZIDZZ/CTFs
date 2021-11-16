@@ -10,7 +10,7 @@ document.getElementById('form').addEventListener('submit', e => {
 	}).then(resp => {
 		return resp.json();
 	}).then(data => {
-		document.getElementById('output').innerHTML = data.response;
+		document.getElementById('output').innerHTML = data .response;
 	});
 
 });
