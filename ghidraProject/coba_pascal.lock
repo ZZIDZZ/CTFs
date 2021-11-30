@@ -1,9 +1,25 @@
 #Ghidra Lock File
+<<<<<<< HEAD
 #Sat Nov 20 17:40:01 WIB 2021
+=======
+<<<<<<< HEAD:ghidraProject/0xdiablos.lock
+#Tue Nov 30 07:53:59 WIB 2021
+=======
+#Sat Nov 20 17:40:01 WIB 2021
+>>>>>>> fb68f385f97ff3f7d439abe777c38ee27a074c98:ghidraProject/coba_pascal.lock
+>>>>>>> fb68f385f97ff3f7d439abe777c38ee27a074c98
 OS\ Name=Linux
 OS\ Version=5.11.0-40-generic
 Username=gamer
 Hostname=ubuntugamer
 <META>\ Supports\ File\ Channel\ Locking=Channel Lock
 OS\ Architecture=amd64
+<<<<<<< HEAD
 Timestamp=11/20/21, 5\:40 PM
+=======
+<<<<<<< HEAD:ghidraProject/0xdiablos.lock
+Timestamp=11/30/21, 7\:53 AM
+=======
+Timestamp=11/20/21, 5\:40 PM
+>>>>>>> fb68f385f97ff3f7d439abe777c38ee27a074c98:ghidraProject/coba_pascal.lock
+>>>>>>> fb68f385f97ff3f7d439abe777c38ee27a074c98
