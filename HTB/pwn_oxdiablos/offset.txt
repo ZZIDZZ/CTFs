@@ -15,4 +15,12 @@
 e2194080
 â@
 226 25 64 128
-� €
+[â
+
+0xdeadbeef
+
+efbeadde
+
+0xc0ded00d
+
+0dd0dec0
