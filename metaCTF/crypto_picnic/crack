@@ -1,21 +1,4 @@
-[38;21m
-[*] Testing key /home/gamer/Hacking/CTFs/metaCTF/crypto_picnic/keys/pubkey1.pem.[0m
-[38;21m[*] Performing system_primes_gcd attack on /home/gamer/Hacking/CTFs/metaCTF/crypto_picnic/keys/pubkey1.pem.[0m
-[38;21m[*] Performing factordb attack on /home/gamer/Hacking/CTFs/metaCTF/crypto_picnic/keys/pubkey1.pem.[0m
-[38;21m[*] Performing mersenne_primes attack on /home/gamer/Hacking/CTFs/metaCTF/crypto_picnic/keys/pubkey1.pem.[0m
-[38;21m[*] Performing fibonacci_gcd attack on /home/gamer/Hacking/CTFs/metaCTF/crypto_picnic/keys/pubkey1.pem.[0m
-[38;21m[*] Performing pastctfprimes attack on /home/gamer/Hacking/CTFs/metaCTF/crypto_picnic/keys/pubkey1.pem.[0m
-[38;21m[*] Performing smallq attack on /home/gamer/Hacking/CTFs/metaCTF/crypto_picnic/keys/pubkey1.pem.[0m
-[38;21m[*] Performing qicheng attack on /home/gamer/Hacking/CTFs/metaCTF/crypto_picnic/keys/pubkey1.pem.[0m
-[38;21m[*] Performing partial_q attack on /home/gamer/Hacking/CTFs/metaCTF/crypto_picnic/keys/pubkey1.pem.[0m
-[38;21m[*] Performing mersenne_pm1_gcd attack on /home/gamer/Hacking/CTFs/metaCTF/crypto_picnic/keys/pubkey1.pem.[0m
-[38;21m[*] Performing wiener attack on /home/gamer/Hacking/CTFs/metaCTF/crypto_picnic/keys/pubkey1.pem.[0m
-[38;21m[*] Attack success with wiener method ![0m
-[38;21m
-Results for /home/gamer/Hacking/CTFs/metaCTF/crypto_picnic/keys/pubkey1.pem:[0m
-[38;21m
-Private key :[0m
-[38;21m-----BEGIN RSA PRIVATE KEY-----
+-----BEGIN RSA PRIVATE KEY-----
 MIID6QIBAAKCAQBBhAsQg0Vvez3waNl8IMp5V9ZPrGnTyNows4KMedrl6LJJTk9y
 iuKZtLGOURNT8hxAWWDYKJ9o/0aG3W0lXvO7u0yOeqCL2+MjI8sIlZB8tbulAwIy
 MqjNVcDkETZF0/oW/6/re7odRfldGMaOq59152pNwxIre6R0ZCYOlOyH8ovHouO2
@@ -37,4 +20,4 @@ zHcCGk1ldGFDVEZ7T29wc190aG9zZV9wcmltZXNfAhpNZXRhQ1RGe09vcHNfdGhv
 c2VfcHJpbWVzXwKBgE2rU2fQHiqPzhSpk3eF2D+gtNNYnTO+LDGCtKu7PlwjYUYL
 GC/Wpa5a1nBNKYRq1cWM4WNIFHjtOqQjL0l63eASMaMpLHfaZEtJRcNyt4mf9gvQ
 0zzwfotQMEOIg90d7OBxwJd56RQNXjXqV0zHk/9QbU57ZVnlQaQPzZyFCkYZ
------END RSA PRIVATE KEY-----[0m
+-----END RSA PRIVATE KEY-----

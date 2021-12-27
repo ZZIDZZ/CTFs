@@ -1,0 +1,63 @@
+"Convert any private keys you can find to ascii, then concatenate them"
+this is the only clue that's available, so I started cracking it with Rsactftools
+
+and I got a private key on the first public key I crack.
+probably better to make a python script to automate cracking all those keys with timeouts at around 10-15 seconds,
+or you can attack it with just wiener method.
+Instead, I go for the yolo way, to crack it one by one.
+once it is done, you'll regret cracking it one by one because the private keys that can be recovered
+are based on the first and the last public keys.
+well played MetaCTF, well played
+
+anyway, private keys that I can recover:
+
+-----BEGIN RSA PRIVATE KEY-----
+MIID6QIBAAKCAQBBhAsQg0Vvez3waNl8IMp5V9ZPrGnTyNows4KMedrl6LJJTk9y
+iuKZtLGOURNT8hxAWWDYKJ9o/0aG3W0lXvO7u0yOeqCL2+MjI8sIlZB8tbulAwIy
+MqjNVcDkETZF0/oW/6/re7odRfldGMaOq59152pNwxIre6R0ZCYOlOyH8ovHouO2
+oe5Fwq53sw9+fJgOOPhvPeTHEFFuRpgaCCu05cGD+eDXmhDz8a13nIZ16zJBxjSI
+a7jYFW3O/EaoiSBme60+HgGawVaSEKoiy8eUdfw5qfeJ2BoHG3docpYcMjWtxT1r
+6bhYWaG+o1Mo04v2eYDmGaV5ZCpN+MjDWZtdAoIBAAlVVu2DCZgNaaqZ76BPuKub
+5jqPy3uyEIMMfU3uifJaxBvQpt288lRGq+byaW55JfSJh8p+bzd1erEMt/rXlsx3
+jtCMStGY/BUP+mK0BBBkdi/JMfoKbeXrf2lM1oTdmSX88ihSXwcp5tC/1PEOqTYD
+1lyZbt5LMIzS7AENdxuN2S8pSclMEMINWHoEPXKJ38ZW65qhmtmR4tqUk9JtrOwR
+QpxGv/RmnK92ncPp0sSstAMqmdcPS36jmzxytNBuCRIZ8TBH8OUzVWuQCAqsprEh
+P5e2pBi+Z2sYuKsd5ZHnuEfTGptM7ZQ0XGfCjUSiNgXU/uylw+6Z/I7AW7MEA0sC
+Gk1ldGFDVEZ7T29wc190aG9zZV9wcmltZXNfAoGAXfZynsbs36dG/p9ZjFwayqYg
+OK9zRyYRYuITFjisZF9kyRCxiCNrgx1A75se8ggw2CFmWFJcXyfiisDYn4hZwl5J
+yIxWHk64s8ke5imqE6FDADy8hBiUxNAcwVh+jiqtdx7munk40GB+npQVjsC1CiX4
+nfm4G+U6jszNS3aPj8sCgYEAsn8xVKyvovDKZWPeefTgiVQ+B3ApL+HjraLsg2U6
+6DaQhQnhPcyWNmfZARx+IpzK8yJX0mghcXj7+1sBuVPBcGsJ6D1Q/G7g7nO3bosf
+6oAKfFXaD9z/7rGBAZ+iIGUsc/+ApJre3RwidJed0AGcFI4+xEH4k376ss01S68Y
+zHcCGk1ldGFDVEZ7T29wc190aG9zZV9wcmltZXNfAhpNZXRhQ1RGe09vcHNfdGhv
+c2VfcHJpbWVzXwKBgE2rU2fQHiqPzhSpk3eF2D+gtNNYnTO+LDGCtKu7PlwjYUYL
+GC/Wpa5a1nBNKYRq1cWM4WNIFHjtOqQjL0l63eASMaMpLHfaZEtJRcNyt4mf9gvQ
+0zzwfotQMEOIg90d7OBxwJd56RQNXjXqV0zHk/9QbU57ZVnlQaQPzZyFCkYZ
+-----END RSA PRIVATE KEY-----
+
+-----BEGIN RSA PRIVATE KEY-----
+MIID2QIBAAKCAQEAmqF+b/0FWGPGDsl8DWrFDQ/Y1qpNBYrjzZ35V2zCs/bdbhsD
+fgG2Qy+RAfXGBhfSl92IXkM0jIWkUGgFwyI4tl3yxNB5I5FsvucJrtrklfO3dS9m
+freTA+GTs/XmCPZ9XgPQmVGM/ZPqA8v6QpH91c/pBjuV/fk1UWPbWCWVROkUGALo
+ik0SY44BKoLPGGVtAUvn6NQgtQgUwx2wrERpy6DXrk1fu8wO6h641rHiSJ42Zb4W
+abTKOuE6EGcWmOmLXI/+vJn4AWED+jMww3tSQFnLPQAolQ06+nfb7BQK84DZk70P
+YU2u9FsJBpYcnyPWuVioxmaEFrrHF1h+z0cnGwKCAQAzItmqpTvOXeSk3iirECvd
+SOxJAYUvbt116euUN3KOGb5S7vMTPiy+51h6O48m/0BdjvrehCNgK1aB3c/zzExB
+5pmTZzqKzrqzCYpLPfLzRst7fIvmJBJEF4KzBAP/2ueUMsQKSJ4LRh3KaA0uA/B1
+IeErjSAO0826Ey42G0DHm56YuoWYlzSD9d79mjD1QpoLf/UNKobTDVpZ746FU2Sh
+xJomL3kQvL6uoM+pcnlLNmTY+/aPPFGfvxkMR8uYd5O0dz57l8/uljszlREVpoAL
+LREIX72t/gYqy5Hzv8aDuNlxGxlkhRI5fS3VF2biDKcGrm5atRO0Psg+FUqIatcN
+AhRhcmVfbm90X3RoYXRfcmFuZG9NfQKBgQCyfzFUrK+i8MplY9559OCJVD4HcCkv
+4eOtouyDZTroNpCFCeE9zJY2Z9kBHH4inMrzIlfSaCFxePv7WwG5U8FwawnoPVD8
+buDuc7duix/qgAp8VdoP3P/usYEBn6IgZSxz/4Ckmt7dHCJ0l53QAZwUjj7EQfiT
+fvqyzTVLrxjMdwKBgQDdxXneB2l+NewjUCd+woN1RwNCwWNYa/U8PvNO/gXX2ntN
+njJz0sTZO3O3CIAwv9BAJGRTg+EGOkMvNCH4FKXXFo7lEDndP0BW1he3hpvPQcn+
+nvdzU8HnKF3ylETxz2IjTZ13vi85X4+pUQ541xd9iB5OzRRCvxZAqFwJZ+B3fQIU
+YXJlX25vdF90aGF0X3JhbmRvTX0CFGFyZV9ub3RfdGhhdF9yYW5kb019AoGAbicO
+MBdz15cRz6fTZItXTstIYbHCA/PcC1X5Ki9rbl1I3WnkzlwW6pz+GCUysJ8Ql5zk
+E+uYxpm6Z6qjsdEXoGH0wmAffEFwUHLcJbFV+UkdMe7X6PanlDWjyuyHtzTX5V5k
+SiqxE7edcVP65OFDr7BZtTSZbkC1PLknw7YPgRY=
+-----END RSA PRIVATE KEY-----
+
+decode them with base64 and concatenate it, and you'll get:
+MetaCTF{Oops_those_primes_are_not_that_randoM}
