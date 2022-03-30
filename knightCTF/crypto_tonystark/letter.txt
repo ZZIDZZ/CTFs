@@ -8,15 +8,7 @@ Take half of your army with you as you need to defend the launching site and sen
 
 I've already sent the password for activating the normal missiles.
 And here are the clue keys for activating the Fat Boy:
-
-- T3NR1NG$
-- T3nR1ng$
-- TenRings
-- T3nR!ngs
-- T3nR!ng$
-- 73NR1GN$
-- 73nRing$
-- T3nR!nG$
+["T3NR1NG$","T3nR1ng$","TenRings","T3nR!ngs","T3nR!ng$","73NR1GN$","73nRing$","T3nR!nG$"]
 
 I believe, you already know which one is the valid key. 
 Just giving the clues to give you a simple recall.
