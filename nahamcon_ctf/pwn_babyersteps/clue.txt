@@ -1,0 +1,10 @@
+(gdb) info frame
+Stack level 0, frame at 0x7fffffffdd20:
+ rip = 0x40121f in main; saved rip = 0x7ffff7e097ed
+ Arglist at 0x7fffffffdd10, args: 
+ Locals at 0x7fffffffdd10, Previous frame's sp is 0x7fffffffdd20
+ Saved registers:
+  rbp at 0x7fffffffdd10, rip at 0x7fffffffdd18
+
+
+0x0040121f

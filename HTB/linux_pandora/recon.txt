@@ -49,3 +49,7 @@ PORT    STATE SERVICE
 Read data files from: /usr/bin/../share/nmap
 Nmap done: 1 IP address (1 host up) scanned in 1089.16 seconds
            Raw packets sent: 1451 (65.492KB) | Rcvd: 1092 (78.944KB)
+
+
+
+-c sleep 30; /bin/bash -c '/usr/bin/host_check -u daniel -p HotelBabylon23'
