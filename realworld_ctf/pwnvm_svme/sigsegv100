@@ -1,0 +1,27 @@
+Program received signal SIGSEGV, Segmentation fault.
+0x0000555555555a58 in vm_print_instr ()
+(gdb) info registers
+rax            0x55501e744938      93802596682040
+rbx            0x0                 0
+rcx            0x55555555b3b0      93824992261040
+rdx            0x555555558020      93824992247840
+rsi            0x0                 0
+rdi            0x7fffffffdaf0      140737488345840
+rbp            0x7fffffffda70      0x7fffffffda70
+rsp            0x7fffffffda50      0x7fffffffda50
+r8             0x55555555b3a0      93824992261024
+r9             0x7ffff7fa4c00      140737353763840
+r10            0x6b                107
+r11            0x20                32
+r12            0x555555555140      93824992235840
+r13            0x0                 0
+r14            0x0                 0
+r15            0x0                 0
+rip            0x555555555a58      0x555555555a58 <vm_print_instr+81>
+eflags         0x10203             [ CF IF RF ]
+cs             0x33                51
+ss             0x2b                43
+ds             0x0                 0
+es             0x0                 0
+fs             0x0                 0
+gs             0x0                 0

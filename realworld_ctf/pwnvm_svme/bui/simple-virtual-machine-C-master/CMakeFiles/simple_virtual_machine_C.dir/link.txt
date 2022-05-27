@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/simple_virtual_machine_C.dir/src/vm.c.o CMakeFiles/simple_virtual_machine_C.dir/src/vmtest.c.o -o simple_virtual_machine_C 

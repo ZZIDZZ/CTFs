@@ -1,0 +1,14071 @@
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz (with SSE4.2)
+Linux 5.14.0-kali4-amd64
+Dumpcap (Wireshark) 3.6.0 (Git v3.6.0 packaged as 3.6.0-1)
+eth0	
+Linux 5.14.0-kali4-amd64
+@*%|B
+|&|B
+P6Di
+a.|"
+]g#[T+
+.O22
+-P(C
++5$6!
+.o:7
+/5sY
+k z[
+;j3D]
+E)eT
+8z:	
+zwV?R
+zqBf
+ob+w
+:"ba
+^z9~
+&s`Vk
+NC$p
+Z0K2[
++74:
+_zv;
+GXE,kK
+oY*F
+*`mhN
+T}t8
+;WpZPr
+c\MI
+,vV>
+m?>zU
+4eX@
+Ll~@
+VFf*\
+-!Ade
+9WbR
+^. 6
+);Bw0
+R*:t
+:9Ry$
+	pq?9
+\YxZ
+</yK
+TD+-
+ahwX
+s&]@
+l<oV L
+{$B'
+RJ \
+%+@{%
+8'wy^
+8Omol
+JB(Fd
+}N\p2
+}0no
+&rre
+G3{z
+4m0@
+=C/'
+hG`{
+W-qE]
++/I@i
+mP+D
+WjqY
+*qy<
+OS;'O
+HSA"5
+@!BG]F
+z+> 
+4F]"
+MxO5
+qN_[
+[>@f
+tihS
+wW>`
+	ei|t
+&;*i
+#G@xVm
+BDfya
+{_tR
+d^85
+y%.5~
+BDfya
+{_tR
+d^85
+y%.5~
+4nM@
+bNkX
+H.RS
+0Vb>
+0a8u
+fTqj
+h!2(V
+&[&7
+kLNf}
+M-n"
+HUE%2
+yx(uK[
+gw0c
+Ytb8
+Y`(b(r
+>S3,
+AYVE^
+=:)w
+4nN7s
+cM{I
+PzC~
+*8 }A
+jg>u[
+4"'@
+A(&Z
+%zQ|
+$Q2R
+}<k14YY
+\Gx/
+L8&%63
+`rI9
+0+Y`
+V~+Z
+|tC1
+_2o>_m_M
++`p%
+,cjq
+Ved|
+*d4i
+o&E3
+Wa2]
+4+>@
+rh\X
+%P$"c.
+@ZfTvQ
+4.>Q`;
+kkkm)
+=fFL
+pI+"
+"nfl
+@Zk0
+zlwBf
+PIX8rUO-
+s.%P
+2ojQ@
+xqC.}Wz
+\t6,
+]u@<
+5rTwH
+qIDo
+qiH.
+3T-Ge
+cBHH
+\x.@
+n/wu
+)!ho
+zIEdh.
+P>0p
+\>0p
+4BN F
+Gs%S
+gnvZ
+>9Ez
+@7.>
+(3%</
+:=iX
+Uwq)
+-GKm
+?(n'
+GET /template/about.php HTTP/1.1
+Host: 192.168.1.9
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://192.168.1.9/template/index.php
+Upgrade-Insecure-Requests: 1
+HTTP/1.1 200 OK
+Date: Mon, 17 Jan 2022 15:52:21 GMT
+Server: Apache/2.4.52 (Unix)
+Last-Modified: Mon, 17 Jan 2022 15:18:12 GMT
+ETag: "2e81-5d5c8a933e46a"
+Accept-Ranges: bytes
+Content-Length: 11905
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+<!DOCTYPE html>
+<html lang="zxx">
+<head>
+  <meta charset="utf-8">
+  <title>Myself</title>
+  <!-- mobile responsive meta -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <!-- ** Plugins Needed for the Project ** -->
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="plugins/bootstrap/bootstrap.min.css">
+  <!-- slick slider -->
+  <link rel="stylesheet" href="plugins/slick/slick.css">
+  <!-- themefy-icon -->
+  <link rel="stylesheet" href="plugins/themify-icons/themify-icons.css">
+  <!-- Main Stylesheet -->
+  <link href="css/style.css" rel="stylesheet">
+  <!--Favicon-->
+  <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+</head>
+<body>
+<header class="navigation fixed-top">
+  <nav class="navbar navbar-expand-lg navbar-dark">
+    <a class="navbar-brand font-tertiary h3" href="index.php">Tareq</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
+      aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse text-center" id="navigation">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item active">
+          <a class="nav-link" href="index.php">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="about.php">about</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="blog.php">Blog</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="portfolio.php">Portfolio</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="contact.html">Contact</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+</header>
+<!-- page title -->
+<section class="page-title-alt bg-primary position-relative">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h1 class="text-white font-tertiary">About Me</h1>
+      </div>
+    </div>
+  </div>
+  <!-- background shapes -->
+  <img src="images/illustrations/leaf-bg-top.png" alt="illustrations" class="bg-shape-1 w-100">
+  <img src="images/illustrations/dots-group-sm.png" alt="illustrations" class="bg-shape-2">
+  <img src="images/illustrations/leaf-yellow.png" alt="illustrations" class="bg-shape-3">
+  <img src="images/illustrations/leaf-orange.png" alt="illustrations" class="bg-shape-4">
+  <img src="images/illustrations/dots-group-cyan.png" alt="illustrations" class="bg-shape-5">
+  <img src="images/illustrations/leaf-cyan-lg.png" alt="illustrations" class="bg-shape-6">
+</section>
+<!-- /page title -->
+<!-- about -->
+<section class="section pt-5">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8">
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+          dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+          commodo consequat.</p>
+        <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+          Excepteur sint occaecat cupidatat non proident.</p>
+        <p>Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+          architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.</p>
+      </div>
+      <div class="col-md-4 text-center drag-lg-top">
+        <div class="shadow-down mb-4">
+          <img src="images/about/author.jpg" alt="author" class="img-fluid w-100 rounded-lg border-thick border-white">
+        </div>
+        <img src="images/about/signature.png" alt="signature" class="img-fluid">
+        <h4>Johnathan Smith</h4>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /about -->
+<!-- Work Process -->
+<section class="section">
+  <div class="container">
+    <div class="row justify-content-around">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-title">Work Process</h2>
+      </div>
+      <div class="col-lg-3 col-md-4 text-center hover-shadow pt-3">
+        <div class="">
+          <img src="images/icons/plan.png" class="mb-4" alt="icon">
+          <h4 class="mb-4">Research and Plan</h4>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+            dolore magna aliqua.</p>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-4 text-center hover-shadow pt-3">
+        <img src="images/icons/design.png" class="mb-4" alt="icon">
+        <h4 class="mb-4">Design and Develop</h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+          dolore magna aliqua.</p>
+      </div>
+      <div class="col-lg-3 col-md-4 text-center hover-shadow pt-3">
+        <img src="images/icons/print.png" class="mb-4" alt="icon">
+        <h4 class="mb-4">Deliver</h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+          dolore magna aliqua.</p>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- ./Work Process -->
+<!-- team -->
+<section class="section bg-cover" data-background="images/backgrounds/team-bg.png">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h2 class="section-title">My Team</h2>
+      </div>
+      <div class="col-md-4 col-sm-6 mb-4 mb-md-0">
+        <div class="card text-center">
+          <img src="images/team/member-1.png" class="card-img-top">
+          <div class="card-body">
+            <h4 class="card-title">Jack Schenziwe</h4>
+            <p class="text-light font-secondary">Project Manager</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4 col-sm-6 mb-4 mb-md-0">
+        <div class="card text-center">
+          <img src="images/team/member-2.png" class="card-img-top">
+          <div class="card-body">
+            <h4 class="card-title">Jack Schenziwe</h4>
+            <p class="text-light font-secondary">Project Manager</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4 col-sm-6 mb-4 mb-md-0">
+        <div class="card text-center">
+          <img src="images/team/member-3.png" class="card-img-top">
+          <div class="card-body">
+            <h4 class="card-title">Jack Schenziwe</h4>
+            <p class="text-light font-secondary">Project Manager</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /team -->
+<!-- clients -->
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h2 class="section-title">My Clients</h2>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12">
+        <div class="client-logo-slider d-flex align-items-center">
+          <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+              src="images/clients-logo/client-logo-1.png" alt="client-logo"></a>
+          <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+              src="images/clients-logo/client-logo-2.png" alt="client-logo"></a>
+          <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+              src="images/clients-logo/client-logo-3.png" alt="client-logo"></a>
+          <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+              src="images/clients-logo/client-logo-4.png" alt="client-logo"></a>
+          <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+              src="images/clients-logo/client-logo-5.png" alt="client-logo"></a>
+          <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+              src="images/clients-logo/client-logo-1.png" alt="client-logo"></a>
+          <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+              src="images/clients-logo/client-logo-2.png" alt="client-logo"></a>
+          <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+              src="images/clients-logo/client-logo-3.png" alt="client-logo"></a>
+          <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+              src="images/clients-logo/client-logo-4.png" alt="client-logo"></a>
+          <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+              src="images/clients-logo/client-logo-5.png" alt="client-logo"></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /clients -->
+<!-- contact -->
+<section class="section section-on-footer" data-background="images/backgrounds/bg-dots.png">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h2 class="section-title">Contact Info</h2>
+      </div>
+      <div class="col-lg-8 mx-auto">
+        <div class="bg-white rounded text-center p-5 shadow-down">
+          <h4 class="mb-80">Contact Form</h4>
+          <form action="#" class="row">
+            <div class="col-md-6">
+              <input type="text" id="name" name="name" placeholder="Full Name" class="form-control px-0 mb-4">
+            </div>
+            <div class="col-md-6">
+              <input type="email" id="email" name="email" placeholder="Email Address" class="form-control px-0 mb-4">
+            </div>
+            <div class="col-12">
+              <textarea name="message" id="message" class="form-control px-0 mb-4"
+                placeholder="Type Message Here"></textarea>
+            </div>
+            <div class="col-lg-6 col-10 mx-auto">
+              <button class="btn btn-primary w-100">send</button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /contact -->
+<!-- footer -->
+<footer class="bg-dark footer-section">
+  <div class="section">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4">
+          <h5 class="text-light">Email</h5>
+          <p class="text-white paragraph-lg font-secondary">steve.fruits@email.com</p>
+        </div>
+        <div class="col-md-4">
+          <h5 class="text-light">Phone</h5>
+          <p class="text-white paragraph-lg font-secondary">+880 2544 658 256</p>
+        </div>
+        <div class="col-md-4">
+          <h5 class="text-light">Address</h5>
+          <p class="text-white paragraph-lg font-secondary">125/A, CA Commercial Area, California, USA</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="border-top text-center border-dark py-5">
+    <p class="mb-0 text-light">Copyright 
+<script>
+        var CurrentYear = new Date().getFullYear()
+        document.write(CurrentYear)
+      </script> a theme by <a href="https://themefisher.com">themefisher.com</a></p>
+  </div>
+</footer>
+<!-- /footer -->
+<!-- jQuery -->
+<script src="plugins/jQuery/jquery.min.js"></script>
+<!-- Bootstrap JS -->
+<script src="plugins/bootstrap/bootstrap.min.js"></script>
+<!-- slick slider -->
+<script src="plugins/slick/slick.min.js"></script>
+<!-- filter -->
+<script src="plugins/shuffle/shuffle.min.js"></script>
+<!-- Main Script -->
+<script src="js/script.js"></script>
+</body>
+</html>
+GET /template/images/illustrations/leaf-bg-top.png HTTP/1.1
+Host: 192.168.1.9
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0
+Accept: image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://192.168.1.9/template/about.php
+HTTP/1.1 200 OK
+Date: Mon, 17 Jan 2022 15:52:21 GMT
+Server: Apache/2.4.52 (Unix)
+Last-Modified: Mon, 17 Jan 2022 15:18:12 GMT
+ETag: "4f2a-5d5c8a933f171"
+Accept-Ranges: bytes
+Content-Length: 20266
+Keep-Alive: timeout=5, max=99
+Connection: Keep-Alive
+Content-Type: image/png
+IHDR
+tEXtSoftware
+Adobe ImageReadyq
+&iTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmp:CreatorTool="Adobe Photoshop CC 2017 (Windows)" xmpMM:InstanceID="xmp.iid:BC88FB4159B311E99414E9131D53F0F4" xmpMM:DocumentID="xmp.did:BC88FB4259B311E99414E9131D53F0F4"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:BC88FB3F59B311E99414E9131D53F0F4" stRef:documentID="xmp.did:BC88FB4059B311E99414E9131D53F0F4"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>o
+IDATx
+*ED@QDD
+"rSd
+2O/3
+{#wF
+.z(rC
+qa8y
+Wo|*r
+U"y;
+E^Sf
+'?xxU
+Oi`UJ
+Q:+P
++_F-
+ZD5T
+*"oa
+|<[54X>
+`",R>P
+|>~o
+^yiU
+;rx*
+b rKyy[
+	sv*V}\
+l<gH
+Y9r{
+tG>g
+H^MrG
+\+=y5
+ sR1
+Y^vVo
+AH^M2tXroy
+T~>@]
+m-lH
+6(S#
+s#oM
+oO-/
+\<x@
+yP3k
+ SRq
+[#_S
+|,rh
+jJ*&
+zeR*
+MUA?
+';-2[
+ 0:y
+`TfGv./
+OvOd
+LU0Q
+@`|.
+_d	U
+g*Vy
+K#WD
+87rA
+ppd?U
+U	P%
+ rdr
+"[F6
+@u|[
+=67r@d
+]vq*
+Fifd
+!2%25
+sdCU
+]^*|b
+|<r\
+;#?P
+3>z!/C
+OtqQ
+[F.k
+<mwed
+@{}1
+`afD>
+:rAd]U
+";G~
+y\%@
+xidrd
+0^_L
+;rFd
+#'F>
+KdeU
+9,2I
+@?})r
+9"y>
+]"sU
+UpHd
+Sd95@
+WDVR
+K#?T
+1y$r
+&rnd
+F6,/s
+e~Z^
+h(K:
+YJMP
+o/5@
+_FNPC+
+PwWD
+%r@d
+7rhd
+$GF.R
+/5@{
+#'E>
+9<2C-
+PAkxLN
+#'DN
+{4rT*
+U{y?
+.y%"0z
+`B<P>x}S
+@WF>
+myvU
+wE*^
+3WE>
+FvNV}
+0`zdo5
+#rF*
+| 2[
+TB>+$
+9:yq
+D5TB
+AUTN~
+c/%t
+=#_I
+,rQdry
+EnVEm
+0U@m
+02WE
+0:?O^9M{
+dU@e
+* LO
+*`>fE
+1PGwGNQ
+Td?U@%
+#sTA
+F5PQ
+SrH0
+yYd}5
+}rS*
+`)U"
+tPZh
+`85/C?
+Xw_+
+F}nJ
+ezoi
+;0]i
+crki
+cNzOZe
+ ]sD
+NK3J
+IsMAE
+fizO:
+u{i?-w
+NNoJ
+tpzK:
+s~(}.
+6}%-
+J})m
+@?J;
+GZfR`H
+n?J[
+c(,)
+L2eV
+-O_K
+mY:1
+Pzei_
+yMzEzy
+IEND
+`J]GET /template/images/illustrations/dots-group-cyan.png HTTP/1.1
+Host: 192.168.1.9
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0
+Accept: image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://192.168.1.9/template/about.php
+HTTP/1.1 200 OK
+Date: Mon, 17 Jan 2022 15:52:21 GMT
+Server: Apache/2.4.52 (Unix)
+Last-Modified: Mon, 17 Jan 2022 15:18:12 GMT
+ETag: "500-5d5c8a933f171"
+Accept-Ranges: bytes
+Content-Length: 1280
+Keep-Alive: timeout=5, max=98
+Connection: Keep-Alive
+Content-Type: image/png
+IHDR
+tEXtSoftware
+Adobe ImageReadyq
+&iTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmp:CreatorTool="Adobe Photoshop CC 2017 (Windows)" xmpMM:InstanceID="xmp.iid:D73F9B4959BB11E99FB59FD25B7D9D06" xmpMM:DocumentID="xmp.did:D73F9B4A59BB11E99FB59FD25B7D9D06"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:D73F9B4759BB11E99FB59FD25B7D9D06" stRef:documentID="xmp.did:D73F9B4859BB11E99FB59FD25B7D9D06"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>
+pIDATx
+7E>s
+s}:yn
+2[{h
+B5q]f
+(D!j
+0A&-L
+0A&-L
+PWQW
+UA&uU
+IEND
+`JbGET /template/images/illustrations/leaf-cyan-lg.png HTTP/1.1
+Host: 192.168.1.9
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0
+Accept: image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://192.168.1.9/template/about.php
+HTTP/1.1 200 OK
+Date: Mon, 17 Jan 2022 15:52:21 GMT
+Server: Apache/2.4.52 (Unix)
+Last-Modified: Mon, 17 Jan 2022 15:18:12 GMT
+ETag: "3a45-5d5c8a933f171"
+Accept-Ranges: bytes
+Content-Length: 14917
+Keep-Alive: timeout=5, max=97
+Connection: Keep-Alive
+Content-Type: image/png
+IHDR
+tEXtSoftware
+Adobe ImageReadyq
+&iTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmp:CreatorTool="Adobe Photoshop CC 2017 (Windows)" xmpMM:InstanceID="xmp.iid:13171F6359C611E981649F1F316C076E" xmpMM:DocumentID="xmp.did:13171F6459C611E981649F1F316C076E"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:13171F6159C611E981649F1F316C076E" stRef:documentID="xmp.did:13171F6259C611E981649F1F316C076E"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>E
+IDATx
+f1/f
+qWWD]
+193s
+}ccn
+l"*1
+W[_mv
+-D=n_
+}+o)
+s7J&*
+io*k
+g5hk,kyN0{6
+B}r_
+a)JC
+PIK{
+3ss4
+7E{GuDT
+[1<ej[x\`
+:.[_
+]##Nu
+u47G
+'/Nq@
+/hY(
+UH3_k
+=P]h
+U7Gu
+rXgg
+t5cQ
+mp~>
+5nw{
+:O3l
+P'+UV
+k}H0JL
+s~Sz
+hBPb
+U<RE
+s{`[[h
+~Ywv
+.4{%+
+Dtxr
+tSxY~
+ ^{,
+iXwfA6
+s{Yu
+4OGI+iY
+R%<h$
+aIc.(
+f"CX72
+Q(^!
+7r,n5
+8qjV
+A7?}v
+fdUUP W{l{V
+cSG'
+V56-
+VAHU
+,1CS
+7j6l
+4N	F
+e<Ry
+E3t(
+u+cw
+aA	iG
+Gtw{
+$@Ht
+GJh7B
+&o,)($
+@@+a
+*cu8am
+1hBM1
+:R5dXn
+`djj
+P	GJ<
+sMv)
+_B8h#[
+0jvN)?
+H{`RM&
+C5cPc
+~=)k
+P:J2R
+#Tp%
+,EsTO
+,7;I
+L4<P@@
+LNzb:V
+&+Xav
+;/B^
+ng9@p
+BaYeG
+hS17%
+-vDJ
+hqhV
++S"S
+=605h
+	j~~XW
+-ki*
+fpv~
+oH<%
+'.@1(
++#	Mu
+sH:[
+*~dv
+-|Pe
+ZMD%
+:6Po
+?0{B
+G/p4
+G@c&
+~j);
+T}]JR
+Q+@%
+@P=Q-"
+y/UGz
+=U%+
+^j^Tu
+}WuYjH
+wgss
+OgdMA
+(DAD5
+f]66z
+F;\h"
+=r`[[
+DrX87E[
+kop~
+mA@!
+Af?3{4
+}@{S
+749y
+s}fiF{
+A@!2
+J(L'
+CD!F
+4]Bz
+h"yG
+awwk2
+6Ue0
+(DZH
+>gj p
+y>fv:
+Rs5g
++}[S
+r~65
+U^We~h
+8T7=;
+jPAgs
+\s"q
+:?|^
+,-d+T 
+(1P7^*aS
+r~hw
+eFKD
+	j?u~
+WhfY
+.0{F
+%]d5
+erS 
+ osxj
+YoO3?
+L(g+
+7pFB9
+&&=&
+CUVU
+zQk4
+iPDIqYE8
+PSOU
+" '9
+W3uO*&
+e]{{
+;Kv)
+WSD5
+V[D5
+If_+
+D'ff
+}+=orf
+f/C@
+2;?_iV
+kCOC@
+e;|y
+x/Tu+
+g,|\iD
+3fW-|P%-
+B/t|e
+n;|}zvv
+><<1??
+IEND
+`JgGET /template/images/about/author.jpg HTTP/1.1
+Host: 192.168.1.9
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0
+Accept: image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://192.168.1.9/template/about.php
+HTTP/1.1 200 OK
+Date: Mon, 17 Jan 2022 15:52:21 GMT
+Server: Apache/2.4.52 (Unix)
+Last-Modified: Mon, 17 Jan 2022 15:18:12 GMT
+ETag: "3192-5d5c8a933e46a"
+Accept-Ranges: bytes
+Content-Length: 12690
+Keep-Alive: timeout=5, max=96
+Connection: Keep-Alive
+Content-Type: image/jpeg
+JFIF
+Exif
+Ducky
+/http://ns.adobe.com/xap/1.0/
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmp:CreatorTool="Adobe Photoshop CC 2017 (Windows)" xmpMM:InstanceID="xmp.iid:469669A659B711E9B4CBDA9C140A08DA" xmpMM:DocumentID="xmp.did:469669A759B711E9B4CBDA9C140A08DA"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:469669A459B711E9B4CBDA9C140A08DA" stRef:documentID="xmp.did:469669A559B711E9B4CBDA9C140A08DA"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>
+ $.' ",#
+(7),01444
+'9=82<.342
+!22222222222222222222222222222222222222222222222222
+AD`#
+iW>K1{3*
+CE@8F(
+jVlcX
+.SaI
+Rhzi
+Zp-M
+9,UW
+GHZHc
+1z-U-
+cd*	.
+EoB9i
+5v=1
+E?bz
+Y,z"
+CqF&
+6jF->
++.Yj
+%N#&
+z#H_
+b0!cX
+:G*6&
+{5*q
+c=3s
+X\tb
+5itZ
+Dr(n
+m%YTl]YF
+)"	vX
+EyvX
+KsF*:
+3]$P
+J&kQZh
+65+"
+|{$+.
+t8f6g
+Q"BE
+#q-8
+,jVu
+vak*
+lflo*6
+Qb%s
+u^Ii3
+I"6=
+AC@ 
+~>/E
+h4?A
+t;@3B1
+nb_e
+Afsk
+N{*~
+eYvY
+T.#\tXq!
+:Lc*R}
+NO7-
+Y&;rh
+B4*z6
+2Dl|
+O@laY
+r511
+k^y?F>
+ItlN	.
+(pEd
+E{xD
+"FE"
+v~3i
+Z15.
+_GK\
+;+07
+_Ek14
+$= H
+SQ;Jb
+onG9z
+k9uXm4
+)[B5
+Y"6i
+2Lsdrb%
+["gS
+k,Y"
+FZ2L
+Iru~6
+["|3#&
+LhkC
+d(|Y*
+#Hlc6:c
+F)v(
+dgzAm
+?eKm
++(d4Yv!P
+RmpP
+?%{<q
+-4dU
+b9I}
+.GYn
+G+Nr
+ fZ2C
+j`xiM
+RKp:|_
+)ZzG1
+61z<z
+Olkb{	
+$IbG
+/${<zzN
+y~-I?
+\l-u
+K+6)
+I"]i
+$b:0%
+7p<d
+NZF^l
+bVVD
+)#+/
+'/Vu
+H|Q@
+C"&I"&n2@
+pjFz
+Q4dk
+naGz5
+ZDmjl
+-=yM]
+A=rt
+jIry
+u9+i
+IaY,*,B
+draQ
+QQn#<7
+q;<<5\
+$eqXI
+e{G7N
+kF-o
+'M|K
+^!G_
+"A$ J
+$w$u
+f&v*
+sY8mI
+X7)Er^i4r
+:JmS
+E&K"
+H@@9"
+?zDS
+Z'ODP
+sfU"d
+X+rGS
+']e~
+f~8L
+]T~Q!
+6C&X
++ZEK
+=#/&}
+lz:Z8
+fl2w
+Tddb)'
+<w	.
+JV&V
+qFr"ob
+6C&t
+`iaCm
+Rs{.N
+g_S[
+;b9n
+D2GX
+E6T_
+ s S
+O@h&)V7hw
+;g=y
+.jj3,
+"Jd{
+JzDP|
+G+tF
+2~(Z
+8TRcElD
+CT	aV
+;8"`
+Q4I"
+`JhGET /template/images/about/signature.png HTTP/1.1
+Host: 192.168.1.9
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0
+Accept: image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://192.168.1.9/template/about.php
+HTTP/1.1 200 OK
+Date: Mon, 17 Jan 2022 15:52:21 GMT
+Server: Apache/2.4.52 (Unix)
+Last-Modified: Mon, 17 Jan 2022 15:18:12 GMT
+ETag: "151c-5d5c8a933e46a"
+Accept-Ranges: bytes
+Content-Length: 5404
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: image/png
+IHDR
+tEXtSoftware
+Adobe ImageReadyq
+&iTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmp:CreatorTool="Adobe Photoshop CC 2017 (Windows)" xmpMM:InstanceID="xmp.iid:D5ABC96C59B711E9A30D946618DEB8BA" xmpMM:DocumentID="xmp.did:D5ABC96D59B711E9A30D946618DEB8BA"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:D5ABC96A59B711E9A30D946618DEB8BA" stRef:documentID="xmp.did:D5ABC96B59B711E9A30D946618DEB8BA"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>
+IDATx
++nW\
+S[$3
+@#|T
+b%?f:4
+Li8#
+Kp.BX
+A>^o
+psH:
+>1XL
+cmzaU
+9JD(z
+~+F#
+Z-VR#
+N:TH
+:`?V
+SB 5
+x(Un_
+GO|}
+#(AK
+%qlu
+e8cS]
+DL%|
+ebD9N
+Sa)y
+aJ |%[n
+nb-[?
+aNz#
+Eprf
+,v&	
+R#m^|
+RH]g;
+jN d-we_ .
+D>p*/
+H^K5
+3lWC	
+4I~k
+ITcUbW
+]8!4XG2
+k)YK(
+20((G
+;f}3
+Ni[BS
+fI\6i
+AmZ<
+U$+.
+X``a(U
+)]?w
+N/3<
+DJ6Q
+!bo 
+N3}%
+}\NW
+PX2]
+-h5Cc
+IEND
+`JiGET /template/images/icons/plan.png HTTP/1.1
+Host: 192.168.1.9
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0
+Accept: image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://192.168.1.9/template/about.php
+HTTP/1.1 200 OK
+Date: Mon, 17 Jan 2022 15:52:21 GMT
+Server: Apache/2.4.52 (Unix)
+Last-Modified: Mon, 17 Jan 2022 15:18:12 GMT
+ETag: "a58-5d5c8a933f171"
+Accept-Ranges: bytes
+Content-Length: 2648
+Keep-Alive: timeout=5, max=95
+Connection: Keep-Alive
+Content-Type: image/png
+IHDR
+tEXtSoftware
+Adobe ImageReadyq
+&iTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmp:CreatorTool="Adobe Photoshop CC 2017 (Windows)" xmpMM:InstanceID="xmp.iid:0124A60759C111E9AEEFEACD835B5D74" xmpMM:DocumentID="xmp.did:0124A60859C111E9AEEFEACD835B5D74"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:0124A60559C111E9AEEFEACD835B5D74" stRef:documentID="xmp.did:0124A60659C111E9AEEFEACD835B5D74"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>H{
+IDATx
+-P*P(
+HA b
+L@& 
+m`%'
+$T9j
+0/f#9X
+d8/zP
+uSD@u
+h$=YM~`
+xd@4c
+']LM
+PUHW;
+}sH9
+}j@q
+qFAV
+kPW+!
+y`G/
+joJi
+^-Ng
+IEND
+`JnGET /template/images/icons/design.png HTTP/1.1
+Host: 192.168.1.9
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0
+Accept: image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://192.168.1.9/template/about.php
+HTTP/1.1 200 OK
+Date: Mon, 17 Jan 2022 15:52:21 GMT
+Server: Apache/2.4.52 (Unix)
+Last-Modified: Mon, 17 Jan 2022 15:18:12 GMT
+ETag: "a93-5d5c8a933f171"
+Accept-Ranges: bytes
+Content-Length: 2707
+Keep-Alive: timeout=5, max=94
+Connection: Keep-Alive
+Content-Type: image/png
+IHDR
+tEXtSoftware
+Adobe ImageReadyq
+&iTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmp:CreatorTool="Adobe Photoshop CC 2017 (Windows)" xmpMM:InstanceID="xmp.iid:1600000259C111E990AF94092608370B" xmpMM:DocumentID="xmp.did:1600000359C111E990AF94092608370B"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:1600000059C111E990AF94092608370B" stRef:documentID="xmp.did:1600000159C111E990AF94092608370B"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>
+IDATx
+f_[hi
+QTH4
+"A0T@
+J2irB
+WQIy
+u56R
+W}O4c
+.xwk
+rO?e
+4aE&
+0vrw
+GMX[0
+wSIYq
+~^+B=
+c$@H
+hZ@t
+}"S&
+#}`G
+v);L
+p_$8
+2Ip	
+s%239)D
+l(\l>
+MMTj
+jtw0
+ds q
+ZU#%c
+_iBf
+vO/)
+IEND
+`JpGET /template/images/icons/print.png HTTP/1.1
+Host: 192.168.1.9
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0
+Accept: image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://192.168.1.9/template/about.php
+HTTP/1.1 200 OK
+Date: Mon, 17 Jan 2022 15:52:21 GMT
+Server: Apache/2.4.52 (Unix)
+Last-Modified: Mon, 17 Jan 2022 15:18:12 GMT
+ETag: "94d-5d5c8a933f171"
+Accept-Ranges: bytes
+Content-Length: 2381
+Keep-Alive: timeout=5, max=93
+Connection: Keep-Alive
+Content-Type: image/png
+IHDR
+tEXtSoftware
+Adobe ImageReadyq
+&iTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmp:CreatorTool="Adobe Photoshop CC 2017 (Windows)" xmpMM:InstanceID="xmp.iid:2663D0C759C111E9BABAF5FC7947CE0F" xmpMM:DocumentID="xmp.did:2663D0C859C111E9BABAF5FC7947CE0F"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:2663D0C559C111E9BABAF5FC7947CE0F" stRef:documentID="xmp.did:2663D0C659C111E9BABAF5FC7947CE0F"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>
+IDATx
+Z{PTU
+NESNX
+E5#e
+SZF6eC
+AK!>
+k3@Y
+G`.Pg
+iRkn&
+yRr6X
+<URd
+R^oY
+X1r&
+*y/T
+oi1q
++po?
+^|On'v
+?rV1
+Md(\
+/{;p
+))xZ
+FXhV
+OxLt
+K7<7Q
+6|D_
+IEND
+`JrGET /template/images/team/member-1.png HTTP/1.1
+Host: 192.168.1.9
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0
+Accept: image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://192.168.1.9/template/about.php
+HTTP/1.1 200 OK
+Date: Mon, 17 Jan 2022 15:52:21 GMT
+Server: Apache/2.4.52 (Unix)
+Last-Modified: Mon, 17 Jan 2022 15:18:12 GMT
+ETag: "28110-5d5c8a933f171"
+Accept-Ranges: bytes
+Content-Length: 164112
+Keep-Alive: timeout=5, max=92
+Connection: Keep-Alive
+Content-Type: image/png
+IHDR
+tEXtSoftware
+Adobe ImageReadyq
+&iTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmp:CreatorTool="Adobe Photoshop CC 2017 (Windows)" xmpMM:InstanceID="xmp.iid:B71BC97E59BF11E9B1DC8BC9D0D9F17C" xmpMM:DocumentID="xmp.did:B71BC97F59BF11E9B1DC8BC9D0D9F17C"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:B71BC97C59BF11E9B1DC8BC9D0D9F17C" stRef:documentID="xmp.did:B71BC97D59BF11E9B1DC8BC9D0D9F17C"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>
+IDATx
+"iQ"`
+{_VVuVUVUfUVueONm
+cUc5
+9z>d
+(~<Jp4v
+xGy>
+WV9(
+>vct{
+#N!y
++vL_<[v
+)%'a
+N)8I
+X'$X
+;K#<
+>f}	
+56tFn`KC
+?.V<*
+kkX__
+/\C6
+-DZ24
+<T+U5
+#&o1
+0sa.
+mcuu
+jUfI S~
+{W"	
+wbff
+`fNL
+E<|tW
+	 i`
+2,	bvh2`9
+nwA7i
+Nc9*
+Fq^{
+gPwl
+!<Jy
+_RTS
+ ,o/
+{,m9
+xer1
++9-0
+%&mF
+(fsY
+M4*e
+20r%e
+D,6E
+VWtn.
+ZQw#
+L9@^
+p!QL
+Nb	;e|
+jyO2>\
+[YYA
+Iavj
+H;Y<
+fr90
+d1K7C
+1O,{z
+D h"G_Y
+kN[.
+i,\H
+hYja	%C
+kedLG
+O`jI
+Z-<XY
+HzYG
+.^Fiz
+133#
+	hba
+=^ns.;
+Ud'\
+""a,
+ m(2
+H2e,L
+\ZDD
+O7w?c
+>hBx
+dUa&
+~ 3,
+/"7UB
+$F^"
+Ecq97
+ULLMbmu
+=nd"i
+v	|~
+P2yb3
+H@Je4
+@;=)
+C@|*
+W{GYC
+-C 3K
+LAXcd
+rC88O
+'z~g(l9
+:"K7
+bQV&l
+D.sY
+r9>K*
+!:z,
+[x;,
+4KKK
+HeV.
+cn-^
+N"'u
+V`}m
+Q,h9F
+Q@5i
+- o[
+JF1ta
+=| fU
+5{z=
+tE9^
+vli?
+i!du
+7%Y3
+I0P:
+Dy{l
+xj+x7
+EIjj
+7Vhr1DN2
+AyS9
+.Jc0
+H.5,c
+x"ij
+_z,9
+Y?]~
+jeCd`[
+VAVK
+|][Y
+Z:Ph
+S	'KE
+NyU3pd
+^F4k
+X}dtt
+*Hie`
+1[0	
+f7@n
+S*;-
+N%qyu
+df&v
+ev[7l
+YCfO
+J;Vz
+VH Nc2
+s.rH
+`p Y:
+.?bE
+pSDv
+_	Jv$
+r2Y	PZ
+J^Ti
+@'P.+\
+C0R`
+j2Qq_P
+yn| }49kD
+XU}	
+X{.W
+t:#K{F
+,B5S
+4yGe
+s@S&.K
+9kC*
+W5Tf
+L&#E=
+JJ4m6y
+6DFq=
++k[#NZ
+r~m)
+ll~=.
+}iuT
+LwR;
+*}MR
+uW{a
+Ktn's
+L]v.^ 
+Z3g9
+eh?t
+<jrr
+"Vji
+X8'[
+Ko6`
+d+Z2
+MGM*
+{EfJe
+~,i:.
+AHvc
+d+Z>
+zGgt0(
+:}0V
+JK4yb"
+cI?M
+ddkU
+M"s$
+X(bqq
+VkX[_
+Nodf
+E\8w
+T5O(
+Xz`f
+	`rv
+viRK
+|~RiG
+9c%%f
+S6#+
+|L:GmYa
+;Lg\
+^^^Q
+Lc[<w
+f]o<Z	
++U@f"
+~(@=?1
+a),d
+%cbm
+}?xp
+ 0F;
+H,=f
+th{Y
+jY#&VM`[
+HM	P>i
+x?f=
+~[*0g
+;8?W
+B~2F!
+K?jI
+mbq~
+@|umC\
+e2i4
+'%Kg
+r)yQ+
+8_(`2
+>ZBKz
+	>|t
+VP[]
+I)+L
+1X, 
+W^A\
+|AU[
+jKJj
+r94W6P#6j
+"S5,
+\	H.
+=Y]C@
+LiBr
+WffQ
+w2'tjR
+81EwZ
+oI+$
+P*!s
+\_YE
+1,T9
+5Z1|
+C\C&
+`."a
+)Kznr`
+vH`K
+=M8v
+Nb	k
+71d6
+W0?]
+dRYdrY
+x	7W
+x1M~
+	(C1s
+YCzo
+X^^&
+nL.BJJ
+yp\6
+AcMI?N_VC
+;Wdreb
+Tj"W
++/cfn
+Q:7G
+sG4.U
+UWzN
+,\:O+
+t():
+8eHC
+mk_NK
+Bqzu
+QPWM
+frY|
+	1c^-
+,LOaav
+s{9N
+2fuq:
+03K`
+\xu@@
+"&^t2
+6U:g
+qG )
+\7$9l
+7-e*
+X5+f
+iZmp
+\sCy
+2i)N
+gKT) r
+Ml$y
+l413
+`I$fS,
+|Rh<i:
+`zHYe
+Osy48(I
+Q3@.pE
+x9i9&=$
+n=6Iq_
+QZ=)
+{#_m
+VHPL5+
+<y>V
+&M~7
+X<	ll
+Ejoe
+yf<Ms
+,V4u
+Dmpb
+E9wWWH
+I35-
+h%Xx
+sd{L
+:b4+
+`3'>
+GuEv
+-r25u0
+%-io
+v88P
+cD;{
+la0G]<
+4W\)Y:
+:;@,'w
+@YzC
+B\]@J
+\Y\B
+0% %r
+Q,k^
+_Ab8
+\]6R
+9l+c
+%W3f^<5g
+W>Qrw
+34ti~hS
+^f|X9
+Ux{?
+c,_^
+\A\.i
+NI]u
+]OM1
+5;T\
+saNs
+^om`
+`2D2
+OIPYEZ,#e[_
+@Xg,
+Va*A+
+@g^9s
+RHTp
+`K'"Mm34
+qLU]$
+X8tTRu
+V.}K05g
+DjQnt
+:D2G
+t"?PS
+JQpD
+{{(Ph
+S9z<
+>_o`
+CA)vZ0
+d8D6
+.{(P
+j	Sa
+*B~63
+K^>]I 
+cNGZ0
+/\xIXj	;
+PTk45:
+VY>Fo
+1zcv
+s.f{
+#8vyc
+}li 
+sHLWG
+Qn-P<mF
+f*bez
+l3L|
+,	0U
+*Xn4Q
+]:}\
+nOV(;
+:		s6
+l4$0
+ZCV)
+>vvwQ
+p[E8pu
+Hr(Ak
+MbRx:
+r<%a
+Nei	
+  xm
+_K[+w:{
+}te[1
+ew$ 
+ZXFn
+|*3e
+c @8q
+TF>M
+-`(+
+`+$!x8
+o<W'J
+d2EH
+HA<g
+AWS@cN%!
+.Hj~
+ R/D
+_I`k
+g;_f
+@b:"
+E]]A0
+v0Z:
+[r(:
+rK8[k	
+*JPn
+s<~o
+$.]z
+0_YY
+^Wk6
+Ys6x
+g98w
+5P^X
+ociu
+-c{0
+O"U+4,GW
+Mc<J
+S(_8
+ZL;6
+yk!%_
+~Yer
+8>{~
+;hFQ
+[HmH
+;;8=W
+ES5=
+3K@4
+ZmVp}
+bQS5
+e[%	
+wv)Y
+Do8Fci
+A%?v
+p$^'3
+oAvT
+[0[e
+eYI4
+C	NUc
+..\x
+1lG[
+]	8E
+4ES+
+?u`K
+SIq$+
+Q-y8S
+`x^~,
+$LU\
+5Or{
+U=n:
+\O	r
+/:t#
+Qip:D
+Mqu2
+2Keg
+4v.:.
+,NR&6
+zGF:5
+D@(	
+](*k
+0i`,
+"B?Q
+1cNF
+TJpke\
+DeB^C
+jo8R
+T{8~
+!c3r
+;{]@[m
+;Er0
+vP^l
+s/NNR&L
+^zjx
+NX(c[
+B#LQ
+z l{8
+@_Xw
+i0AM
+F~m#
+4;%R
+{h	 
+FU;jR
+`<FQ
+?;*y
+?z||s
+	L	V
+*(1G=
+4MHS
+#]O;n8
+:DCd
+fK;Oh"
+eY)d
+D%Czz
+q)b>
+7nc_
+vHgmmV
+a24cm
+lYhe7
+W>|_>
+e[`$
+#mw0
++{Z/`
+W5W09
+;hkg
+/_X9o
+=-jN
+)*MOey@
+0Bw&
+b	Hcy
+`a A
+P`/=sGf
+veE`
+Y7rx
+cM,5
+(W.]
+rn4L
+^@U-
+.,#/
+E*rJ'
+'{rM|
+-L~s
+^Ly%
+x``=
+3wDs
+,,|mk
+tG(R
+f15u
+j9$~
+^G1vw
+BPtj
+!4]ub2
+?z<yr}
+&X*T
+l-:s
+%0pT
+Td^~
+ql!N
+$V<^dk
+f 25t
+NQ*}
+KomAF
+Clp7
+${@}
+@Fu_
+2	;l
+rD"s
+6}8^
+mB^e
+K,|+%@
+@u_f
+vdjj
+T;(m
+=7\/#
+q36g]
+x/|3Y
+Z;rfNV
+VTQ07
+l	j0
+u~uM
+=16,
+MgP%
+erJ;
+>rMA
+52*Mq
+Yw42L
+	#eI
+,4Ki
+Dl<?
+VZ	]
+|K]S
+'5b{64Q(
+!PsZ
+-]zj
+\+ok
+sy,]F+
+~eEf
+l5.*e
+9FA-
+sjjB2
+^)>B
+]'7<K
+p 0:;
+pZT+
+}~.9
+PZ5v
+]z02
+2}?~_c
+h(IaxG
+XIXv
+i1(d
+Runx
+R:qO
+^j4|
+q6P4
+jQn5
+kuY:~R
+JU.l'})
+Q.~ U
+OfS"
+#ag)SA
+WRmQ
++M{>#
+zo(;p
+QsdK
+rVfd
+#q)s;
+ia3%
+%484<0n=
+*S-)
+a\KtX
+27s>mT
+deeE
+$:O,Jg
+(x;%g
+#-l-
+j@DG
+"ciX0#u
+ZQ+>
+.DRo
+9xO#
+;|y-Bf	kJS[
+ue}rJ
+fdCt:
+IA0Tf
+uL2N9n
+6zVX
+F{$Y
+5_Dl
+.^22h
+1FL	
+:164TJ
+by%}
+N[:@
+j27\
+08jp=
+gvZ=7zRf
+x1z73n 
+"ra:
+1\i.]
+NE~#
+QkZV
+PY.K
+/cS6
+"obc
+eQd*
+8_Z.
+-YLx?
+sC	5
+El:&Drs
+>dmD.
+sa`j
+&N7kI
+t$g=6"
+v9Mj
+N0")
+R{]-"
+j|Pd
+]1tm!
+ZU(r
+q(oa
+6u%$*
+{3_n
+khm:
+<OWg
+Wx)P
+)wdL`
+5bO\
+F>zcs
+S6dj
+t	;b
+Jii|d%~U
+w_pQ
+	#}obIj
+<2{o<
+chuc
+@Z9~FJ$
+)D~a
+DgsU
+rm9!
+RJ#[;
+)?U(\
+<Gj`
+d$k.
+&f-o
+bzjx
+j;S)
+b3t<
+p{9U
+Eh|O
+LE1_
+tMzc
+Z	J*b
+"w6k
+3 %j
+'>&?
+m/Mdf
+iPRU
+K;CR#=
+Tmwr
+2DNm;"5
+.KK+2
+]o7yJ
+1lI/
+ VVz
+s"M}
+N6dQ
+NY3i>
+p=k>
+(N\m
+9*7 
+Xo$u
+(EKE
+L07H
+pS*#k
+pB"8
+O#*\
+euo;
+ x+L
+id@}
+n~F4
+XTS5+
+pgG9
+;BNt
+zR~`
+PoUz
+<K+%
+xu; 
+soqd
+Yvar^
+haStj%
+NWz@]1
+JLJ!69
+8M4[
+QMCX"G_
+;4Et;K
+)2lc
+!o[+
+D:x6
+A![s2R
+b+u:
+/`/0/pPo
+LNLi>=
+IQ*"LG
+a49kMih
+<h8"
+i&*TQ
+De[3
+dA)Z_
+x K%
+aaBk
+](}1
+&9Cw
+	FD1G
+g~Q>
+?x?(
+0d!'
+nfIX0
+ry|y]
+emmM
+qeC'
+da(s
+ttRB
+\A-s
+Dq):
+H`dE
+g1:(
+rl~^
+.7 :
+T;dd
+ulZ.~N
+4I&A
+Vunr
+G07n
+Gadn
+s~"g{=e
+'?,Ihz
+5Y8\Y\
+zNFf67]
+xV^@5=
+cw3g
+Z`t5*
+vPr@4
+8fX1s
+}H#@i
+-(1.3
+"CDq
+q#*Jr
+M}P@
+B&&et
+`);fPHq
+vmo&u\
+@wC,JN
+c4dJ[
+3WQg
+tI3d=#
+'?"{
+*XXQq"
+Fc)\
+W/MZ$
+>.`H#
+~	Qm
+*[v_
+ZdI<r
+1]=d
+@:,~
+p~&	
+8/)l
+++y&
+YH3Y
+r;@B
+ktLr
+F(O=
+=|Djp
+E9< T
+.G;+
+yW~Pj
+pHw<
+S2PVI
+go[}F
+LZeemEblJ
+wNGr
+.*L#I
+tHac
+ZkF2
+sc>~
+6dq6)
+gp2'`
+'fF&
+sDil{]
+%N5C
+Uub^
+q"/0
+{8|`
+2D_Q&+y*
+V<o\
+1J)h
+rfeM
+ninA
+l@6}P
+Pj6<
+`('s 
+eB5,
+E*,w%or
+pVVNsi
+YB)(
+o&Tg
+Vi)W[7
+zLI5
+$IF{86
+I@u@-
+u']z
+N Tw
+CHqc
+8jCw
+z+C ]*
+J+Z4$:'
+yr!G
+EKj:
+y]F)?G
+s^:q
+l:IG
+=%bHqX
+8,8p
+iqvN
+^549@qO
+@BB0o
+JI*Uz
+z`6!
+vw@I
+a$"T
+FR%8
+{SgN
+e)?O'C
+yOTC
+U7\G
+h F:
+%L"E
+)T}_
+[I@>
+F++}
+1'MS
+}&A&
+~8ZOV
+TC{-
+&N~6
+2#Y5
+CYqM~
+TjU1{
+IJ&Y
+@4N*%~
+U%B.
+e*S/P(
+#a%8
+u']u
+S!C~!bye
+QSe!
+h;% 
+=Pc	
+:$u5
+3-]J
+fLkh
+kjdh
+Xz7g
+QkCTS
+]t[?
+T ?T
+e#i%
+t@Chv[
+rFe`
+58x7h
+Pt:T
+A_\:CY\
+p3qj
+!,Xq
+iWxuF!
+;#LT	
+-+1'
+Ivb^
+?Ps^c
+ii8-
+b?3J!k
+jH,.
+E*g!
+Uh4L8
+>L!_
+Wuh+#
+P]HH
+?t5%M
+A"~?
+e0QR
+s}p.
+"($`
+!,q$
+>wJ!
+}}+I
+823M
+YECX1WV
+JJ~H
+ T 1
+i~fF
+d(mP
+<?oY
++==g
+Uz)?Gg
+U?qk
+3MZr
+~X+&
+C!}K3
+XP.0
+1X$4
+$VZoB
+u1?I%
+F	w!
+,75B:Y
+3p7Ax
+c_LS
+g,+t
+0JL"
+N-mpH;
+i^kky
+\	9#Q
+6ju1k8
+qh($i
+ Oh=
+m0h|
+(TC6
+LDpwAE
+.vh5HE
++a'g
+9g.Sq
+<9Hm
+_AI~
+~..y
+z-i"
+O8C.
+Wyc<
+RGR3
+Ov,fhD
++qm<L
+a&t7
+,2W(
+Cy2N
+;hfa
+B'cH
+|-CN.
+SSV/Z
+FoR%A
+IEO\< 
+B)/U
+*(8:
+,[A@
+AMUhW
+<KU0
+GF]Z
+6"C_Z?K
+	PFJ
+vl0z@_Q
+y*P8T%
+89y?
+Gc i9
+3#z|x
+%@y`
+w+6Z5~
+5r{<
+qp/@dBC
+19\bI
+a1;Y
+[@LO
+]RC#.?
+tS4C
+8k	Pj
+9x=~>h
+gc0$
+0\q_
+71xO@
+nVk4
+'@)g
+Q!-AH
+X+hY
+t[|o
+I@YP
+tvc YK
+AIK$=i >
+AhyXJ
+sj.!
+QMZR
++mIv
+3Y*-
+zFd'
+2ck5DOu
+c/qV
+\xE2+
+Y^j+
+?R_G
+6E=@4M
+B9l-g
+]|;'
+5.CMm
+X\O?v
+"$[D@
+R65K;
+O$C%o
++eNo
+LU;M.S
+v33t
+iZ1)
+mSmjs
+@3oi
+Q;Uw4
+CC[z
+HL N
+w/5;sz
+7humD
+pe:So
+cQ,:6AvQB
+prdj
+eJE`
+S>DW
+EUd2$
+A;I)
+2,'\;
+|#m[
+Ei(A>
+4KLH
+M!*Cx:
+j6*".
+F2ps
+OH1`
+hl\!
+gUe[z
+,6IF
+RZHzt]0
+*";5
+o;^tC5
+T9{x
+RXks
+Kw#Y
+e#Zt|-
+Bd!{	
+WkCi
+Cv+,O
+Nr\]8
+3^n62
+0)|&
+lfEn
+gwcY
+SknJ
+?35*
+5S~(k
+^D'x=
+2$(!!
+p/9r
+o	GR
+,s0|
+G}Qf
+|$nG
+F3\1ER
+U.Sz
+r`i|j
+	/4R
+,.Hb
+|@0c>XwF-
+jh>p6Uxs]
+xUAP
+/q@h
+5|Q9
+t@!W
+NWiz~;
+e7^E?
+ +wt
+ZE6T
+^(A#
+.=1'
+ZiiKE 
+X	> 
+&u2|
+fd`6
+)W@O
+Id g
+3zjy
+tc 3
+-%k6
+r8sG[
+g%;8
+HQ 	.
+$E!%
+D(dM
+ojl>N->
+q Ol
+A`Q:j
+7<}n
+37	am
+Zucs
+/x;;
+#ioX
++olH
+vhNJ
+2n9K
+WT8|
+Z;$6
+J\ wPa)
+M_L`>[
+ZH=5Iq
+J1C@
+,z3~
+Z2k+
+}riw
+q}B<
+UB*t
+Da<fl>
+	q9k
+Gj:8
+`Gg"X
+9H"H
+7>55IS
+"(s 
+Conrq
+zh2`q
+3yG.
+8{AOWh
+(!1*F
+)&y!o
+,@D3
+2TT~@t
+S>Pf
+~9p;
+l@Uh9
+>7)R
+,D!r
+CRG{A
+90e&S%
+Wizj
+-@fy
+}WKr
+Y2XY
+'hfv/5
+yi3ha,}
+ULe9{
+Lu0*6[
+2h6`
+#kff
+N[kM
+-[hb
+X`U8
+~,iZ
+8n!:
+k)iT
+}mYe
+T/<(9
+FHVD
+QoE!
+j'$i1
+iIJF
+(:Tt
+5$Y{*
+:3zC
+VrK$
+TRM,:|
+Pmqe
+7k['
+XuZl
+oOH"^ l)G
+NW8P.S
+#EK 
+I%vZ
+Z*90C9[
+Qjbg^^GP/~
+d Z9
+32A)
+Dc*w
+rg^6^$
+CC5_
+&QQ](:
+q"p+e
+!(sFZ
+JEtV0D
+0bZY^
+?MG_
+Ktwlzll
+a+4P
+EVf;
+8@Vr!*#
+Z[Hz8p
+VD,k2
+NWt%z
+R-)s
+$IMP)d
+n%ol
+L#C1
+=<WG
+G?.jx
+Xq0D
+_asK
+4alp
+g?"E
+6j61+
+"?\1
+$}lom$
+$grN
+6WZ\u
+]A_o)"
+e^xdb
+5pFu&
+x/moqU
+OcOH
+4tPd
+DnNN
+o;q-
+Si}1
+}mjN
+t"=j
+QG6}
+x]okMQ3
+OR(%
+pRGK
+C%Cu@T
+L<6sc/
+Z./e
+P:$u
+e+D\
+=d>@;p
+gIN]~
+X"lXE
+50h7
+YU7F
+ Rj0
+]GkD
+g7==9C
+xQ51P
+FSwc
+c7\K
+D'^=B
+PQNM,
+Xh,\
+|\\"
+~VLS
+*/"s
+E<@al
+\-TaL
+ ZnR
+VF~L
+W"?6
+b@ x
+\H:-{
+}Wdl@
+HFmH?l
+A+%,
+jVm&Yc,
+*F%p
+'m}%
+Qp.;|=
+g"{AT
+`-'*
+15Zm
+%`eA
+@fhn
+YNv8
+0+Uy#
+1?B{2
+C,X{(
+&{Rbr
+N3"!
+e,Aq
+e8T	
+|	9Q
+\CJb
+g$ v\
+=nS;
+$#@`!7
+'c>[
+T0+c%{D&:
+',9g
+YW oR
+TkH+
+Ya5S
+ 8"e
+d0<z
+!N$m
+)i/^
+8|oG
+CEC^4S
+#)M;
+[U>$Z|
+.Cb1
+fD,tz
++uQ6
+Kwz#
+CtT"
+[>$f
+q$m%
+cO>E
+i{]&?b
+ybB_
+X*fx
+uj$U
+T%7%
+N:4F
+*PT9
+v0* 
+Zc|e
+f#y>
+?H;t
+*lRM
+Jr]5
+AD558_
+SnP8
+6aXs
+!F;	
+H4Mr	B@
+LSdIy
+Z./0
+Bq!w
+ ZI,"<
+(xf:
+6T@	
+HF^+
+w/-s
+~1:'
+`A:E
+5v=1
+?y+}
+> 0#
+~>Z&
+K64d
+-p%wGg
+*"C{
+ZvfV
+?de	
+/H9[
+A0SiN
+/27HWa
+bp5R
+e8+^'W
+)3_ge
+b^!C
+s oP
+2$9}
+6H%B
+6\6*
+@w'R
+K {D
+Xi"NZC>$
+)>]oQ
+:28m
+-r*3
+U\J2
+t% V
+Hh	iB
+E}P3Zi1
+D4n|n
+0+q/G
+y"ogj$
+\s=}
+CmEs
+kkW_E
+E.q7f|2
+m(T?^
+r)#g8
+lc	R
+S$*4
+E,xc
+	C1	
+29t9K
+{weE
+\yIKP
+|k2I;
+;BT<g
+bg^3
+sW:z
+nR[8
+Zr?ff
+B4Se
+33G/
+quN6sZ
+I09yQa~^'
+aQ_4
+2ZsH"r
+F_<W
+k03qr
+<x?g8=
+5(#(TF
+4+&4
+;I#>d
+6	$IQZB
+".S9H$p%
+3yW7
+7NLP
+x.w^
+Q%L#
+}17l,
+s;?V
+r$bm
+>Qv`n
+=As334
+ftQ1
+ddlK
+0Zyt
+4 c4VDgiR
+BmCH
+@oO!3ha8
+Eb6R
+jkJH
+iCLWgi
+ifjB
+,2z>
+a<=L
+xtf*
+_{09:
+k^$I
+'353
+(R\Ds
+)LOM
+t*Nv
+%2Ner
+NL($
+B=	:
+PuL][9
+LavH
+9V<#
+Tjy/
+6po"
+"MX'
+Obt|L
+7=	F
+UW+U--
+*"YZ
++]Ysr
+;Ocf
+uQ-6p
+HVpd
+J5tR
+oQ->
+mT+:P
+`&@E)6
+=5CrZ
+8 [k
+#o6'9
+/;Ml
+ThS7"F0
+M8r]i	
+qq`#
+N\CQ
+Vrvc|
+)t%"
+jz]_K
+,F|E
+"LOOb
+Pxh(
+a70I
+Q#vG
+iF+D
+pzRQ&
+D0el
+Bwul
+Q!d:
+^$GwL
+OFB8
+Unp~
+lBm<
+ljYb
+iH,E8
+8>6/Y
+~ 4Mz
+%-$,
+6,]l
+/~	[
+`vz?
+tjmlo
+r]Kb
+nkF@gNC
+fs^y
+5!1P
+=ow2
+\&Ha
+_LDU
+cS6JE
+oZKF7n
+iy=KUU-
+2JU>
+9,/M
+((:{
+crTx
+'<W:
+MO#61
+c7#nD6
+Nj c
+-Kg3
+:1I*Z
+!$"F
+ =,)
+;jP>
+EA2D;
+	24J
+L4/+~M6v^"
+hg}C
+IuOm
+f*5L
+:ZzI{!
+3J&M
+^'0*
+lf|r
+h21'
+t)qW%
+q$jc &
+9F7l
+[F:4(
+Gv5BF
+jaUvU
+0:<,
+YT*eM
+dJQL
+2N% 
+ct1N
+*S,_
+V_fr
+5y%B~
+;%#$
+:DYDT
+RI4r
+-T+z
+bJ~>
+*$QG
+}Qr)
+I6UQ"
+L6mn
+`T>"
+&^\X
+[|3l
+d^?/
+"&V?Z
+DTm/
+'MSS
+K~eE
+g_Gzp
+!q"[
+<,./+
+&)QK
+S]Oyv
+Woi7
+(qQ0,
+p{`|+dJ.b
+"QNV
+3Ilg2XX
+Ar*.
+Vnp[
+d*vI
+K<:Rl~
+q(; )
+Fw7[
+mE0q
+tt]D
+Q:z?
+v"b|g9
+C\eC1B
+ROme
+:@7@
+(d31
+"?gt@
+IkdL2
+XnH9C
+P"+2
+9}Ic
+FbZN)
+OKz}[
+O3J&
+>TG6
+8mOk
+5Jj4
+BwQ9V
+SZV`f
+,>cr
+Q69P
+!E(u
+d'r_W$=X
+z]R=
+Li9BM
+b<;$);
+#GU9
+9$SY
+gttT
+(#u*
+jU'.C
+8)gv
+fg1><
+)tdC
+[8.Q
+[X"g
+7%B!
+JbER
+<9'Wu	Y_
+RX#y
+/_A]
+2}Om
+O7ju,om
+&7q<
+DWs),
+A|uu
+$$CE
+5y6W1
+aaaE
+JS^o+
+v-:/
+4"M(
+p8 "
+a1Dq
+glbR
+'0>6)
+080`
+xca	5ud
+/hfX
+[_GU
+Hd~@
+inI6
+qB>r
+w1?{
+RkK"
+f38st
+*N[^
+b!v 
+A3=G
+3E{UKS<
+>d3F
+c}u	
+8r-Y
+O~_m
+&(K)=
+{0:6
+a1"unZY
+_529"B
+v6-5PJ
+*xs{
+&GGT{
+piyU^
+*; 	
+L3Pc
+z|V"
+uY4]
+moa,=
+VPh5t
+h:N>s
+g0}#
+xT{IY
+{?}@k
+3I}P
+>z6$
+RW4l
+epdn
+Ayf!
+eP'o
+PfB3
+&g40S
+Xu/K
+mo-(Z7
+s3pJ
+DFYi
+*Nk+9
+{&/M
+adxTe
+cZK%
+n 5FV
+ou1L
+XKd3
+:'F/N
+;096
+nJ"tN[
+dXll
+&/9R
+?Q/"&k)
+	UX:T
+SI<r
+|%iy&
+iqL'
+Dy{;
++?_{%
+	qZi
+kD@8
+~2c6
+"P(1'YW
+^SKz
+%Zog
+*DP#*G
+}6'F
+qEhP
+tcVB
+J8jcB
+lHXE1
+J $6S=N
+a~]T
+YQ#sP
+']nG
+=EU4
+q%Jo
+{	nb1
+%"Qz,%
+UPX+!
+u\;#
+Ml8o
+C560
+0u[U
+"Q#T
+}B"p
+PGbQ1
++_JE
+1yv][2
+aRS!
+~Y+mo
+MS#%
+M\]ZD2
+wbme
+d)5U
+bRo/7
+p{km
+Q7#<n
+5iFH
+}3HK
+5:J=K
+x&Ju
+^0%Jn
+V?,C
+HGeO,
+E\XX
+xv('y
+qF1'
+;mMk{MFjv2BlV
++Q{L2
+TZE:H
+Daeb
+r=U9
+"6D-
+P;;3
+}__u
+'_~a+
+g7P]
+#yLr
+sOx>
+GQ'&
+'=#i
+a"=W
+x !*
+EDV/
+%Ns>
+ 03`
+My@Np
+CJVSs
+3%{p
+IZ"\
+{&mme
+H~sn
+K]3@A5
+[Y{/]\
+g[WK
+][)Y
+PE2PV
+qrvG
+Mxc4
+qM% 
+M2B |
+"!M5B\{
+8rI{
+PmtP
+>l[l@
+3uX7
+wK)0
+PZ'KK
+@ODhB
+R5cG
+Z}7'_
+,8iA	i
+"YP7
+kkR&
+|!-]nV
+ax}X
+bN8?.b
+wfHN3u/
+AC]p^
+=zpdw>
+XaK?
+v!f4
+e:Jhq
+ztd,
++:G8
+`c7i
+KVY[
+S?!&
++X?:
+S&!gbQ
+r^\:
+vpt$K
+n&>x
+	r)K]Z
+nQe:
+g$[#
+M}is'
+8&OR
+[	2V
+R>eM<
+@MXp`
+ ^	Or-
+(g{ac
+!is5
+@tzG
+fxF~<
+cOSB[	
+yR0GBp
+L@=S
+<@)#
+lKHL
+n)c[
+'a zA
+WM<^
+a&NP	7o
+Py7Q
+bg)_
+(\g'Ep
+{V,dmsc
+;$BD
+R5mk[kb?
+C9#k
+4@\	/
+{.9$8
+">Oo
+B!m{
+Nz.]
+-G')
+6[$.
+s's`
+risC~
+,j($
+h`CT
+r+x>
+N#\T
+NAMq
+1\t]
+PShJL
+hBAL{8
+om}C	
+BxKz
+PPpk2"
+dq_\]
+*t:O
+Z~Z]
+W$i-\kz
+.. 1n
+	bn;
+eu-r"u
+KIqB
+#^?V
+^`B`
+=Eiq
+-!E9.
+K$cXd
+)8r!
+Y*#N
+b1G2)
+`Hz$
+U77#
+lI	d
+~HEB
+ ^	R
+Q`GL
++%1N
+6:Y5F
+J8?@
+|4rl
+*k6s
+MD'r
+ecmM
+;VGb
+C[[[G
+\*5BNw
+aQ%8
+ J#+ma
+d]0XSq
+#ps[SZ
+`"v*
+%q~~F
+bm<P+
+"9N$&
+Af 6
+U-WKR
+fd)t
+g{s7D
+@Awa
+EgPF 
+&*4m
+nZ]^
+pnw2
+JB<O&
+poMDa
+e;>:
+c8$N.*ih
+/1-v Ltax
+nl,#
+8sTS&b^?
+JE[_[
+R!cU
+~LI>
+D"\y
+/Sx2+Or
+<UKn
+ZYy:
+3':5s
+KRdih
+;VEE
+BNx<
+C%LzY
+VHUr6M
+aFO[
+Rxva
+KT5#`3q0ip
+@\ B
+rX9q
+U+%%
+MCG"~
+jQAL
+=Fp~
+n&!)a
+"f2p
+v!V3
+RRIe
+A(j&
+EbX_YCU
+zHx-$
+\>#%L
+xQI&
+ZB+)[Be
+Qn!pO!
+2* aP
+%QUs5~
+TU7hR
+{.CdA
+,CeA
+y,4;@
+bS\3
+8<$l
+X*U$
+srjt&
+wNM|)v"@
+f'"Vs
+3 8!3
+Ie*M
+=l4$s+
+u-GL~
+o[ie
+#A).
+9-n?
+/2Cx
+A*\T
+oE:N
+4-\5
+TFN2
+u%;E
+=gaG
+C[Y^
+F_E@
+;[w@
+\&	^
+<9Wn
+_||G
+"UB3n
+525"
+JRC'
+SRsef
+!+7'
+?gU(
+f*YZ
+dR:W2
+L#&R
+{kXie
+^]mp
+IEND
+`JwGET /template/images/team/member-2.png HTTP/1.1
+Host: 192.168.1.9
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0
+Accept: image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://192.168.1.9/template/about.php
+HTTP/1.1 200 OK
+Date: Mon, 17 Jan 2022 15:52:21 GMT
+Server: Apache/2.4.52 (Unix)
+Last-Modified: Mon, 17 Jan 2022 15:18:12 GMT
+ETag: "30d56-5d5c8a933f171"
+Accept-Ranges: bytes
+Content-Length: 200022
+Keep-Alive: timeout=5, max=91
+Connection: Keep-Alive
+Content-Type: image/png
+IHDR
+tEXtSoftware
+Adobe ImageReadyq
+&iTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmp:CreatorTool="Adobe Photoshop CC 2017 (Windows)" xmpMM:InstanceID="xmp.iid:CD4923E459BF11E9A81C83FF8065A096" xmpMM:DocumentID="xmp.did:CD4923E559BF11E9A81C83FF8065A096"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:CD4923E259BF11E9A81C83FF8065A096" stRef:documentID="xmp.did:CD4923E359BF11E9A81C83FF8065A096"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>
+IDATx
+8`cp 66
+(}(}
+'kc#
+;:<1~
+&&'&'9c
+^t/~
+|86	
+D.l8
+juZs
+%:ju
+X]?p
+`s{mm
+(hmk
+m}Qx
+ ;4kG
+Wlw!q
+DA'l
+966r
+*XUcc#i
+aaD`
+hYAH
+0n;t
+TQhA
++=`i
+N;<r
+MMEQ
+VW667Z
+>%[Bd@
+f	tc
+<?7@
+1/NC
+C4Vh
+-7zc#
+M)s;
+nR*tP
+VE6l
+y>\"
+fE7$
+k1o]
+V{cy
+(Er&
+((1 
+AHlQ
+M2=T
+19262:
+]o:V
+sOU|
+v^ZS
+S<U#
+!]!H$LB
+\g0|o>[0
+~2Lb
+IQuK
+^w'F
+Bl66
+=37;w
+|:KC
+K GV
+c1Xh,EK
+.QbzPf
+~5	`
+;yaf
+KwC|
+'H-T
+	wo\
+beU0S
+U0*8
+-B>O
+U>qn
+08n0
+9|yC
+Xb=F =
+`h|j_}jO
+udl,
+vl1/%
+jx7Yx
+O5bY|
+"aWI
+[!mWi
+JTqE
+.K yR
+G^z4
+|G%X
+#j78
+{vY^
+s%\X
+Z=h4
+}dHI
+DccE
+qbu"
+s,J0uJe
+kc<Q
+ctU#KF
+0hmE!$
+235Q
+h..=
+_~qy>r
+Pk^a
+NzGZY
+H$or3
+H[@g<
+WBP9
+&	UsL5
+,{V2
+Xh@+}
+]y#d
+p+0R43
+%A^`Q
+=Hqa=	E
+Tj`[CQ/
+3]&xv
+uGax
+}  IX
+d_c]
+rgaf
+9561
+o}AA
+k"!>
+BQ(d
+hWGO
+HTji
+s9%w
+q[&m
+N('"
+[ok6
+3s3w
+i0/-
+n t'
+2qH{@
+b"U.
+1#<M
+A)'Ct
+!Fp7Mh
+nY3_
+C\$(
++VJT
+"U7#Q
+UG&{}
+e9;]g
+on6^;}f
+b@ys3A
+#X$Q
+gxx86
+qHm<&
+EPTe6
+~hrd
+nuV[
+:12:up
+V[_[{
+gQ) 
+X#%@
+0" k
+?b+9
+i4Zg/M?~
+Vm6=
+nDaL
+^<XAb(c
+|H03r
+zwRc
+I!R+~
+u5'>
+ziqv
+u%DhS
+M!T<F
+QtIC>
+4zHD
+$g+u
+5TkXo
+SO./
+@*7`
+X&pw
+k&#9U
+Fb.6z8l)-M
+Nf@v
+M=3M
+-dkccav
+F^*SuEx
+.JIn
+542B
+CjHU-e
+ne-h
+c&a)
+0??>:
+8IRd\
+9hx)
+3O?159
+lNPJZ
+;E;&
+KvD9,lH%YR
+XsvF
+hg[Z
+86}i
+"UT3
+'G,dX
+JVLG9O{
+X^P>4E(
+f}ufe"
+/sy(^r'$u
+.RQ#32&w+
+HS/s
+Mbh$
+;E(e
+]h,.
+*dSCc
+"JN_w#
+!I=yDB
+CH=<
+<Ekc:
++ZR5"
+g.]8
+	clG
+|]h{:
+FLPec
+ln.	J
+4p8n/|
+c58w
+/Yt%
+Xfbv
+.bAUp
+4=766Z
+AqD)
+U:\H
+dj]V
+.Z&r
+CUVQo	
+>sp"
+xVsI
+THv4a@X'
+b*u$
+u(,C
+)T<!
+=OupN
+^a&(s
+(im6F
+em_y
+rFuU
+)coml
+Ux^c
+F!#J
+=s`[q
+$FVb
+{)G(]
+tt,llv
+0=Tq`
+,`"k
+&Tva) j
+$,'$
+k_qE
+[[Yj
+)hl~
+ 6qS%
+I$.6
+2pMq
+b~qb
+TK33n`
+Ao:wL
+t`-x
+>P6ur
+U.>+
+:U~M
+nu s
+eiTW
+-\E]0
+piVNfi4x
+V0[}
+zG"_
+AnVA
+4*Pc
+b;$k
+QXeQ
+\-` 
+;F`N
+1Vlm
+N{au}zn1
+)Fr6
+K8Zt
+mw}}
+Tm16
+18QT
+SSN6
+mgxd
+zS)]
+kQT1
+!>6~j
+i=5C
+mTo2
+*C:xB$t
+CqU+%w
+,q[l
+eLS(
++n4`
+&DY:
+tjxq
+I	#]
+=!UG
+dCj#
+?4L$qM
+p_*?
+xkvv
+`UE"
+/3eY
+1cyj
+977}
+_Q_(Nt
+s{TV@
+Vb*3
+!{8]O
+(R]@
+fzwO
+lC={
+P&g.
+K1)'i
+.~xK3r4D
+V2*!H
+x0;NM2
+/..v T
+}$_#j$
+L6f2
+-f32R"	
+<bD+pMm"%
+45&`A'I
+}>_.
+|6;<<
+85`3
+tb,*J*
+kv||<
++/.&
+h4:9}.
+0\.1
+S]:la
+3>:<
+%(.7
++1k%
+(+CS
+ U!X
+X	[r_
+WWQU
+YCle
+uknX
+1cya
+AkE\[OjLXJ
+3$qdqh
+EFu2'.
+FQDyVnR
+bVn$
+tJ+d
+dTz#
+#e\i
++ZoC8
+aw-aw&
+(Cv}
+L]-{
+QCw&nJJQ 
+T+SN-
+m+Xw
+	~JJ
+Z{^7
+PM@u@2r*K3JF
+tS1!
+s-!%
+L=n[
+h8|z
+q9xB
+tvq<
+$I!71
+S;v3
+H~MPv
+UH({2
+zwR(
+[u}b
+*L}n
+e(1e
+uJrSD
+5IJut
+2cNu^
+OkK:
+hg=_b
+<,jy
+$E6:
+{>$/
+UIb+
+hV6DD
+zMhv
+-[iH[P
+mA>fD
+x;!QZ7
+'WrE0
+W8'r{
+~rqdN
+a]W/C
+5\VEy
+Wwbm
+?aO'ib
+n9TgH
+o3~K
+!Y,aG
+86^`=H
+6qDp
+!NSy
+~x(1\.
+`08}~
+^?JD
+qub5
+f-1h
+zonN
+a|F\{
+v}`W
+`GQ@
+shzc+- 
+wkjj5
+y5QFIT
+2m;'%
+%Y{[~_g
+I9=9I.f
+ArJO
+Z\$\
+-cv@
+5=meRi
+W@H[
+g/F^
+S$<fzU
+AAfS
+`Vv\
+~\$y
+G'Od
+Fz1Aeo
+6WU<
+,v9*
+5\xvY(Ul
+NfUOa
+.$_P
+Q5j6j
+Y%v\
+'+Or
+B.G	gTTut
+l6L6
+;e\;M
+>$Ga
+)VI`
+$>>>z
+}87*
+.txI
+7X\w
+L&pPO.&
+#23+
+g7}X
+4P.P
+e-ML
+3Tw SU
+hJ^V
+>+xQ
+H1H.
+XStP4@l0
+KZU-
+o30V
+zgZJ%6
+lNKIG
+ljt1]
+L3Ud
+Jdh{
+3sx;
+g#NA
+OMm}
+	?p=X
+Da>/
+F!QW
+p-I`
+	?AGQ)
+WOrg
+GC_2
+ANx|
+IrHA
+_5wv'DS[R;)?
+X6c_
+Nq*(
+eZ<x
+q0xqq
+KvdW2K&
+iQ^/
++D@l
+L	3A)VfeY
+V77V
+p8$-D
+zbHT
+UKB.
+QXr1/
+|`Lj
+eCu6
+T<o5BE
+CJiDs
+w.&/
+=(ok
+ym'V*
+F7O7
+/)_>~<=
+R-g3H
+?xt>
+maEC
+\h<N
+7^1M
+'/_<=;
+=!"/
+E2;:
+Rp$T
+<^B~G
+F?a(
+,Za]
+MI*A
+;Dy/
+{vzP)
+Kmr2
+B:#x
+0-7n
+*mWc cmLQ
+kYhH
+5,+m(
+t~1;
+;:@.
+>s5[
+S:m%|
+&IR*
+Fer<
+{{^Vz
+t}WR
+3X>Q/
+1ie.
+6[	(6
+y>2S
+{eS8
+8lf&
+]%&W
+r9'E
+X,?9
+,]&1
+odUn
+Z?Bw
+dQ t\
+AkdthP(D
+,G.9$DYQ
+L+`mAMDC
+[XUM
+@2iL
+^$x/Lo^0
+ 9tLaK
+*3WJ	9
+.69-
+m9kV
+8uN^
+3_Ox|9r
+|g08
+j6(W
+JU	R
+_viYEDB
+yGO`
+qS/i
++T;I
+k83r*K
+.34>E
+(kQD3,#
+l};vI
+D#`&|2
+];~u.
+LzR~
+n7zv
+^0].\kX
+])Bq
+Z	"^
+2IIrA
+'	<C
+<fgj
+!PiAq
+[w#f
+F/z*
+-T	U
+a178
+nSOt
+&{wCawaV
+,+	Kt
+J,#2
+"C~#[*
+\O~}
+H'i"
+,+gE
+nPi99
+k$v.
+@qES
+,HZ\
+	+Kd
+IA6'j
+~4~ek
+Skl.
+Dr?1M
+Bg(9
+UfYyp{
+jJA_
+yB":
+B8)5
+KZnx
+4/HI
+2`z 
+8d:NI
+-	,6
+^/IcHV
+~pcp2S
+#efX
+ZF 8
+KH&H
+IIhJ
+U?a=
+[{p|4;?
+ =2l
+pG	Y$~
+'J/\)
+	}YWe
+jm@S
+<;;/q>
+(QdQ]
+ls=p
+5Cch
+`Fg5:
+J *>
+3iWCeU
+JT&M
+{m]U
+,+F1a
+eVVUVw5
+&_:S
+RUQ"
+{w>~
+P4wZ
+(Ki'
+M*W:
+Q'Q/
+i^`S
+AEk4
+0c]P
+,jQT'*=
+h4j7
+0>gd
+q#n5
+"*N(+Zj
+QVT	
+`d}v
+L`ae
+JnlmUE
+3& e
+<IZA
+|4Nv
+EO]t
+&y^(j2
+IUBBG
+^x>E
+<qxx
+iY$YBP
+WZmH
+6Cg5
+;!!V
+~||,U
+9,~}0,
+WR2tJ
+iFTiSx:
+q@OO Hu
+4\ISB
+,"d4
+t\=KKjYa
+ng)~j
+Yq0e
+iQTf
+9c's
+>Kv?1
+?z2Qm?
+{[7n
+p<)Q
+@XiL
+h0 I
+E-\[
+B\~V
+Uc52; 
+SPYh
+_Tjt
+D/VY.
+)v~ '
+	d@$
+WB48<<
+ep,X
+P*;w
+}Cw$d
+P^e;
+TiY"_
+FcrVGt$
+ZI4B
+#3_Q
+e7E3
+ g/P
+v:;K
+,l/k
+AM)tHA
+gUKr
+^mvo
+V3R$
+li4d&h
+EcN4
+;	(K24
+*)d?
+4ai_g
+Gvi2;
+;S%S;
+.<6#
+f,!E{
+thl=
+F9L[O
+:?`Nf
+[{;{
+ec%G2
+O9B1g"&
+~!:]
+t5 c
+B_,T
+@ iF
+%$=r
+T#B'
+I@J#
+ZqcR
+]" F'2{t
+lNEc
+kkCC^XI
+V.*N
+7-Ac
+#lRs&*I
+)+{5
+GCOOa_Mu
+Iroc
+I?W~Ac
+A\R@
+xo}:I
+E3a/5
+C'vD
+g"`H!
+>|hx
+T+>	
+hrrp
+NyN[
+sa)ZX4
+W7nl
+]7d$4y
+K3B/
+@Q'2nAX
+]%Zz
+j+h6
+neIT
+N}%[q
+nzg"W_P
+9}nF
+?0Gsc
+/D"6
+ZoAN
+5s64$
+ssl"C
+p08<<
+H=Gy
+#TO)
+mE.e
+{zgt
+X(@[
+~z2zp
+Q*jU 
+Y6M<
+<~r<
+s{(-.
+1@-^B
+t<a-
+,:NR
+i>"H_
+R:?4
+4m}82O
+[fz|*
+m-?!%
+`C=Hqt@b
+mt#n
+$I{qs
+FYF6
+7da.
+2cE&
+]0	gs/
+hk`*A
+b8xN
+oLJ.`o
+nt=6
+,et;="
+s\5g
+5-!`
+$%\9=\
+i6;LUQ
+_/v<
+M?+ZJW
+yX\1
+xhDv#
+Uu9S
+|xAUY
+B_rk.g
+Hurz
+$J_]o
+v"AC
+[\(GRQV
+|ggi
+pmDL
+V+#`
+wzSl
+G4@#E E
+|nF9vnc"
+`Qf\*
++78n
+$+}?i6
+qgmu
+)t-!c
+i	GN
+J{6o
+x?_0
+QVO.
+V@B^
+$kQqC
+XU!2V
+ 4lm}t
+Q3Yg
+(zzdU
+03BG~
+ahO?
+=DCQ
+,=t9
+i^7V
+3S6g
+.l:l
+J1/=
+>-fQ
+m_CB
+1,`A4l
+`{u}
+>sN;
+9?:i
+}^kf[
+zeVa
+c?l<<=
+^ZbY
+W~moog:
+yAmu)
+h,Zv
+OFGm
+7[~#
+i0 F
+X%MD
+QKpc
+'O?{
+k$<8
+D1J]\
+TBf-n3
+q:I 
+Df-Jzq
+Y61t
+a+O3
+fy6I g
+JLyQ
+5<<:
+RY~x
+wonn
+&Kfy
+OI_6
+,!Ve
+[Q ~
+`8:M
+871yE
+1df,@
+R!pRjZ
+ps"_PiRC3"r
+Vi|8
+|N"N
+TF7<8
+ZPCM'=G
+n	)R
+Gnml
+9=ON3
+$\[	 
+89J.l(D&I
+33I2x
+6Cw-/
+TBML
+	U/*
+fl=t
+leB*z
+lF`s%
+UHuX]
+./__?w
+'>LD
+y:3Y
+xFO`-
+X~Lq
+B*UQ
+\>em
+y2HC
+GvL.tW(BDI
+`N<li
+/,\m
+%	Di
+MDir
+ShU;
+^_Y[
+uUZ#
+TY@2
+,lGB
+  &FqXpx
+'l::
+<0	B
+Mlce
+99J}
+^>wan
+,JR?N
+Gy>t|
+S:bA8
+%=ih
+O@s_
+^mjj
+T3Lp
+s%It
+_BEE 
+l4:Ctj
+ O">
+o,\_
+p~fI
+0\)(
+!Tpe)K
+]+UA
+d?,Ho
+[^Yz
+dp,A,af
+Jy0I
+:l}S
+57~aa%j
+A'Z_
+u9iT
+E]W"U
+y\M8
+J7nA
+;g.^
+][[j-P
+<dAV
+P<lF
+eoaD>
+NV^XP[6;
+/f9%,
+Zcn{
+n[j"=
+ !HiM
+GHjt
+A#h2
+0mXM
+9;91?
+$Im?
+. Vh
+AmJQp
+8:YQ
+.p[H
+?DgG
+1lbMo
+{mlv?
+"P^@
+/QJL
+OMOL
+ta~j,q
+2:Nb?
+MaZ0
+=Bq]tX
+dSP58
+UOu.
+OV/.
+%MS'I
+mnqq
+gIT0
+K`c`eU[#
+xm+Yg
+Jkv+
+=^9}
+'qwzv
+=NvJ
+]m4;
+\Y:f
+"-Op
+LQ4U
+@CH3
+u*#E
+{Y&r
+>r`W
+N69;
+gU}7
+.D0ne
+S,>~
+;u}%
+6.\^
+Ho$U
+{n2[
+x$-~
+353H
+=Z<x<oex
+gw__<5
+@!UD/
+I,aJ
++J6n
+GU]I
+R1;I0X
+(9\]
+E8Tb
+Ulm1
+|2[]A
+ *0c
+,VR@e 
+^'h4
+CCLQ
+;O,\
+]XM:+
+3%E*
+n?l7
+PQu[
+$i'K
+tt'	
+@0<K
+WGtu
+VkPTYZZ
+JoG|
++}'H
+RvC/
+H%M|4/
+-Rn9
+6D]S
+>-4HV
+]Z8i
+?33k
+fS[d
+#L, 
+cJl(0
+$++O
+q5*&
+B5#K
+	jm+
+Uguin
+jD#.
+YpQ3$
+"S/`S
+1e+t
+{(JT
+-]m$
+%TWWq
+Oe;V$W
+:;L#@
+PHfTN*
+e[)8GI
+bIsP
+rhdN)
+zt9({
+q)(d
+\4@P
+M7y8
+^s,7
+,.gnH
+i8[tRo
+z;bF
+N.--
+ !i0
+l9,l
+a@-QY
+"Z7i
+tmKo
+A_5/1&
+G(vb
+rZ!v
+_9zC
+avhS
+>i0C
+8w2'5
+Mo;|
+"|n`
+#1V6
+I<H(
+q?I{I
+z 5A
+-z|PQ
+F&%7
+m|U{K
+p5e7
+-5*mX"
+lqiiu%
+SP<l
+Xwyu
+^>w&v
+QN@v7
+G4nE
+l-.16
+B/xj6
+%i6@
+9 !wU{l"J
+`1RT
+O+@\D
+<+6U
+ct{k
+WO^Z
+FeIm6Z`p
+MUr`
+k<.V
+v4]v
+Pg->
+ 3	`j
+-u-7`
+[jLJ
+Cy7c*2;
+mY8U
+][Z]I
+8=1q
+PRM#
+$~r?
+SRG$
+jin-
+(Kh{S:Hq"+C<
+_Y^^
+^0333==
+<wuu
+TUu{
+:b/(f
+-Hz?
+v),P
+9Y-b
+GtF{
+d09;
+k*{Pc
+#3Q.
+3]Y[
+)0d)
++aCf
+Z01>
+!3[wo
+NMSJ
+ccem
+6bd+tu
+]GXozH
+	)/D
+%$h:
+1 .s
+]]Aor
+m7ch, *
+U'l#MLU
+u^>{
+:r`ey
+wNNN6
+:9pK
+2%VW.]
+Oqlr]
+Tu$	
+Q`N#
+6z.b
+4_JD
+G5gl
+XDIL
+&WIb
+9Vd+@z
+S(!i
+9uc9+
+WVxHk
+r~h;c
+O3t*M
+a+i(@k*
+V4`mQ
+v9l7
+ujKf
+dI1p
+ ?qD2
+V|`e
+n;rx~f
+?!=(B
+(EhgW
+M`fG`E
+"T!Y
+dlOL(N
+q45`
+YzR'IJ
+$ad^
+0Ia M-
+s(T[l
+}8RN
+6667
+@e_A
+G4uFQ9R
+FN~I
+Zmni
+^'Q&2B
+^eYJ
+(G@r1
+ZNJkp1g
+E4kN
+DXXT
+Y	@Q3
+\[Y}
+lU(l
+	g57
+p$FiT
+9\x(
+}gjJ
+0f.V!
+k4&h
+n$hm*d
+L)PB
+8uHl
+{1!^4
+=o{,
+	u1(u
+/llo
+	QjH
+7o,~
+}4#X~
+D(ABi
+[ <Q1
+;Y1L
+)a3h\o
+E		,q
+IH,6 %+
+mY3+
+EMT6
+R6s?
+oweu%
+7X__
+dU345\
+#16-
+^we5
+\'LS
+|qaQ3
+6!uc
+3DHd
+>BiJ
+(G](]
+^wgwvz
+hvvw
+LAf tys
+7N-,dP!
+k8e(f
+, R:
+pXC z
+6`0G'
+ /cv
+i6==
+	d x]
+V%c%
+02$01c
+/iK{
+&x\C
+k8$&
+ijkq
+Jgg~ni;
+Jggk
+BI&b
+Au='vLB
+c8t=Q
+0c&7R
+jJ{2
+E$U 
+j|jD
+Yb*89
+S-f6$i
+2EtR
+2C/&
+]YjS
+}5e%;
+8i_D
+;;;k
+,MNy
+{IU&N
+&@H%J
+pN@bi
+}\A&
+o>QJT
+X{\&w
+Ef"[Fn
+(>96
+ruS3
+yH8k
+>??s
+]G'P
+R3M'O
+u(1Z
+iO[N
+AOQ.
+0Rv`
+mtoc
+%)a<
+1sG{
+P@A1
+@,]s
+oey^{f
+j/+ 
+&,_sgeu
+U[R8
+ZLR`!
+Yws,p89<d
+?#u2!
+2Yu<
+<i_O
+FlhjJ
+LzR+xR
+BVm{
+(R'a1
+-#'Z&
+lTYJ
+f& rq
+"?R~
+7T60t
+p9	F?}
+UU=(Y"r
+<v|Y
+g4[U
+O>l:
+1V^}
+JQWx\
+'uo0
+MZ/4
+7^))
+mC3r`GsU
+j qb.
+fzE7
+j0_D
+$X-')64
+wh_)
+pvDX(
+8GSJv
+l	)0
+i8ww
+fggjUx
+C]UZ
+hKRp'Fx	
+T>@cM
+Q$re#
+_NG#
+R0+Np
+(VD1
+iMgy8
+V72Ic
+KTFh:
+|"2f[
+f$|[N/
+"Lcm
+S	q*
+8Il)
+ojqb
+f	d@LV,~ny
+Y#w_
+Fi0b
+siTjz
+s4	q
+y"el
+kkk9
+$$\ZR
+T%#(
+-Xgg
+L9;R
+bN]m(dL
+atu'
+	RH]Y]
+Pxr.
+ R}-n
+U nJ
+rJDX 
+#*EQ
+CKv 
+*^Y7
+vo{;
+TL!J
+1 S@J6:
+Chdc{
++'^V{
+y_B~<o
+L7?~
+Z{fF#Oox
+M(Ch
+yEy4
+cmVN7Q8J
+c'b6
+Qw{g
+o-/&i
+]SRz
+:f*r#
+fk3J0	
+D25G
+ ^8{cA 3
+L2F=`
+H/&'
+qK%^
+P4o<Z
+)l  
+-{Sj
+-uRP
+nNM7Zm
+GQDR
+;Q7e
+X1I4
+*pkg
+R#U=D
+	"R	
+?(xG
+xdRXAD
+(UYxzi
+z/MM
+o^z.
+.^D!A
+4t*CjZ
+O;P.
+.Tzv~
+pF=[MMy
+E0!lC
+MT,g
+[>q<
+8!#[C
+~R8FT0
+j=ag
+,)`R
+$a8%
+4#A|
+;!$cOV
+8m]A
+xwy~
+Lp,`%
+LP"JE%
+:5Tb
+DI	&#
+NhTO
+*+m.
+$2qf
+^gwyy)
+"#F(
+rY(s
+,!K95
+w7w~
+DD46
+X9QL
+XQ"q
+7,TN4
+|uc7L
+a8jX
+%Sg:
+ fkCq
+aK%`x
+llmi
+{}}k
+[\X^
+t=71L05
+h8Uo
+Uh7B_
+uk`[
+;mRI
+y|?G
+`V>B
+P< %f
+W^FhZ
+__=z
+n *"2$
+]	W|
+g/>)
+%<1Z
+&	l>
+J.`I
+e:CI
+C9ej
+&5~<
+aE~mX@2vgi
+;5T~
+u.7K
+x/RF2
+PZ 	
+m;!,
+_b0@
+BQ7K
+\y,t,U
+>6voyY
+xiaaqw
+i%8<
+>FrM
+H{.%
+cO\F
+fR8T
+d2?B
+^WRe
+b4i+
+<!1I
+A E"l
+IVZ 
+8"p	
+zM-\Z<
+o_\<z
+%.Afx;
+1X3nc
+!YIY=
+k))W
+~Tml\@
+DE!\	
+.&=k
+W5	wO
+@l#L
+n7;?
+|~avc0
+Ah>7w
+\BoV
+x@n-
+,KDLPs
+!0;I
+_xqrf
+I}L+
+OMLNi
+,vn=
+8AqM/
+y^OP
+}ts(
+p![r
+66O/
+3gCk
+rLPz
+KT#%n
+imei
+;uzc{
+fyHnEQ
+ ."|
+9<<x
+pqva
+*I3r
+&=&B
+		p#
+&&mN
+]~\P
+OFK0
+D@Cf
+&rIvR
+c=*Q*(
+jDfl
+B{X3
+`*er
+'1.J
+{N@9
+_>{^
+5V1_|
+  >L
+J)XC
+Dk3D
+9>Yk
+4Td{
+[1WsLr,
+?sq+
+1L:"
+dQ&XD
+sg:+
+5-o`9
+f(|o
+{HW/
+#c9F
+!R/0
+D:7j?
+{*Fh
+(QpN
+;N%MN(B
+u5M)
+}z$"
+FN=1
+shwD
+	u[qNC#g,
+yNDoGL
+QMTI{KJ
+j$=$O
+>Dzx
+9><!a(
+aswoei
+?TTCV
+Raik
+:{d1
+`wcm{
+%"N6
+Qa\'
+Z4o.
+im7*
+2IFc
+Z<qR
+cla8
+%}k0tl
++W.=qd
+$/uD
+k)[v
+pl D(
+91<"
+z{umc
+'g&7
+(LK:
+g&!Yn^E
+$O~2
+u.P{
+u/b$^D"
+48&REMP~
+.4MI
+*>:U{
+=|cs
+8Y-CL
+u=YQ
+QbJ/a
+ )v<R 
+5	0[
+'fg7
+fg&u
+]F]Q>y
+;Ua6~
+$	e]Q5	
+ER(:
+n:vga
+c&)r
+(:13
+RvhZ
+;[K?
+U1zP
+XUu8
+\x|{oo
+b3LW;
+z(eTQ
+N#.+M
+E(c\
+YOTb
+v'G0s
+RK7o
+CU5`
+zoxs
+]8q|9
+Vs0xw
+gdY(
+L@B1
+#6)p
+G*rh6b^"2
+j#\E\
+'gN)
+4Eiln
+ZmjJ*
+]`o~
+9:-GB
+;>1wz|
+@z &
+'JOB
+]xjj
+r}\Vt
+pX!s
+{pRDk
+CjW|_P
+o6|e
+dBAFr5U
+3W*@T
+CS!]
+qM3z
+'/^y
+{}s}
+lc2nd
+7>fBF
+4@&>l_
+M,T+
+/p}0YWH
+)Qwb
+2_RX-
+3-EO
+V897s[
+v'N"
+kF|M
+fcs'
+lwfv
+FHs`
+DynBc
+5MV4
+~Ln^
+)z^w0:` 
+/?W*
+Yvje
+zVc#t
+!Dl=
+TIGO)J
+/?Yy
+/Wje
+4RVT
+[veeUWT
+$l0:
+Jn/&1~:
+0NUE
+a)$f
+_9]/)(
+}MEo
+&<9M
+	JHl
+R0/^
+fchv
+W+k[
+s!bL
+r<2Y\
+^*h"
+it~B
+8**=M
+j\<z
+.\8{
+yi}}
+"kGP
+t&C!e
+Ar$nS
+76ZP
+50KF
+Luu 
+M?M4Mk7
+Ikglllv~
+Ea)M
+|}&J
+M$5%
+oonk
+^T@U
+86}{u
+<\748
+'$D%pCc|
+smQb
+O<7F
+	r>P
+^<&+
+ib;nB
+gM7`
+U(o/
+M2Ea
+ qYdd
+9z!T#
+?>%G
+ZmowG
+][[k
+8w|a
+\&*A
+>dz0j
+Wq$H
+D)os
+IxZc
+FcM	
+ggftU
+$VCQ<
+U^+1
+Jurj
+I!vR
+(D2J$
+3>!E
+MO4 
+"CLP
+w<oBe3
+fc;d
+RxQ(
+XI1;
+erql
+O?yl
+Q\V/
+<g}y
+pw$r_
+vw0U
+Yb;N
+e(p!&)
+fqF5J
+A;6=
+={t@
+={g`
+<~.1'6
+xdfl|ae
+*lhY
+	Bk8
++&L=biY
+CP)V
+kPS'
+1:Ib
+$!,%
+&*5M0
+Hv["
+$9i9k
+-4>7
+Ii$+
+"t7:
+)&,b
+MPc"N
+U^*D
+|cu]
+<w~i
+?~xp
+'~Fm
+P3t!
+$gdY@
+T'Dd
+UNiB
+/<sq
+B>[A
+{z13
+->%}fq
+YQV*
+/.UuU
+s]SWQ
+jfEU
+gv3|B
+.*M&(
+.=]Sq
+4)B4-9X
+Fm6w!
+3v8A
+e)IZ
+X<Jr
+TM@S.2
+Be''
+U9b&
+h:%r
+lwTE
+@cXD?)
+HG\tYN
+xlV*~
+4b:uP
+-B/L
+Nf<U
+i~4s4YiU++
+W*FL
+,CH&*YE)
+Z**"
+4<H[hxh
+p?	Q
+S(FwJe
+iAT)J
+Dv4K
+6Cq*
+{p<R
+9*WYN
+<lq&JJRc
+3_Xo5
+hBXgN
+1?::<
+78k!^
+xn8a
+vxayi
+g{+|~
+[;;?
+iR9d
+#1)c
+Ytmp-
+mgQ^
+,'8F
+6p*HE
+><8d
+LPDG
+s}si
+)=sx
+M9^{
+5d3c
+EeP_
+LD&>
+Jb>G$
+CI9TWJ
+n G/l0
+Z=a<
+Yj5E
+|:IBNT
+XpHb
+ (hA
+xe{>,
+$=$R
+&~:u
+,?!:s
+'(4Ns
+"~'0
+DI6#9
+9t	\
+R'//
+fEFz.
+g{0=
+q0w<
+)Ex&\9
+k3I<>
+KJR&d
+Hq]3M
+h	J-
++TXN
+XK"{w
+=Xmu
+muGS
+7OBx
+"?5/ f5ku
+2yg2
+h	"p
+E%A 
+IUEHe
+ BB'ql 
+!OC2
+M"WU$U
+&pJ"
+TUk6
+2J_T
+=24!
+0)&s
+v`Czal
+vbTCr]G
+Z98:
+7e	gP
+*[z%D)
+o`;%d8
+iA4[
+>7 >
+\p!E#*
+)JyA
+iNLI [
+y;NP
+_Y^Zi
+yd0r4
+?=8Yn4
+}}}yY
+1[PN
+=9 s
+'_\{
+$CuUl`
+Ya\Q
+xtPp)2
+=CYl
+l49	.
+nogLo
+Fm}m
+Z3%.
+#ETB
+,wqm
+b!MS
+YM|;LH
+R@zU
+?'iB
+TY)u^
+W*U@
+]y&KR
+[[[pQi
+jvv?y
+)S\l
+Yu8n:Mw
+jK4l
+lf?sa
+)MvN
+8$`1b1
+ 	'FY
+ndIf
+{C?~
+)fq,O
+\na^
+lq-2g
+Ox(I
+8Az<
+GnVQ
+{nk=
+`f67DQ
+]X_W
+Xwvv
+4#ql
+4lqX
+ r5U
+(')%
+EI2:
+]<Gnr
+XqfsUV
+?8>2
+VW!O
+>rny
+ThND
+.}|t
+:^c8
+Fa9"G
+!49&
+w)tl/
+$3Ei6
+e{qr
+WjFu
+:S5yJ
+!xml]
+(qDf
+'sl{
+6 :C~\
+7 Q1-
+{w=k$
+QC7!
+/"wZ
+F1LQS
+{uYaTF
+(Ji$
+8IHU
+T.ov4M
+?*]zq/
+bNS1
+G1/Z
++rNg
+	`C4[h
+UeEc
+xI`(
+DQQT
+5M'N
+^JP54
+:uZd
+2dQtD
+7.\j
+E%ro
+'cjb
+?)fp
+#T)JP
+N+Km
+`B)F
+DntW
+zL\U
+Yp<$
+i[	/.-
+{Y1s
+4JPu
+;el;{
+92-xR
+#	v~
+dxms
+7V ?
+?9Zj5
+49A,
+Gu;MHB";
+$~88
+u9	s^
+s7n^
+zX[JY
+h>f(
+?~sz
+8mM7!
+GiD=e3
+SR*Fuy
+,[D.B
+uw!fDD
+H_)/UUp
+'I|0<
+YbU.d2W
+^lTv
+p`C^
+{'sH
+KTyF
+aFlV
+"zL:5
+%Ak75
+L0	e
+LVuw
+Hc@r
+^+&8'
+[?|r
+}txXW
+J'YR
+%e2w~
+l05j
+&r2_}
+,7].3B
+^|t~
+DPE4
+k]cL
+=Q7b
+JbTA
+	ejB
+%HWB`
+VPW0
+f1,U
+_<!m/
+g6:[7
+`ezX9-
+9sv|
+3VN2^
+C]Q#
+|ol{
+<=/l7+
+sZ5kA
+xQJj
+RZ,{
+GG/j
+Qr|5Yo
+\<;?
+>pr@
+tj[2
+G?0Uyh
+wy}9
+u)Ux	
+GSEQt
+1,$_
+.6WEG
+LGCSU
++7w7
+-K3u
+YS2	
+5]6D&C
+9v]@
+#?PM7
+Bs q
+_@0D
+{x}y5
+Q%NA
+"bH&d
++HDI
+>_Ni@
+n]SD
+K"O\
+UtC%
+!#sr
+1EjV*#
+HQC==
+_{ebW
+rvPR
+Q#(^S5
+ pO_=
+iMd~
+4'YAA
+?yut9
+;-U7
+!sbev
+t.r.
+=>>!	
+o7vo\
+@.KX
+ 8@l#
+!|tU
+{rrE
+P)4E
+m<n;
+g_.\
+Hjiy
+mC7!
+"-RB
+(Axt
+8wl7
+N' xAnk
+L}ca
+Afh>
+Fm<ho
+zk=&
+y|u=
+h_S$
+f3Lscc
+P)nL
+NF#S
+AVEE
+s7aUY
+/l[3
+msr}
+BrJx
+3]W?
+:8`p
+`|tC
+#G9<
+Iq;_
+$M5uUB-
+)$y:C
+qUU4Yl
+,k>+X
+P,qt
+iJ<|
+(ZXP"U466'
+_46n
+",h7
+(/25
+"!YG
+>}y4
+/'#;Ep
++*0H
+Vk-E
+_\M.'S
+)AV%v
+~zI%
+~|~<u
+[^4t\
+YWY~
+5*-TM
+bV/'C+
+EUzeDZ
+TQt`I
+ H@!
+"0,t
+0\Z	Q,
+3Ibt
+j+Dc
+1ut5
+qRo6!s=~
+rc)Bfx&g
+P0Br
+lW+m
++"j-
+gvLp
+l4tEWe
+9's3
+WDm<
+	AbEa
+al[V
+po{m
+hRi|g
+PTE\
+&pk	bG
+,C'"2X
+*-`E
+0O.N
+uh	4E@aO
+eCkV
+F]jh
+7/-Q
+s@B%
+t(h2
+&5Sf
+|8>#
+CtQH
+j5$,
+jpuu
+/BVq=GB
+G&'A
+tr1[\
+onNF
+3Q,J
+6..D {
+dzmj
+0'R`
+Hr5X
+ J<B"
+qvx~n;
+w*YF
+8JRM
+NJ4YJ
+MQj-
+J^{T
+PHk^V
+zmW4X
+h(\.
+BbR$q<
+L&XP
+4;Z8
+a>u$
+/~2p
+	Y p'
+B;&f
+X1sF
+gTA4E
+TQ$zw
+t\i&L"
+@D$e
+7>?:
+v0u}
+/.'}R
+/crlY"[
+%)=q#
+IVG6+
+K}7d
+c>_L
++gC$^
+GSOH
+s=CU8
+[.@<
++>zu%
+ry}qy
+w*UR
+*0Ei
+37H8eD)
+o	aH
+O%CdbE
+$vtlB
+EQUWc
+4qww
+li)K
+=_j&
+0FoL
+Y$EECD
+=?|ru"
+XF$)
+78r|L
+!l1_"
+@N=;
+?yvB
+H<`Z?.
+nOR ?
+q|fy
+PE"mm
+auEh<
+T)HB
+y*	H|p
+<yT^
+ jLl
+=\;bUI
+ LP,E<
+(,dR
+<ZNC^
+7L#A
+(g!,
+e$O+
+pd- 
+l<yp
+xmZA
+?jKa
+KWu(
+2MqD
+*(c{Ip4
+<Ik"
+@b~}
+g_|~:
+$Lq4
+)C3M]
+=G*d
+Zk4s'sK
+@Q!(
+C]WD
+/st_[x
+Y-TU	
+%7@P
+d9[2
+/S28
+aJ1Yb
+FRsc
+NEYjWj
+J!Ib2	_U
+=Y8?x
+lo_f
+-wjf
+[zh7Je
+Tl_j
+<+BE_
+vgyC
++@6u]
+GM-QXi
+Shvf
++7Oz
+d0\d6
+bEbE
+VTeYx
+,gmd+'
+JO[|
+XNP-7
+ yPY
+85,K
+=1B_
+lHfk
+)HS,
+#Gbd
+JMPZ"
+r9y'q^
+(cK+
+$MSX
+D,Ce
+=K#Yi87(,]o5
+GS?1L
+PWv7
+z!Pk
+JRI`X?L
+lgcc
+P/ij
+&(tR
+GAIVR
+GL?,
+x4[K
+R,:q|8
+"~xp4
+u9D"l	
+]LPPv
+8p"c
+s`Vi,
+SZ7]/
+sLc|
+2?M0
+(Q`o
+p|}kK7
+o]"99
+\tQ)
+8URR
+!{,YZh
+[NJG'
+.]cW.mh
+\".Vi@
+zSRF3+
+<CSeu>
+"pOLs
+1+Lq
+`hZ$
+8HIx
+<;	Q
+P8"]
+h3<c
+g	%q|
+WR'/
+{z<0
+aTJU]78xZ
+beH1<
+!ANF
+2<f(Q
+.(;#H
+i6JQ
+,#mt:
+]l5z
+hJdJ
+-E|sg
+zUUb
+dZI-
+]EU-
+9@=>
+ Dfyq
+4Ddp.
+/&.H
+RcA6Q,
+ov[w
+rb	Q=
+"1<?4-
+#YQ666
+r-(*
+p2t<	u
+gG$sq
+GppM
+rA)(2
+v<O)
+Xj2_
+YdCE
+#KrK
+9^X)
+/\{eb
+AdOA
+V*";
+z3/@
+a:7674?
+r2[e__
+e"xU
+L x1
+3eMR
+@EP!
+L&	K3p
+$Gq2
+J9J|
+fp05z
+/m^l4&
+RJuur
+KWe5
+4]a)
+B7xI
+azij
+?r#o
+p6q\
+fhkp7
+To6H|
+ZbYT
+,>99
+c24~k
+Ron<
+xaX`y
+^[fc
+a	C3
+_$Mv
+)'*X
+/#+	P
+S)1<
+kaFWD
+q:{>
+x}k[3
+{P '
+RP1b
+XY!`
+Gc4(
+1.)2Dl
+ d3\
+sCw\
+4kh4
+H((l
+K_h!
+_dyV
+v@LNeV
+Z)r=
+}xxD
+ejy 
+{S]o
+Ijx>
+FYay
+<]TT
+U6L[-U
+(LP+x
+gWF(
+767/ml
+fONNzs
+[W.A
+KsS"
+xF1?d:d
+fD`3
+$qON
+.N8!
+Gh %
+H,S+
+lt@He
+N{maiY
+TU1D
+JI$~
+<|<2=
+3solm
+(hJ)A
+KzfKO
+37x)
+X?}J
+yF"S
+f[hV
+AL&4
+%edZ
+$k4[
+%SeE
+Ba>[
+~|xb'
+7KK$>
+47;G9
+/LO'
+N8Ei4
+m4@Y
+wn_]
+ar{{
+9.[f
+04#}9W
+ib7"DE
+OG~hu
+em6rX
+Xi}r0
+l<4M+
+O<?%Y
+3=[/
+{WUWu
+R6;0
+!GQ3
+Vn^W
+4L#j
+ND3@
+OL_Z
+d1)G
+Y]CkkjJ
+MQ$I
+O\gx$
+~PT	
+]$+qg
+qdy}
+(1V,u
+O_>5
+7_xnuc
+8A"(
+;+	A 8
+lcph
+?15!
+ORQ!5Ro
+rK5a
+D>wi
+z8E{8
+Rbvl
+`_\1
+h&X43C
+wD>!
+@QWmf(
+=?pD
+}BN2
+a}7|
+%<aux,F
+hvxlxd
+<u>!
+l6z.!8
+	Vdc<
+AI"p
+)fuE
+u\[^
+2@a]E
+{gm}
+-0d1)
+~0pu
+^,$&
+wmY9
+PV3	)
+824T
+a@yP
+u[Ci
+D&9:<Tt
+zm}s
+]Ugh
+=yn8
+:p*6~iq
+i90\J'
+KST:.
+Z=59tf
+%<Y.
+O\Bp
+=n>yt8
+u0nP
+?hD]
+)>6ZH,
+X[OI
+r_AX
+>56B
+DK39
+FM}gm/+
+c}il
+kpef
+n5yQ
+!H)%
+8r\9y
+083=z
+NeL'
+r_L$@6
+Ba,p
+:7=\N%cap
+JQA`
+9N>.
+OH<1<"
+jVWq
+f'&AN
+baLH
+\zgk
+vzr6
+Hivqjcuk
+^<5ta"ky
+0D[6
+5udz
+tO\|
+u^`]
+JM6T
+wrb,
+;YxNw
+.\~rrl
+ljbjr
+5S'X
+"m':{C
+8rD?10p$
+^mt$
+tQLe
+`Jzxe
+[W.,
+a[ K
+IEND
+`JzGET /template/images/team/member-3.png HTTP/1.1
+Host: 192.168.1.9
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0
+Accept: image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://192.168.1.9/template/about.php
+HTTP/1.1 200 OK
+Date: Mon, 17 Jan 2022 15:52:21 GMT
+Server: Apache/2.4.52 (Unix)
+Last-Modified: Mon, 17 Jan 2022 15:18:12 GMT
+ETag: "fe8e-5d5c8a933f171"
+Accept-Ranges: bytes
+Content-Length: 65166
+Keep-Alive: timeout=5, max=90
+Connection: Keep-Alive
+Content-Type: image/png
+IHDR
+tEXtSoftware
+Adobe ImageReadyq
+&iTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmp:CreatorTool="Adobe Photoshop CC 2017 (Windows)" xmpMM:InstanceID="xmp.iid:DADAFAB959BF11E9930CCA80D1DEF9D9" xmpMM:DocumentID="xmp.did:DADAFABA59BF11E9930CCA80D1DEF9D9"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:DADAFAB759BF11E9930CCA80D1DEF9D9" stRef:documentID="xmp.did:DADAFAB859BF11E9930CCA80D1DEF9D9"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>,
+IDATx
+)R$h
+c{?:w
+u['y
+rd{y>$-
+)w}5
+C.Wy
+Px|.
+Y`-|i
+Xm\`9
+>&ox
+&7Xc
+hr_0
+YUU]
+&W76
+oFWv
+r	:E
+3O=u
+?7MU
+[6z=nw
++8E@Y
++#8k\P4
+/|.M
+)@y N
+P<Vb
+k 	RJ@
+% :m
+HG]5
+P>R@9
+h53T4Q
+Vu	l
+2`;;
+@U0T
+Temy
+aY&q/K
+PU3+f
+gNOg3
+F;c-%h
+c@Cc
+C$MUU
+AUTm
+gXlF
+]Gj?
+Z*^U
+eYb(
+<Dm8
+Ni@n
+T@R,
+`Fp[
+w`]Y
+Dcg3
+{*g3
+=W:v
+@GUrR
+^ xY
+0p,x
+^O{I
+$MAy
+Vr]U
+%<dt
+	' 5
+ r`q
+,V(|8
+Md(0
+jr"T>
+cwiu
+JX47
+:R2Mr`
+a(P?
+x#mYW
+|*nZ
+U7h:
+DYP#7
+mK'y:
+xcU]gY
+*G*D
+XNO|B
+|^2W8
+":-`
+Twuu
+PUZci	N
+2|bm
+D!ka*
+)PUy
+v@Az
+OA.M
+hP	\(
+arf%
+ml\=qr
+3'O<
+cgNh
+E)iR
+L8Bk
+._:7
+)J;G
+LY@U,
+!bB0
+`7||
+DOYL~
+Xbz7p
+U=+k
+%UUE
+q*2a>m
+t:8y
+kL|U
+V{]o
+Y	Ed
+K?KL
+x<k[
+uSnllln
+Dd|K!
+R9{u
+e-&o
+=Z`@
+PtQq=
+C BU'X
+/N!^|:
+\B@A
+f8Xz
+jM|S
+(LtS
+9U2V"$
+/~ o5b
+5~ .
+yGG4
+H	Eu
+7O3ti
+7Z-x)
+9XXL
+T@+`
+"%0Z
+I<2o
+r,S3
+P!	mh
+5(4H
+j~<n
+I*q|
+2CW!2:
+SOei
+pJ i
+e	?DI<-
+v6Oq
+$iBa
+E+	Vn1L7P4
+{	so
+{(f1/
+1_{Z
+KY0OP
+^l4U
+4fkk
+RC:pf
+(2nV
++SP3
+k^lo
+R. 'na
+jxT`
+dwZW
+dS@fg
+X[@V
+%	B 
+RB3}
+2CRG
+15Uc
+5bgk4
+K>4:*I
+9I l
+N(t!
+>@`U
+CV4\;
+`1ni^
+%PWZ
+4 L*
+a-P$
+XEm<A
+h<s1
+7Ra[75
+M[NK
+Hr?!
+ks{4
+4-Z0
+fY1-
+{'G?
+$c}{c\4
+mSOFc
+_(O1Y
+$<ub
+QP7pf
+XR=u
+[	+2
+;c`$
+5uyms
+\	`>
+B]h2
+jlL e
++u?M
+(Y[-
+dsgT
+Kmi) 
+'2_;
+R!u :
+;@9Z
+h;X]
+D`Pw
+i5UYU5
+lnws
+ ;Q/m
+sgH[$G
+?@61
+F3Hj P
+On>>
+i1S<X
+X]OVJHR
+HS`OA
+Usuk}}{#
+KO.HE
+f}QQ2gJI
++C4H
+ aa\q
+0,k@Kq?
+b1Kk
+\~mu
+%K1m
+a-D!G+C
+.9%2N
+83UUn
+pI	(S
+A$v'
+83X6
+  p;\Z}
+<KOg
+~uZbTX	
+u&wF;
+{7_Z
+xs]8
+R%vGa
+!ptB
+UKYOEQQ
+o8Z,
+/MAV
+Aaae;S
+8{v%N
+h&z4#3
+TB%_W
+^hi{K
+[lov''
+Xh-|c
+-1,&+m
+Mjn^:9SL
+B!]l
+%7!t9
+>~t{y
+c(2'
+Bi}{#^
+/Hk]
+H,Ls
+)9,L
+bFI?h
+D"bh
+@Jlw{
+A5AF
+]jB4Y
+0)7D
+uq?^
+[_T+=
+6/H$
+PB&9
+v+2~
+cdBa
+;7`6C
+;"ln
+ImX@E]
+3oDR
+TZrb
+(B"Q
+7H<c5[
+> wUH"I
+b.n6
+%.x*
+<?9Z
+X:H!
+Z7YRL6
+?Y,MN
+6@5z;
+9pSf
+%fu^UK
+u	T<
+PGh]
+IQ4J
+Oi}Zr
+#ma[k
+<70?
+eTJe}
+!@"C
+[;,p
+@	fa
+$a0S
+Y<)h
+<&hH
+TDzM
+^V6Y@M
+=q2A
+bvDL
+if'g
+lWL.
+J3idv
+w><j
+lu<[
+P^,L
+rP-Q
+,@Dva
+*@diw)
+DWfy
+?+|a
+KR=6K!
+o2o3;`
+>Z,	
+(Dq'
+6[p!!m
+)"Z'
+A&:3
+#S[	:
+ijn$t
+	U<V`
+G."V
+:?DO
+iu:u
+JTRV
+f3?=
+@"Ed
+RNB(:
+gn`!
+(.K)
+J	)/X
+8jQ"+
+c~`(
+ di*
+(2#DU
+w>(S
+/,'WW
+J3;Y2
+(/^	
+UQnJ
+MSli
+lb@OG
+txPM
+Nr'i
+'I%8]
+&?=9
+/9;H
+B*R)
+e}z<;^
+.6)y
+>=j"0l
+n_h-v
+giZ=
+~Mpj
+,9oS
+z4ICD
+v2a P
+vxrs{
+Ru&pf2
+)f0Ul
+lo}J
+g"cc
+8c''t
+CYFP
+.AS.
+$SAhat-
+ur~v
+HCy1:
+ov[K
+Y]-n7}
+eaw{
+Qy^/
+6vA!
+!W&i-
+zP9%
+yIc$@
+/M=7
+U]/o.
+aJA=4
+gZiuz
+X,,(
+z65W
+A	{~tb
+%xEP
+Ooon
+A:)^}
+XM&,
+}[WuHtf6
+|2Va
+~tJ)
+EQ>LTB
+$Ni&
+Ky80
+l@a_
+\>z"/
+	}$2
+aPp9@
+C"(e^
+ifVp	
+ETR"
+(/Pp
+:zUR#
+'CR:
+9>?j
+4wyygn
+4-oV
+gi+(*4j
+&@QA
+eyr\
+i$u8
+WLIb+
+fz`(_
+:%D$
+Z.EY
+o7B	
+gua?
+8^cbOH
+Tp!WENT
+E%r.
+6c;:
+f7\u
+miDQ
+89:9wi
+,Gr%
+mu|ZWs
+er>#B
+JcLZ
+"7e;vw
+GXquu
+cS7a
+ruv|
+{|u^
+ mX%
+on7Ne
+	L2>Z
+?>)3
+<9%*
+sY @GJ
+y~vT
+yJ.$
+.OOF
+fi}8:=
+<9Q+FL 
+ID#d
+]Y 2
+n=?y
+i^,E
+")%0$o{
+=#Nq
+03oG;
+O93q
+h$G!=
+&(QJ
+3pib
+SNs!
+E]bV
+UP.n
+Dav[
+lvyn
+k#%)
+|d$"
+=cEU
+ms>[
+#m"`
+Ten7-
+2?;y
+[Q#q
+yIyY(
+#tKSym
+.J"L
+d_HJA
+U`]D
+j<99n
+K5c*
+]v}%>
+dgHgI
+WpfA
+8|VH
+>m'5~,
+}uDb
+"/Kk=
+=oU/
+vVVZ
+aeMX0
+a@vta
+NtdRgcG\E
+W0nYD~)
+]crcmO
+A<e6
+1f+c
+pfIW1
+{'/_^
+RryE
+|ZVA
+>Zb?&
+K0`RN1
+}OT#
+;,	v
+7R2\`
+n-lY
+O:;f
+QIEG}t
+2.K!
+f4c&Jz
+`wWUWV.
+/?~z
+y{vv9
+Ims|
+$G#Y
+FE(s
+h<<0
+|v~1)
+u]"2`
+5 QXN
+Kn4G
+`$ P
+(P]_K
+o/&Sn
+9vU\`
+?9"/0
+@R	PM
+q?w@
+QiQO
+!G0B9
+qS>{
+.6)Q
+i2pK
+)fXy
+zcJ5S
+i?}4
+gZG$I
+to"I
+2+uQ
+I:7y
+R$5N
+Q<{{~
+?|rr8:x
+5(KJ
+S~DEW
+Rp1 
+Kt2g
+~}v~>L
+pqJ6
+`8Z8
+\C2:x{v.
+qyyI
+EbQU
+^>}|
+N_]~
+(5 ^
+~]Rk
+>}|t4
+]&5-
+<:Dz+F&
+sS<{|,9
+'i"Q/
+-U5|
+DMaUs
+R0CR*r
+&`c`	
+('F]~
+Fb0;
+5;p&
+<zzr
+c45}
+B`E(
+,IH)$
+z5/`6u
+O|z@y
+uN{@y
+7y;C
+cQ*J
+O|5*
+ -^R 
+?z@y
+zk{&jWT
+AFG'
+p|||
+vOlS
+]lR@W
+E`"	Jw
+>Tyx
+]5l}
+39D&
+Alz0p
+)#?2
+Oyn;d
+|Y7/
+bqx4
+Pn#$
+FDq%2
+vrt|8
+3Vz@
+|<:9~
+@ay(
+ `Ap
+e)c_S
+Pn9F	
+:kYUl
+	a]=
+E{ZmM
+N+wg
+|m^#W
+#E,#
+G*[Vk
+IRD3w
+sqp<;
+~ "i
+@	;#
+mO.q
+.$O(
+Xi%]
+.q\S
+F22h
+83vf=
++Vn;
+$#)S
+=+`Q
+bvXi
+lhf{<C
+4*Q:D
+jKu%
+Lzc+
+m89o
+}^IBM
+:>y*
+g_~5
+bAXvU
+w?~,
+/r/V
+T0A+
+dG{J
+QKJ7QQ
+}EmP
+?z|X
+(hcx
+Faf*
+l>s?s
+;faJ
+Fl2j
+]4;;
+r2yy1=
+*b\pV
+t{jZ
+Jy64:
+q1(v
+{:J)
+NnhRN
+L_i;
+^f0EG
+E,y,"b
+"#)%PP
+A|yy
+U<DP
+Z2hW|;
+t')vk
+TD	/
+X%G`
+VaiH
+O^^8
+Kan5
+l*u!
+O[Mv
+5.^T
+URd*G
+iV\(5
+_Q kMr.(ZT
+`r/R
+[=bk&
+Z-qh
+`"BoR
+BCCi
+L0n*
+FjS&$
+CAo4
+_u47
+Ex7|w
+EQ"E
+8waL
+N@yh
+7lmf
+e$Q~E
+z~tk
+|#ih
+3[Sm
+qcGsOw
+Q,N 
+[MyL
+;.	5a
+H~cG
+hZn::
+]49p
+[t_?
+|(Dlo
+tK)O
+^xOh5
+qthr
+vs`]Q
+y"lSWk
+q,lH
+BkoF`i@
+t$7U
++M ybt
+1h{I5Z"z
+[A5Z
+*ab,
+blbq
+j!o_
+qQJC
+cJ!C
+,(}[)b
+jdAi
+jLin
+ |s;
+fv'}]
+nx$,
+f7rV
+[by%
+jo!B
+{7Rj
+($Uo
+VQDK
+Sa4RaL
+Uy#@q
+P\$%q 
+w4,#
+zvlG
+{$B$
+>o[}#
+PBg 
+\f>r
+(}K5
+2llY 
+{W/3
+i4%;
+$fG@!
+{wdL
+)Hs #P
+Dvv]
+P{F(
+gy6I@
+Ok`jdoo
+|_W^
+X`1pc
+)9h1
+;G(8
+0aV>j
+~_hR;p
+.j1Y
+QQv[
+0e$.[
+>-wC
+o{!n
+dBzw
+~J0|
+k*Dz
+IIX-
+2{re
+	zs-q
+JgsyOU
+`kYm
+IChK
+W\0@
+/_oM
+t_Wv
+7^f7
+En>5
+Pl5Dd
+IEND
+`J~GET /template/images/backgrounds/team-bg.png HTTP/1.1
+Host: 192.168.1.9
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0
+Accept: image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://192.168.1.9/template/about.php
+-c\1@
+HTTP/1.1 200 OK
+Date: Mon, 17 Jan 2022 15:52:22 GMT
+Server: Apache/2.4.52 (Unix)
+Last-Modified: Mon, 17 Jan 2022 15:18:12 GMT
+ETag: "2c12-5d5c8a933f171"
+Accept-Ranges: bytes
+Content-Length: 11282
+Keep-Alive: timeout=5, max=89
+Connection: Keep-Alive
+Content-Type: image/png
+IHDR
+tEXtSoftware
+Adobe ImageReadyq
+&iTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmp:CreatorTool="Adobe Photoshop CC 2017 (Windows)" xmpMM:InstanceID="xmp.iid:7E27A71959BF11E981CBDFA3C3337046" xmpMM:DocumentID="xmp.did:7E27A71A59BF11E981CBDFA3C3337046"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:7E27A71759BF11E981CBDFA3C3337046" stRef:documentID="xmp.did:7E27A71859BF11E981CBDFA3C3337046"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>
+IDATx
+yMKq
+`_?t
+WmWe;
+yMKq
+`_?t
+WmWe;
+IEND
+P6Di
+"1!n
+D/.>PtT
+JiX,
+X>ci
+#rwt
+cbe p
+M[{/
+%wocm
+4&[@
+L|B@
+-_iR
+|5Vq
+tYq<
+oYWQ
+*/g]
+5i!1mZ
+9j08
+ !KR@b
+4_&@
+P|fY
+lHfZ
+*:Kq+cca+
+_ZvC
+rnW_'
+*^Nk
+D]`VL 
+|}^<
+Q3mh
+@1Va
+$]*1$
+\v.k
+9l<Y-
+4'm@
+L'x@
+@VMp
+\Y61
+Xb&-
+]`+*s`
+=WY}
+he/A
+.o':
+az%|,Z
+N^3Ix
+;68s
+459`
+x+l6
+}`X$
+D"e^
+8M]0L=kx
+4\9@
+4\:@
+6m[]
+OPY@
+(1,@
+O1-@
+:?xAp
+(PZ@
+Jdt<
+P>0p
+\>0p
+O~%@
+gNR-
+pQ)lG
+Ez\&
+37"Pn
+TYHt
+}n&{ 
+g$\x
+'WSp
+(~&@
+P6Di
+[+{@
+LTVTgw
+"3^T`
+4+|@
+P6Di
+P6Di
+m	gu
+@lDrv
+t	3V1
+P7>f
+4v2_
+	*ih
+>=DB
+v~HB
+0;5@
+1gMHs%
+#0Cq^
+jE6'
+mZP43
+=imDc
+&gFR
+P>0p
+\>0p
+P>0p
+\>0p
+P>0p
+#uzs@$J
+j=L3
+%4?4"
+/Rk{
+QIhi
+o-Nx=1TA
+Ft5D
+,m{W%
+H8jl
+k3KI^a
+e'	D9$
+Ob%>
+=l) 
+}5]U
+oK74
+F;:N6
+\gY+
+[^/p
+<NzsX
+_|[_
+9=iJ
+4m1m
+	#)vb
+%eo(
+L~-@
+=E_TT
+&j1,
+<_arh
+8@i!W
+Lmyz]zS
+iG?Md
+oV<J
+=iv:@/
+-u><
+pZYH
+=M9s
+ZAVA
+vR+7
+@dJ%
+n/8-;
+|"h4
+=HAv
+)c]{k
+6sFKV
+N86k
+jxMi
+WB?'
+r+)d
+Y\tI&x
+K6Zv
+}<p5
+CfUC
+=Y"r
+3X<7
+=v6g
+>Shf
+6%JU
+,M'L
+9/o.
+nb?p
+N,f<B
+,f<B
+kr<B
+ws<B
+LR4@
+~Jz*
+*,	|Ynh.c
+p5MnS
+kRF_
+k]@.J
+"bK$
+SD)f
+	C2l
+"bK$
+"bK$
+":Wj{D
+9"4o
+Ig0+
+e=er
+tt(p[E
+KqKD
+,<>pM
+%w V
+d}R2+
+_	NY^
+ }2"r
+"Z=@D
+Yw25
+lMzF
+30hr
+Ol<)
+EV7x
+gH>yb
+rx&~$
+.3q#@
+=P]N
+1l$QQN?
+:,vN
+J%47"R
+j+Cv0
+h*aBl
+J!Xg
+MT<+
++O63
+V6+2
+Q/b_
+2d$;sr
+~G@\
+OMsn
++^0(
+;"`y
+cC2[
+`z=a]
+<,2*U3|
+e0'*
+{!F	
+c0Wl`I
+CZKn
+i;^t6.
+Rkv-PX
+wAFw
+#kUR
+T]%C
+R]ED<
+i~*H{
+PGUhLJ
+(^ofr
+ e3<f
+xH	89s
+6IV0vi
+^wf_o
+I'US
+kL"U
+/E`>
+L"^B
+|Qi`P
+~MUTt
+@TwJ
+*MJ]Sg[
+(pbJ
+,t$f_;|
+iJd5]
+q2w?]
+[vp3R
+JL6C@|
+e,g^L
+cA^y
+)a`X
+Otq2;^2U
+$jxf
+V'SY
+gxOr
+Y^VE
+j}TI
+yXaV
+L>|.
+[vp3R
+JL6C@|
+e,g^L
+cA^y
+)a`X
+Otq2;^2U
+$jxf
+V'SY
+gxOr
+Y^VE
+j}TI
+yXaV
+L>|.
+LPF@
+WY0a
+G[yA
+5aT.
+t)XQ
+X>,Y;
+o7s6`
+)DTyyISQ
+ ]=T
+.AZ2
+2ODY
+~Gs9LD
+;C@m
+PD`:
+fF=K
+'k+I
++~QkB
+S	`kB
+HGET /template/about.php?name=KCTF%7BFake_FLAG_L0L%7D&email=sddsf%40gmail.com&message=KCTF%7BFake_FLAG_L0L%7D HTTP/1.1
+Host: 192.168.1.9
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://192.168.1.9/template/about.php
+Upgrade-Insecure-Requests: 1
+HTTP/1.1 200 OK
+Date: Mon, 17 Jan 2022 15:53:10 GMT
+Server: Apache/2.4.52 (Unix)
+Last-Modified: Mon, 17 Jan 2022 15:18:12 GMT
+ETag: "2e81-5d5c8a933e46a"
+Accept-Ranges: bytes
+Content-Length: 11905
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+<!DOCTYPE html>
+<html lang="zxx">
+<head>
+  <meta charset="utf-8">
+  <title>Myself</title>
+  <!-- mobile responsive meta -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <!-- ** Plugins Needed for the Project ** -->
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="plugins/bootstrap/bootstrap.min.css">
+  <!-- slick slider -->
+  <link rel="stylesheet" href="plugins/slick/slick.css">
+  <!-- themefy-icon -->
+  <link rel="stylesheet" href="plugins/themify-icons/themify-icons.css">
+  <!-- Main Stylesheet -->
+  <link href="css/style.css" rel="stylesheet">
+  <!--Favicon-->
+  <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+</head>
+<body>
+<header class="navigation fixed-top">
+  <nav class="navbar navbar-expand-lg navbar-dark">
+    <a class="navbar-brand font-tertiary h3" href="index.php">Tareq</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
+      aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse text-center" id="navigation">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item active">
+          <a class="nav-link" href="index.php">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="about.php">about</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="blog.php">Blog</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="portfolio.php">Portfolio</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="contact.html">Contact</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+</header>
+<!-- page title -->
+<section class="page-title-alt bg-primary position-relative">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h1 class="text-white font-tertiary">About Me</h1>
+      </div>
+    </div>
+  </div>
+  <!-- background shapes -->
+  <img src="images/illustrations/leaf-bg-top.png" alt="illustrations" class="bg-shape-1 w-100">
+  <img src="images/illustrations/dots-group-sm.png" alt="illustrations" class="bg-shape-2">
+  <img src="images/illustrations/leaf-yellow.png" alt="illustrations" class="bg-shape-3">
+  <img src="images/illustrations/leaf-orange.png" alt="illustrations" class="bg-shape-4">
+  <img src="images/illustrations/dots-group-cyan.png" alt="illustrations" class="bg-shape-5">
+  <img src="images/illustrations/leaf-cyan-lg.png" alt="illustrations" class="bg-shape-6">
+</section>
+<!-- /page title -->
+<!-- about -->
+<section class="section pt-5">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8">
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+          dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+          commodo consequat.</p>
+        <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+          Excepteur sint occaecat cupidatat non proident.</p>
+        <p>Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+          architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.</p>
+      </div>
+      <div class="col-md-4 text-center drag-lg-top">
+        <div class="shadow-down mb-4">
+          <img src="images/about/author.jpg" alt="author" class="img-fluid w-100 rounded-lg border-thick border-white">
+        </div>
+        <img src="images/about/signature.png" alt="signature" class="img-fluid">
+        <h4>Johnathan Smith</h4>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /about -->
+<!-- Work Process -->
+<section class="section">
+  <div class="container">
+    <div class="row justify-content-around">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-title">Work Process</h2>
+      </div>
+      <div class="col-lg-3 col-md-4 text-center hover-shadow pt-3">
+        <div class="">
+          <img src="images/icons/plan.png" class="mb-4" alt="icon">
+          <h4 class="mb-4">Research and Plan</h4>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+            dolore magna aliqua.</p>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-4 text-center hover-shadow pt-3">
+        <img src="images/icons/design.png" class="mb-4" alt="icon">
+        <h4 class="mb-4">Design and Develop</h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+          dolore magna aliqua.</p>
+      </div>
+      <div class="col-lg-3 col-md-4 text-center hover-shadow pt-3">
+        <img src="images/icons/print.png" class="mb-4" alt="icon">
+        <h4 class="mb-4">Deliver</h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+          dolore magna aliqua.</p>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- ./Work Process -->
+<!-- team -->
+<section class="section bg-cover" data-background="images/backgrounds/team-bg.png">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h2 class="section-title">My Team</h2>
+      </div>
+      <div class="col-md-4 col-sm-6 mb-4 mb-md-0">
+        <div class="card text-center">
+          <img src="images/team/member-1.png" class="card-img-top">
+          <div class="card-body">
+            <h4 class="card-title">Jack Schenziwe</h4>
+            <p class="text-light font-secondary">Project Manager</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4 col-sm-6 mb-4 mb-md-0">
+        <div class="card text-center">
+          <img src="images/team/member-2.png" class="card-img-top">
+          <div class="card-body">
+            <h4 class="card-title">Jack Schenziwe</h4>
+            <p class="text-light font-secondary">Project Manager</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4 col-sm-6 mb-4 mb-md-0">
+        <div class="card text-center">
+          <img src="images/team/member-3.png" class="card-img-top">
+          <div class="card-body">
+            <h4 class="card-title">Jack Schenziwe</h4>
+            <p class="text-light font-secondary">Project Manager</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /team -->
+<!-- clients -->
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h2 class="section-title">My Clients</h2>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12">
+        <div class="client-logo-slider d-flex align-items-center">
+          <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+              src="images/clients-logo/client-logo-1.png" alt="client-logo"></a>
+          <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+              src="images/clients-logo/client-logo-2.png" alt="client-logo"></a>
+          <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+              src="images/clients-logo/client-logo-3.png" alt="client-logo"></a>
+          <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+              src="images/clients-logo/client-logo-4.png" alt="client-logo"></a>
+          <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+              src="images/clients-logo/client-logo-5.png" alt="client-logo"></a>
+          <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+              src="images/clients-logo/client-logo-1.png" alt="client-logo"></a>
+          <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+              src="images/clients-logo/client-logo-2.png" alt="client-logo"></a>
+          <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+              src="images/clients-logo/client-logo-3.png" alt="client-logo"></a>
+          <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+              src="images/clients-logo/client-logo-4.png" alt="client-logo"></a>
+          <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+              src="images/clients-logo/client-logo-5.png" alt="client-logo"></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /clients -->
+<!-- contact -->
+<section class="section section-on-footer" data-background="images/backgrounds/bg-dots.png">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h2 class="section-title">Contact Info</h2>
+      </div>
+      <div class="col-lg-8 mx-auto">
+        <div class="bg-white rounded text-center p-5 shadow-down">
+          <h4 class="mb-80">Contact Form</h4>
+          <form action="#" class="row">
+            <div class="col-md-6">
+              <input type="text" id="name" name="name" placeholder="Full Name" class="form-control px-0 mb-4">
+            </div>
+            <div class="col-md-6">
+              <input type="email" id="email" name="email" placeholder="Email Address" class="form-control px-0 mb-4">
+            </div>
+            <div class="col-12">
+              <textarea name="message" id="message" class="form-control px-0 mb-4"
+                placeholder="Type Message Here"></textarea>
+            </div>
+            <div class="col-lg-6 col-10 mx-auto">
+              <button class="btn btn-primary w-100">send</button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /contact -->
+<!-- footer -->
+<footer class="bg-dark footer-section">
+  <div class="section">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4">
+          <h5 class="text-light">Email</h5>
+          <p class="text-white paragraph-lg font-secondary">steve.fruits@email.com</p>
+        </div>
+        <div class="col-md-4">
+          <h5 class="text-light">Phone</h5>
+          <p class="text-white paragraph-lg font-secondary">+880 2544 658 256</p>
+        </div>
+        <div class="col-md-4">
+          <h5 class="text-light">Address</h5>
+          <p class="text-white paragraph-lg font-secondary">125/A, CA Commercial Area, California, USA</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="border-top text-center border-dark py-5">
+    <p class="mb-0 text-light">Copyright 
+<script>
+        var CurrentYear = new Date().getFullYear()
+        document.write(CurrentYear)
+      </script> a theme by <a href="https://themefisher.com">themefisher.com</a></p>
+  </div>
+</footer>
+<!-- /footer -->
+<!-- jQuery -->
+<script src="plugins/jQuery/jquery.min.js"></script>
+<!-- Bootstrap JS -->
+<script src="plugins/bootstrap/bootstrap.min.js"></script>
+<!-- slick slider -->
+<script src="plugins/slick/slick.min.js"></script>
+<!-- filter -->
+<script src="plugins/shuffle/shuffle.min.js"></script>
+<!-- Main Script -->
+<script src="js/script.js"></script>
+</body>
+</html>
+tsAZ
+]=HV
+L9`e	
+:Q>L
+*gG6n
+pnw?:K
+oM-Z
+!!XOu
+Al'4
+jG>p7
+jdI2
+/"$x
+dtd2
+0/j%
+r+mK
+74/e
+ (y-
+ZZXef
+dm)$I
+@)|#
+FV|\+
+l<Ce
+-PHm
+^DkQ
+Y]tM
+Dvkt
+{k_j
+E:mm>
+L]W@
+[mEv
+#!>h
+iYC$
+7>RC
+S?&5
+ 3Y#
+	DI3
+5Y%k
+ol&0
+F'&G
+/qu\>\
+uM=G
+I+~35
+qN/z]
+iWB~
+O8GO
+p%Lm
+5v"^
+x>f0z#
+3)M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/97.0.4692.71 Windows
+3)M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/97.0.4692.71 Windows
+3)M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/97.0.4692.71 Windows
+3)M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/97.0.4692.71 Windows
+.oQ/
+<%CW_
+A3Q8
+,'[ng:W
+fRg)2
+!&Y7
+A3Q8
+,'[ng:W
+fRg)2
+!&Y7
+"g{0
+GET /template/something.png HTTP/1.1
+Host: 192.168.1.9
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+.HTTP/1.1 200 OK
+Date: Mon, 17 Jan 2022 15:53:25 GMT
+Server: Apache/2.4.52 (Unix)
+Last-Modified: Mon, 17 Jan 2022 15:18:12 GMT
+ETag: "100d9-5d5c8a933fe78"
+Accept-Ranges: bytes
+Content-Length: 65753
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: image/png
+IHDR
+sRGB
+	pHYs
+ciTXtXML:com.adobe.xmp
+<?xpacket begin='
+' id='W5M0MpCehiHzreSzNTczkc9d'?>
+<x:xmpmeta xmlns:x='adobe:ns:meta/'>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+ <rdf:Description rdf:about=''
+  xmlns:Attrib='http://ns.attribution.com/ads/1.0/'>
+  <Attrib:Ads>
+   <rdf:Seq>
+    <rdf:li rdf:parseType='Resource'>
+     <Attrib:Created>2022-01-14</Attrib:Created>
+     <Attrib:ExtId>daea572a-248d-48b1-a320-ffe8643735ef</Attrib:ExtId>
+     <Attrib:FbId>525265914179580</Attrib:FbId>
+     <Attrib:TouchType>2</Attrib:TouchType>
+    </rdf:li>
+   </rdf:Seq>
+  </Attrib:Ads>
+ </rdf:Description>
+ <rdf:Description rdf:about=''
+  xmlns:dc='http://purl.org/dc/elements/1.1/'>
+  <dc:title>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>something</rdf:li>
+   </rdf:Alt>
+  </dc:title>
+ </rdf:Description>
+ <rdf:Description rdf:about=''
+  xmlns:pdf='http://ns.adobe.com/pdf/1.3/'>
+  <pdf:Author>Hackar</pdf:Author>
+ </rdf:Description>
+ <rdf:Description rdf:about=''
+  xmlns:xmp='http://ns.adobe.com/xap/1.0/'>
+  <xmp:CreatorTool>Canva</xmp:CreatorTool>
+ </rdf:Description>
+</rdf:RDF>
+</x:xmpmeta>
+<?xpacket end='r'?>v
+IDATx
+aWdd
+vUVU
+iRkk
+pEFF*5%Y
+p(22Bq
+M99[
+*,,V
+bQjJ
+-=\5
+[:tl[
+Wyy;
+,SMM
+|Eo-}O
+`WUU
+[MMM
+jkkSAA
+)!1^
+b544
+d2iR
+fMWrR
+m;rUTT
+>JOO
+/SlL
+LWdd
+TV^.
+x<jjn>afeY,
+H%{J
+v{TPX,
+*..V
+IJLL
+d2)%9I
+R+>Z
+lQuu
+\*(,
+iRSSS
+pRjk
+=**.QKK
+NhkkSMM
+Cmmm
+tOMMM
++9)Q
+S&)::Z
+w^-\
+E*..Qkkk
+X%%%
+TUUUk
++&:Zg
+^WIIi
+TeeUH
+*--g
+TRR*
+*++?
+[mmm
+.WTt
+fSmm
+AMMM**
+(%&&
+***C
+9PUU
+%%&j
+*--SeU
+nTTd
+4)7o
+bVzz
+:I+?
+aJMI
+@@ee
+)))Q
+!Vxx
++66F
+3N?UV
++99I#
+`PjJ
+TXX,
++%9I
+[U[[w
+XaaV
+wjkm
+x<*))
+mJMM
+g*<<\ee
+3y<M
+aWeU
+KTQQu
+UTT*og
+7oSDd
+fSrr
+4eff
+@7jim
+4(C6
+jjj5|
+{wIo
+,::J
+*::J
+g*::
+LSbB
+D+&&F
+.546
+h%$&(!
+:UWW
+234hP
+(::Z
+D;rwjOi
+)#=]
+JNNRLL
+*(,RMM
+:DYY
+hTrr
+G*##]
+iiJJNTxXXo
+HEEE
++..VsO
+2UTV
+jTSs
+}{C+
+*99IQ
++TXX|P]=
+`0(+k
+"##TWW
+EW\~
+&NP<
+IDATbb
+p(:*R111JJJT
+Z-JNJTB|
+ljltk
+2%Kg
+b5)k
+,\|@x
+@7JO
+X%%'
+JJJUUU%
+oi`yy
+JY,fED8d
+)5%Y#G
+&+!>^
+<]#F
+W_{]
+XrTK
+DG)9)I
+/PUuM
+;K}SSd
+$)5%Y
+JJJT]]
+$ED8
+g^PiY
++//_
+\$%%
+7UPX$
+E3gd
+jimUmm
+(11A
+bQll
+)<<\
++9)Q
+r:]Z
+lSss
+l6eO
+x<jhh
+>qG\Zh
+X4p`
+:|]I
+~9/U}
+{sk@
+zHy;
+	###t
+/Wjj
+J/(N
+M;<:
+c>W 
+kGaK
+	50=M
+pLtt
+FS&g
+/UhSnS
+aWRb
+L&ED8d2
+^y<M
+._6x(^
+~zur
+VEDD(=}
+OT^^
+*1!^
+`0(&&ZS
+))1A
+g*'g
+%fQQ
+;wu8
+qcd0
+lSMmm
+d2)55E^
+U(OS
+#ihh
+*R;]
+#)(,
+h4*99I6
+)!!Auu
+7nVdT
+)5%YcF
+>qjjj> 8
+"##e2
+gWs:]jk
+m\aV
+&Y57;JV
+{m>P
+ZW^~
+:%Rc
+3+F7_
+U:L`
+`PMMM
+34eL
+tE8L:
+8-{j
+JJJ<
+D^]1~
+/HPF
+SUUu
+u_55
+UW^*
+8].-~s
+X@'L
+W*..
+No/}O
+?UZZ~P
+`PXX
+b1(k
+d2iR
+;Fee
+6`j(	
+IrRN*
+!2eO
+\$/-z
+0xRfI
+/ZqQ
+r'Wy
+VY76
+8^`F
+v'' 
+IDATN
+5zzz
+A@Aa16
+o#4$
+GKK+
+ S&hq
+9G"H'/h
+y 'gV
+uttb
+:dM'ljn
+omz?
+m{:q
+(;k<
+J%&f
+kQUU
+/DCCc
+>&.J
+HOCbB<
+f >>
+SgQ[W
+t:,_
+j9&MLGss
+Q"kr
+MAtt
+#%9	7
+7Q]-
+z=23
+0=s*bb
+CGg'
+(*:/
+mU8^
+Q1V|
+cQv(>
+,2zEE]l
+W/DB|<
+Vjj2
+.Gk[
+n%jjjQU
+fu"*\
+xp}4
+&NLG
+)hll
+hY#!
+,B$h4
+<t13
+.N	=Q
+yZh|
+bccp
+ $%i
+M()-
+n(T*
+$cEN(
+<Yta
+8 kX
+>LHM
+!%9iHe
+@l$%W
+/f28
+Ehlj
+BaF#V
+z<jjs`J
+Q(4$
+D[{;
+eE8nY
+?CLt
+=tvvy
+b323t
+qi8>
+nBMH DD
+P[W/
+:tvv
+<8URR
+ws$^~
+VY19M
+z{zq
+;wA2(
+q`YV
+6tv{
+yEf\
+5WC+
+KNy5
+{(5$$
+;<ga}w}4
+gE?gY
+k2!7
+$''z
+  &&
+18Ul
+b1wN
+A@Ii9
+k*%%	
+ynfA
+[Mp:
+c].'+
+z,!W
+6nz,
+MM-8}&
+Gg'}
+BYu?
+g~V&
+QwHH
+HIIBm]
+_-MRU
+e0}b
+_=&$j
++*Q[W/
+;w!444`
+e6[PZZ
+P %9	+
+-GsG
+V	]X.
+!CPP
+,2~(
+ 9Y\
+kPW+]>
+,2>h4
+)eL3#c
+t:-&O
+W(((
+|\yy%
+ 8Wa
+#=~=
+sav`
+		HKK
+797)
+W,wX
+KDEEba
+#BC<
+mn^;9B
+ >>N
+IDAT
+Y3QS[
+WhAQ
+TlL4
+YV--
+fqyr
+QF8i
+!mB*T
+fBgg
+Lo**
+m_*o
+9QX6
+&@{{'
+YlDR
+I!r^_A
+LJ9*
+ !dl
+]7D"H
+cgMX(
+d|Q*
+bqYN
+B!Yz8R+W,
+0wN6
+o8r4
+q8}&
+nN/!
+Ozzz
+8Nrb
+ !dl
+V ##
+-0 3C
+A]}=
+V8Xcc
+l6467{|
+	446
+j7JJ
+mCj:o
+2CWQY
+A@MM
+{|uvv
+Bo-W
+ZZZQ]S
+hnnACC#V]
+PT|~H
+_U]3
+Q#8X?
+z!""
+9^OO/r
+BX,}
+zTUUc
+ytvu
+oTXT
+qhhh
+c'<>
+555C
+jdfNE
+)C:>
+`YVv
+ Vuu-
+I~?+w
+Vr[[k;
+!$@l6
+l{GG':;
+d\()
+!!Xr
+`@dd
+WvM~~!
+8_:y
+MM-8r$
+dYVt
+76nBcS
+HDFJOR
+`Yqo1
+JQZV
+MV^^)
+_?**
+@Bb<
+)9RS
+T"44
+7qb:
+CJJ2
+P$'%"X
+GuU-
+V!*2
+j4>]
+&"mB
+`]}U
+_|5(
+!zJr
+o@Ss
+:h[X
+YY3p
+7w623
+P]];(
+%%e>
+8#(1!
+ %%	K
+S&az
+l6;*
+LfTU
+CaQ1
+XlL4
+Mk$3r.
+/w|-
+V+$bs
+@6toimC]}C
+8r47`
+IDAT
+JQ\|A
+@ee5::
+h{kk
+FTVU
+,TJ%f
+<tD2
+C]]=
+IMIFX
+$H8c
+4$'%
+'""#D
+|	v~
+bcbD}
+=wo@bb
+h{}}#6
+!.455
+T465
+%%e8|4
+]sK+>
+v#'g
+"#0iR
+dfNEyy%
+2Q	!!
+!.tvv
+T*de
+{zzq
+A?omiEii9
+L>zzM
+%!@ tAA
+E@PQ
+;wzz
+prrb
+6[Mpc
+UXTD
+8E``
+=ztm
+rHNNm
+83tH
+Jpp 
+[EUXX
+/ ;'
+L&RS
+Cx{{
+[(*.n
+f3ii
+s+(5
+3h`,}
+'oo/:w
+U7uo
+abqI	
+;v4O=9
+CG9w>
+Mqq	
+G^^>
+*++9s
+VU7Y
+K@_r=
+j:^EE
+A!Qm
+PYYY
+[CUW
+?'MV
+_x)H
+G`` 
+NS=e
+FFF&~
+V}>7+66
+hpwURP
+o:5y.
+IPP *
+D^^~
+k/3u
+/S'O (0
+t0s'V-
+k>7a
+%TGv^
+Cjjz
+|^W+`
+z~ O
+4o_O
+j4J^
+3h`,
+h4X,
+j%//
+p*M&v
+EVvN
+jq}\
++ZzM
+}FQQ
+~hw*g[rpp`
+!DFF
+;4|S
+>CJJ*E
+T*";G0
+;1bx<ii
+8W]gG
+sefe
+<S'O =-
+ysga
+z***
++GGG4
+HfVv
+QSXX
+JEDD
+h/zF:Q
+zJs!
+m^TEv
+4uM[
+}cxb
+Cp0K
+U>z})
+[F^^>^
+KVV6
+BRXT
+1m2^^
+ikP(`
+j2+W
+&nPlMx
+77WV
+WTTTUwM
+M.\)
+A899QTT
+T*PpC
+rrrY
+V[5up
+}c8w
+_K=#
+3e/3
+.LoqU
+ptt$?
+IDATFc%
+pw'##
+Gll4
+o3),
+nxu>
+3hP,
+{)++C
+3|x<
+,((d
+	#=o
+6	WWW4
+`9;;
+V9lYU
+J%={vg
+MN~%
+X,$&&
+!x{y
+DF0e
+/-%++
+[jR_M
+Z[_S
+FNN.
+(,,b
+\mv`RYY
+KTT$
+PZj`
+>AQQ1_
+;@ZZF
+gM' 
+NWk:
+/&^{,
+uy<5
+T{vNH
+;QPPH@@
+ldff
+Q0yt
+yO1[
+PTb&4XGh
+U+(.5
+JELL_
++cL&
+]Q1)
+&nP,
+QTTl
+l6s!
+djQcw
+jzD:r
+LxX'f=8
+O>F|
+)**f
+K(.n
+|2rn
+W:6z
+V^5X.
+v>oo/
+|T*%
+mL~>
+[Xln2
+0TXy|
+u8;]
+zKM/
+Uk*`
+sO14>
+UWcm
+T*quu
+s91	
+!D[S
+(.)a
+??_***8|
+	!Dk
+fU%AU
+DOYYY
+??_*+M
+Zu0U]
+Z-TT
+),*"%%
+GNN.
+qvvB
+9L&s
+xK+H
+hprrd
+Im<B!
+y*Ww
+PTX|
+t:t:
+RVVFQQ
+k0$U(
+8;;QQ^
+Oyy9
+}x{{
+,V+V
+f#//
+4Q\\
+c'9y
+sr)++k
+T*";G
+O^^>
+LUUUEE
+KK)(($;'
+=j8J
+KJ8~
+YM>^
+T2 6
+CxX([
+*M,Z
+8*Ww
+f#-=
+"##H
+NKaa
+9;;3 6
+~JAAa
+J.]J$99
+KII	
+A8;;QT\
+\MNA
+7WW|}
+'??_
+QZj 
+G`` 
+dddbn
+oIMM
+L<==
+` %%
+ZMxX'<<<
+HIMk
+P0h`,
+l6JJ
+!=]B,!D
+INIm
+AGVV6
+IDAT
+B233
+qvv&//
+$%%s
+(,,j
+JELL_
+HNNm
+.^B_ZJ
+*)**
+j5={v
+`(#5-
+0hP,
+Dee%
+!D#T*
+1|X|
+wtxU
+XINN.	
+h4JE
+/RZjh
+`(#-=
+wExU
+MTdg
+HhhG
+Nqq	
+!8::PT\
+Erqq
+HII%%%
+}IfVv;
+l6*++
+wu0h0
+M'T(
+/RHH
+:|im
+N8;;
+pvvF
+L&S{?
+]kik
+x<f<
+w~gD
+jrrJs
+07]_8
+/|S/
+Yk5;;
+W47?
+K]]]U
+XKgg
+a{-^
+:::6i
+n=yB
+W5;;
+7Nk||LCC
+Ohnn^
+quww)
+ijrJ7nN
+|ESS
+MLLjbbR
+khpP
+/jrjJ
+fffusbRss
+G":w
+U!z)
+v#YO
+6vmv)
+?3Un
+)Zu=U
+~1Q|
+>W=f
+ZUoU
+|VNol
+jNEZO
+&L?,
+1s0f
+_@Hjj
+OScza
+$pZG
+a6AcOv
+7&k+'
+U8^3*
+S}ZQ
+idEaF~
+-OQRi
+XuP~
+N+S)
+U:4s
+M{_U
+i||>
+f$?}
+8K{`
+-u&*
+4"w)|
+?[4%
+/[_65
+i{OA-W^
+V5q$
+RELq
+oc7c
+5;P(
+i]S{k
+r\[V
++/]X
+V-T|
+y}eZ
+UK+?gj}Q
+UyU]
+sFSx
+(Fh:
+Jxe)
+!Vq0
+~Zr2
+$g5s
+Z#c6^
+M]~J
+IDAT
+l&*'
+Y-F.
+by50
+onZ/
+O-U^
+R&9]
+wJ2rr)eS
+*VJ.^[J
+^R"~]
+l6Zq$
+ZG>_
+B]cJ'
+nkO,
+O~C]
+rrqeR
+99y}!
+^X4q
+?V&5
+ji]B
+4A2vY
+yEg_
+ljN7.|R
+TqU[>
+\JWO
+:wkd
+]{VY
+3rr)-
+R&5[s
+lbi_
+\6*I
+`XFF
+_~HSW
+fn|YVV
+^y|Ae
+X2zY
+[3$2F
+ZYY-L
+TbB37
+U"zI
+Q65/cj
+-_ \
+#Eg_V.
+kO+>
+R"vU
+LLFv
+&ksJ
+N-L=
+@SX+%
+	Q>4r
+L&.kSJ'
+LrNRe#v
+;Yy|!
+O)<x
+T*>!'
+?S"vE
+i1rZ
+4U0#
+_{d<^
+zNCc
+d<>e
+{dmV
+W"vY
+_V:9
+CC:x
+fo~E
+~YFVS
+\6!k
+rMx%Q
+MCco
+C,V!
+B(44
+q65$
+q2JD/
+B,z`
+Lfa]
+!%cW
+Oi1rN
+uKOk
+IEND
+i?8t
+"ewn
+izx?
+ Sr7
+b|-V
+Vto(
+?(2Dd
+1Y>:
+M0_3
+[+}@
+L+~@
+y&$R
+O1	d8
+%xCv!&
+cx6{
+}Ez0
+?'<L8#
+$I==
+OP[@
+L&rA
+H\DSF
+aW>D
+!D ~k&k
+%QW/o
+[t/s`u
+		~`
+,GwD
+O1.@
+0#X<2
+(P\@
+U_Bb
+!Au9
+ZXbq
+iDg5
+OzO5
+`J4D
+$qBu~
+!H~_>F
+Kz	X
+$ukY
+\Ja-*Pg
+*/4~
+!L5B
+4P	@
+Wdrme
+|cdL
+8/DD
+A3l;w
+	Z%2m
+bh)O;'
+9G!,
+O~'@
+(~(@
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+Cache-Control:max-age=180
+Location:http://192.168.1.1:52869/picsdesc.xml
+Server:OS 1.0 UPnP/1.0 Realtek/V1.3
+NT:upnp:rootdevice
+USN:uuid:12342409-1234-1234-5678-ee1234cc5678::upnp:rootdevice
+NTS:ssdp:alive
+QUoX7
+whNOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+Cache-Control:max-age=180
+Location:http://192.168.1.1:52869/picsdesc.xml
+Server:OS 1.0 UPnP/1.0 Realtek/V1.3
+NT:uuid:12342409-1234-1234-5678-ee1234cc5678
+USN:uuid:12342409-1234-1234-5678-ee1234cc5678
+NTS:ssdp:alive
+T5VNOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+Cache-Control:max-age=180
+Location:http://192.168.1.1:52869/picsdesc.xml
+Server:OS 1.0 UPnP/1.0 Realtek/V1.3
+NT:urn:schemas-upnp-org:device:InternetGatewayDevice:1
+USN:uuid:12342409-1234-1234-5678-ee1234cc5678::urn:schemas-upnp-org:device:InternetGatewayDevice:1
+NTS:ssdp:alive
+c!zXr
+PzeNOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+Cache-Control:max-age=180
+Location:http://192.168.1.1:52869/picsdesc.xml
+Server:OS 1.0 UPnP/1.0 Realtek/V1.3
+NT:urn:schemas-upnp-org:device:WANConnectionDevice:1
+USN:uuid:12342409-1234-1234-5678-ee1234cc5678::urn:schemas-upnp-org:device:WANConnectionDevice:1
+NTS:ssdp:alive
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+Cache-Control:max-age=180
+Location:http://192.168.1.1:52869/picsdesc.xml
+Server:OS 1.0 UPnP/1.0 Realtek/V1.3
+NT:urn:schemas-upnp-org:device:WANDevice:1
+USN:uuid:12342409-1234-1234-5678-ee1234cc5678::urn:schemas-upnp-org:device:WANDevice:1
+NTS:ssdp:alive
+\d|NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+Cache-Control:max-age=180
+Location:http://192.168.1.1:52869/picsdesc.xml
+Server:OS 1.0 UPnP/1.0 Realtek/V1.3
+NT:urn:schemas-upnp-org:service:WANCommonInterfaceConfig:1
+USN:uuid:12342409-1234-1234-5678-ee1234cc5678::urn:schemas-upnp-org:service:WANCommonInterfaceConfig:1
+NTS:ssdp:alive
+J,.NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+Cache-Control:max-age=180
+Location:http://192.168.1.1:52869/picsdesc.xml
+Server:OS 1.0 UPnP/1.0 Realtek/V1.3
+NT:urn:schemas-upnp-org:service:WANIPConnection:1
+USN:uuid:12342409-1234-1234-5678-ee1234cc5678::urn:schemas-upnp-org:service:WANIPConnection:1
+NTS:ssdp:alive
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+Cache-Control:max-age=180
+Location:http://192.168.1.1:52869/picsdesc.xml
+Server:OS 1.0 UPnP/1.0 Realtek/V1.3
+NT:urn:schemas-upnp-org:service:WANPPPConnection:1
+USN:uuid:12342409-1234-1234-5678-ee1234cc5678::urn:schemas-upnp-org:service:WANPPPConnection:1
+NTS:ssdp:alive
+x8(vZ
+vXX>T
+BO 9C
+GdM3k
+= Ru
+VOr*
+Dk8O
+N>K}
+ i\c
+eUDp@
+Ab7wM
+Mz}B
+GET /template/portfolio.php HTTP/1.1
+Host: 192.168.1.9
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://192.168.1.9/template/index.php
+Upgrade-Insecure-Requests: 1
+HTTP/1.1 200 OK
+Date: Mon, 17 Jan 2022 15:53:34 GMT
+Server: Apache/2.4.52 (Unix)
+Last-Modified: Mon, 17 Jan 2022 15:18:12 GMT
+ETag: "34fa-5d5c8a933fe78"
+Accept-Ranges: bytes
+Content-Length: 13562
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+<!DOCTYPE html>
+<html lang="zxx">
+<head>
+  <meta charset="utf-8">
+  <title>Portfolio Template</title>
+  <!-- mobile responsive meta -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <!-- ** Plugins Needed for the Project ** -->
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="plugins/bootstrap/bootstrap.min.css">
+  <!-- slick slider -->
+  <link rel="stylesheet" href="plugins/slick/slick.css">
+  <!-- themefy-icon -->
+  <link rel="stylesheet" href="plugins/themify-icons/themify-icons.css">
+  <!-- Main Stylesheet -->
+  <link href="css/style.css" rel="stylesheet">
+  <!--Favicon-->
+  <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+</head>
+<body>
+<header class="navigation fixed-top">
+  <nav class="navbar navbar-expand-lg navbar-dark">
+    <a class="navbar-brand font-tertiary h3" href="index.php">Tareq</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
+      aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse text-center" id="navigation">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item active">
+          <a class="nav-link" href="index.php">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="about.php">about</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="blog.php">Blog</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="portfolio.php">Portfolio</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="contact.php">Contact</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+</header>
+<!-- page title -->
+<section class="page-title bg-primary position-relative">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h1 class="text-white font-tertiary">Portfolio</h1>
+      </div>
+    </div>
+  </div>
+  <!-- background shapes -->
+  <img src="images/illustrations/page-title.png" alt="illustrations" class="bg-shape-1 w-100">
+  <img src="images/illustrations/leaf-pink-round.png" alt="illustrations" class="bg-shape-2">
+  <img src="images/illustrations/dots-cyan.png" alt="illustrations" class="bg-shape-3">
+  <img src="images/illustrations/leaf-orange.png" alt="illustrations" class="bg-shape-4">
+  <img src="images/illustrations/leaf-yellow.png" alt="illustrations" class="bg-shape-5">
+  <img src="images/illustrations/dots-group-cyan.png" alt="illustrations" class="bg-shape-6">
+  <img src="images/illustrations/leaf-cyan-lg.png" alt="illustrations" class="bg-shape-7">
+</section>
+<!-- /page title -->
+<!-- portfolio -->
+<section class="section">
+  <div class="container">
+    <div class="row mb-5">
+      <div class="col-12">
+        <div class="btn-group btn-group-toggle justify-content-center d-flex" data-toggle="buttons">
+          <label class="btn btn-sm btn-primary active">
+            <input type="radio" name="shuffle-filter" value="all" checked="checked" />All
+          </label>
+          <label class="btn btn-sm btn-primary">
+            <input type="radio" name="shuffle-filter" value="design" />UI/UX Design
+          </label>
+          <label class="btn btn-sm btn-primary">
+            <input type="radio" name="shuffle-filter" value="branding" />BRANDING
+          </label>
+          <label class="btn btn-sm btn-primary">
+            <input type="radio" name="shuffle-filter" value="illustration" />ILLUSTRATION
+          </label>
+        </div>
+      </div>
+    </div>
+    <div class="row shuffle-wrapper">
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;design&quot;,&quot;illustration&quot;]">
+        <div class="position-relative rounded hover-wrapper">
+          <img src="images/portfolio/item-1.png" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
+          <div class="hover-overlay">
+            <div class="hover-content">
+              <a class="btn btn-light btn-sm" href="project-single.html">view project</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;branding&quot;]">
+        <div class="position-relative rounded hover-wrapper">
+          <img src="images/portfolio/item-2.png" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
+          <div class="hover-overlay">
+            <div class="hover-content">
+              <a class="btn btn-light btn-sm" href="project-single.html">view project</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;illustration&quot;]">
+        <div class="position-relative rounded hover-wrapper">
+          <img src="images/portfolio/item-3.png" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
+          <div class="hover-overlay">
+            <div class="hover-content">
+              <a class="btn btn-light btn-sm" href="project-single.html">view project</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;design&quot;,&quot;branding&quot;]">
+        <div class="position-relative rounded hover-wrapper">
+          <img src="images/portfolio/item-6.png" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
+          <div class="hover-overlay">
+            <div class="hover-content">
+              <a class="btn btn-light btn-sm" href="project-single.html">view project</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;illustration&quot;]">
+        <div class="position-relative rounded hover-wrapper">
+          <img src="images/portfolio/item-8.png" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
+          <div class="hover-overlay">
+            <div class="hover-content">
+              <a class="btn btn-light btn-sm" href="project-single.html">view project</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;design&quot;]">
+        <div class="position-relative rounded hover-wrapper">
+          <img src="images/portfolio/item-5.png" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
+          <div class="hover-overlay">
+            <div class="hover-content">
+              <a class="btn btn-light btn-sm" href="project-single.html">view project</a>
+            </
+div>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;branding&quot;]">
+        <div class="position-relative rounded hover-wrapper">
+          <img src="images/portfolio/item-1.png" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
+          <div class="hover-overlay">
+            <div class="hover-content">
+              <a class="btn btn-light btn-sm" href="project-single.html">view project</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;design&quot;,&quot;illustration&quot;,&quot;branding&quot;]">
+        <div class="position-relative rounded hover-wrapper">
+          <img src="images/portfolio/item-3.png" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
+          <div class="hover-overlay">
+            <div class="hover-content">
+              <a class="btn btn-light btn-sm" href="project-single.html">view project</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-6 mb-4 shuffle-item illustration" data-groups="[&quot;illustration&quot;]">
+        <div class="position-relative rounded hover-wrapper">
+          <img src="images/portfolio/item-7.png" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
+          <div class="hover-overlay">
+            <div class="hover-content">
+              <a class="btn btn-light btn-sm" href="project-single.html">view project</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /portfolio -->
+<!-- clients -->
+<section class="section bg-light">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h2 class="section-title">My Clients</h2>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12">
+        <div class="client-logo-slider d-flex align-items-center">
+          <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+              src="images/clients-logo/client-logo-1.png" alt="client-logo"></a>
+          <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+              src="images/clients-logo/client-logo-2.png" alt="client-logo"></a>
+          <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+              src="images/clients-logo/client-logo-3.png" alt="client-logo"></a>
+          <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+              src="images/clients-logo/client-logo-4.png" alt="client-logo"></a>
+          <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+              src="images/clients-logo/client-logo-5.png" alt="client-logo"></a>
+          <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+              src="images/clients-logo/client-logo-1.png" alt="client-logo"></a>
+          <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+              src="images/clients-logo/client-logo-2.png" alt="client-logo"></a>
+          <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+              src="images/clients-logo/client-logo-3.png" alt="client-logo"></a>
+          <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+              src="images/clients-logo/client-logo-4.png" alt="client-logo"></a>
+          <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+              src="images/clients-logo/client-logo-5.png" alt="client-logo"></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /clients -->
+<!-- contact -->
+<section class="section section-on-footer" data-background="images/backgrounds/bg-dots.png">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h2 class="section-title">Contact Info</h2>
+      </div>
+      <div class="col-lg-8 mx-auto">
+        <div class="bg-white rounded text-center p-5 shadow-down">
+          <h4 class="mb-80">Contact Form</h4>
+          <form action="#" class="row">
+            <div class="col-md-6">
+              <input type="text" id="name" name="name" placeholder="Full Name" class="form-control px-0 mb-4">
+            </div>
+            <div class="col-md-6">
+              <input type="email" id="email" name="email" placeholder="Email Address" class="form-control px-0 mb-4">
+            </div>
+            <div class="col-12">
+              <textarea name="message" id="message" class="form-control px-0 mb-4"
+                placeholder="Type Message Here"></textarea>
+            </div>
+            <div class="col-lg-6 col-10 mx-auto">
+              <button class="btn btn-primary w-100">send</button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /contact -->
+<!-- footer -->
+<footer class="bg-dark footer-section">
+  <div class="section">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4">
+          <h5 class="text-light">Email</h5>
+          <p class="text-white paragraph-lg font-secondary">steve.fruits@email.com</p>
+        </div>
+        <div class="col-md-4">
+          <h5 class="text-light">Phone</h5>
+          <p class="text-white paragraph-lg font-secondary">+880 2544 658 256</p>
+        </div>
+        <div class="col-md-4">
+          <h5 class="text-light">Address</h5>
+          <p class="text-white paragraph-lg font-secondary">125/A, CA Commercial Area, California, USA</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="border-top text-center border-dark py-5">
+    <p class="mb-0 text-light">Copyright 
+<script>
+        var CurrentYear = new Date().getFullYear()
+        document.write(CurrentYear)
+      </script> a theme by <a href="https://themefisher.com">themefisher.com</a></p>
+  </div>
+</footer>
+<!-- /footer -->
+<!-- jQuery -->
+<script src="plugins/jQuery/jquery.min.js"></script>
+<!-- Bootstrap JS -->
+<script src="plugins/bootstrap/bootstrap.min.js"></script>
+<!-- slick slider -->
+<script src="plugins/slick/slick.min.js"></script>
+<!-- filter -->
+<script src="plugins/shuffle/shuffle.min.js"></script>
+<!-- Main Script -->
+<script src="js/script.js"></script>
+</body>
+</html>
+GET /template/images/illustrations/page-title.png HTTP/1.1
+Host: 192.168.1.9
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0
+Accept: image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://192.168.1.9/template/portfolio.php
+OHTTP/1.1 200 OK
+Date: Mon, 17 Jan 2022 15:53:34 GMT
+Server: Apache/2.4.52 (Unix)
+Last-Modified: Mon, 17 Jan 2022 15:18:12 GMT
+ETag: "474a-5d5c8a933f171"
+Accept-Ranges: bytes
+Content-Length: 18250
+Keep-Alive: timeout=5, max=99
+Connection: Keep-Alive
+Content-Type: image/png
+IHDR
+(8@A
+tEXtSoftware
+Adobe ImageReadyq
+&iTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmp:CreatorTool="Adobe Photoshop CC 2017 (Windows)" xmpMM:InstanceID="xmp.iid:E667F13159C411E9BE968C26C188EF86" xmpMM:DocumentID="xmp.did:E667F13259C411E9BE968C26C188EF86"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:E667F12F59C411E9BE968C26C188EF86" stRef:documentID="xmp.did:E667F13059C411E9BE968C26C188EF86"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>
+IDATx
+DeYa|
+.&Wv\
+<o#K
+bbvG
+F1qG
+F15s
+0}Y~
+pin/
+8G#k
+.W}<d
+Uu[#
+;'KS<
+Yn]u(
+?rei
+6oE~
+w6?h
+juWi.f
+@?X&
+@?(@
+?]\_
+<H;W
+\rX=
+["oD~e
+U Y|
+f{dkd
+Jsa.
+X>["
+FMen
+7Fv,
+?"?/
++R~Z
+9!t]
+f /N*@
+&roiVJ
+_nsu
++_jf$
+}.Zo
+@7(@
+tSdc
+R~0M
+H=vG
+1LM^
+=g|;r
+2};Ks
+Z#XV{KS|\i
+QT)/n
+}]iV
+:-/2
+[Y6:8
+}syiV
+?K~Y
+@{KSz
+QnYr
+"WFd	
+dUdOi
+(:c]i.
+:@cO
+~cXVy
+]u{d
+~`d}
+1,yv_
+ [#_
+(.hO
+GKsF
++Ks';,
+]n_zg
+0+WD
+faMq
+y.rz
+_Fn0
+<76K
+\6Ev
+!Ybl
+f[inZZ
+\E2:#
+jsGi
+Mi1g
+Sr$r{
+_D^4
+~5r4
+@Gl,
+s7Dv
+.fUd
+`@~m
+p!{"
+0nWd
+@ZUl
+`Xn4
+w?]c
+|=r_q&"
+@7)@
+!OGN
+2r]q
+6E>Y
+[c}#
+_G~2
+;O>]
+-W0d
+LPnG
+["wO
+{#Gg
+}gO?`
+@_)@
+p^Y6
+Gm>,g
+{#Wt
+RY4d
+YF|P
+F=1y
+cTfX
+p)r{
+Rmo_
+KqSdW
+*y1ttH
+1Z52ne
+,X_k
+rcTv
+_E~]>
+,y1.o
+&kt.G
+]2*4FY7
+L@nK
+z9Sr
+gs0my
+1*7F
+5`v6
+[7DV
+DYbl)M
+jK9St
+xe,y`
+x4*9
+fTx|d,
+9l,g
+cYc4
+)9^j
+g\=e
+Acmi
+[nYuydwi
+Yx<_
+K5*<
+,9^(
+6Yxl0
+>nth
+}\c,
+<l{1L
+,>^4
+ 0L;
+\iVv\Y
+c{Qx
+*5Un
+=Zs1
+m8\>
+bS[J~
+@Mw&
+#WYx
+~R7'uc
+o)ot
+juE+
+E_kurR
+@-+Z
+@-&@
+}-)%
+AGNxd
+@%&@
+XTwZ
+NljI)
+ 0~{[
+ ';2
+jI)C
+QUNv
+cSKJZ
+%e?C
+=NF_y
+/v0n
+jGYK
+VG[]
+q];J;
+IEND
+GET /template/images/portfolio/item-6.png HTTP/1.1
+Host: 192.168.1.9
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0
+Accept: image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://192.168.1.9/template/portfolio.php
+pHTTP/1.1 200 OK
+Date: Mon, 17 Jan 2022 15:53:34 GMT
+Server: Apache/2.4.52 (Unix)
+Last-Modified: Mon, 17 Jan 2022 15:18:12 GMT
+ETag: "13a31-5d5c8a933f171"
+Accept-Ranges: bytes
+Content-Length: 80433
+Keep-Alive: timeout=5, max=98
+Connection: Keep-Alive
+Content-Type: image/png
+IHDR
+tEXtSoftware
+Adobe ImageReadyq
+&iTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmp:CreatorTool="Adobe Photoshop CC 2017 (Windows)" xmpMM:InstanceID="xmp.iid:486888D559CA11E98AA4BA2571A50B81" xmpMM:DocumentID="xmp.did:486888D659CA11E98AA4BA2571A50B81"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:486888D359CA11E98AA4BA2571A50B81" stRef:documentID="xmp.did:486888D459CA11E98AA4BA2571A50B81"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>+
+IDATx
+5CAc
+*3cq?:
+UYU~
+2###
+R*ZkZ+
+O@_u
+*rk>
+!W/`
+BVKe
+F^B-
+R}aH
+GHuma
+aHl9z
+h7~m
+Pw:*
+QnO5
+ (Dg
+f}]9D
+`;p.
+n9K4`
+N]5V
+267U
+wzIz
+M^aV
+n ,Z
+f	!Y
+1(lw
+-dj%
+!n\W
+}r,J
+.FCJ
+\<xL
+%`AB
+*;mb
+x>fY
+!Yp,[
+j%jX
+S<(V
+65-?
+=pPC^
+VMY]
+UvwA
+r9nYc
+E0H}w(
+{Ie[
+ro.\
+KyU;
+l%lQ
+X4T{
+o;Am
+*XB]
+v`Zo
+bjRV
+|c5%
+"qM{
+h\%h
+\a09p
+;HkTQj
+WVbv;9
+q4X7
+w<wm
+]KU\
+=/Z#(
+6at(
+<v[w
+BA-`
+R\^l
+^-9*
+=_Eo
+?`s;
+7<[w
+as0wy
+o{4~OR
+-i{yi
+.e'hRZ
+]z{Go
+4Tl>
+D^qN
+0gP#
+VhrzK'.G
+eY!RA
+I{[o:
+V?XWi\<
+Q~`*
+qJ')
+3(Yn,
+M3'UG
+u/si*
+.>aKi
+gUUY
+Bj?I
+occr<
+dI<K
+NtXt[
+	BUQ
+2tex"
+re	E5
+1LU2
+b	0I
+7@yPv
+*;*IR
+>LNN0V
+V[Urz1
+$;;N
+T~~3
+$iRm
+I_W)
+&~;}4
+GtJz
+H`F\
+9ASQ
+8=9U&
+9hnM
+*1&Q
+<>NF
+cLAGW
+8D+,q
+oN_{
+-VqL
+FE\1"oQ
+(ILZGDX
+:0p2x<
+)n(h
+gI9_
+d#E9
+"7):"
+."~ZLn
+I,VU
+.BSz
+UnVD
+gT(2q-
+h1u2
+u*#B
+2e_5
+[,]Bz
+`i]9+Y
+kM@G
+}@jXBRk
++rIq
+rE\7
+GP_5z
+Co4#%
+[I(N
+\ST>\
+<	i:F
+W_u.
+gv.|
+pk8"ZG
+qBpK'*
+NLlXN
+r>~!
+#0KUI
+%N6-g
+:od:H
+IJQtOy
+d79w
+-pgW
+_#D.
+6z.	
+$AD@r
+$!G;
+&L;@
+Y.w.
+WeVEf
+'U')$^
+,%H)\
+8"wH
+iB4ti4
+-Ad>
+~dBSv(N!
+E%DP~;`
+)Z5K
+x2aDqSu
+,\YV4h
+,}g)
+#i4'
+	I^s
+ULD1(0Z
+;oM5
+NnXt
+D`0O
+}i?r
+2*NSVh
+RCZ*Q9
+WyLt4n]
+QUZD+
+ri'g
+,S|=
+9&A"
+o7F.
+c<5+
+B-CPg
+/_M>
+$Wv6
+:???IF
+*U|u
+EAuO
+:Z;M
+\<G[
+kOM		E
+kp9'T
+;8-8
+QVZ7
+0e+Q
+R'1.
+45zN
+E(QL*
+	:T)
+K~1A
+DymG
+[xCMK
+F).Q
+?%fd
+''%z
+eL%6f
+V oV
+a%1U
+U8`j
+b<J#A
+0mUo
+7Ez4
+fa)I
+g%f<>K
+XFJyf
+aiHv
+S8m\
+QBaID
+m<KomJ
+4<>N
+7];Pzz
+!wD5B
+(-'o~
+[D,&
+GwDpp
+Ka^T
+JH-,
+WfV*=
+b2~p
+'RXN$y
+a>) c
+P;O%
+(UF?
+GO\Y
+M T3ty%
+}yG7
+,#@^-
+yJ-)
+TDNb
+HRQ@
+*7eI
+AJ$]
++E(bdv+oO~?
+Mu\E
+PSg@>
+OVTw
+fU2^
++Z$`%
+z/mWW
+Ni@j5
+#bf<
+Fq2*
+>Erj
+U=YE3
+ILA5
+#rcL
+$2it
+UMF\{U
+jt[Nj
+V"5'
+Z#K+/
+8{pR
+J\wH
+)>~$
+EW$N
+pms+C^
+uQ[X
+zzai\v>
+	P\1
+[O%\0
+;}e3
+P8$Cn1
+FGz&
+Ijno
+&Fzs
+^z<M
+y5i!
++EpM
+He)	#
+]V<" 
+/YOa
+ciGN
+NxU(i{
+\Jwi
+xtd.
+	ILT
+N?I3
+V)~i
+GML4
+*/ I
+.(m;
+x8Wo
+	W%)
+K{QT
+hnLb=#Huj|
+z^uXY
+kRD'
+mem[
+Lo_j
+XQ#F[Q
+k(s(
+ssJ5i
+PwZ4
+]!)_:
+FQFa)q
+&Ic&
+"5Lz!$
+tpIg
+%*?][
+IH&!
+V.t?
+Y!!L<
+.`Dq>
+a_BS*@
+oU!\)
+%#y;+
+U>Uu4$
+;?0uG
+G	zO
+nuqKz
+|={p
+&7Vo
+.dB[
+fIfb
+F=7!
+o6eM_
+2gji
+/^AY(
+3"9{
+*0"R46
+49>>
+A?:>
+OsW}
+$)?"
+3`9b
+'RCT
++	(]VvV
+t>!lyr
+Y?5Ex
+n{'8mI
+|m\-
+vp4P!
+nKE^L
+iUw1U
+KD00
+FPrq
+@#ntT
+DTiR
+t'8Z
+,iE#
+TFig
+I#uKaYt
+R6<1
+yT3i
+xfe-
+%vBi
+dG*3$
+(/p`K
+<?gC
+C|Ld
+T%p[
+LPi"
+0'>L
+;MI 
+-O';
+qzz:
+V5H.
+k!A`
+*vZr
+g$4`
+<$q;P\
+v;X#
+;2~"
+G qQ
+%/s^qb%/
+'Vl1B
+4Dhv
+D)KC
+rYG-
+ZRIm
+m%7+#5
+)tsd
+rYM%]G
+=F{%
+l(1g
+aOd6N
+~G-X
+fJr[J
+xA1B_
+o7gif
+_S`Q
+J>]%
+}rR7
+WJdi
+nd,R+
+;+@[m"
+7bnP
+O^X}
+$%8]
+i^ojuP
+b-B-l
+6	W`s
+u|Z^
+1P'"yC
+}y3[S
+nz 2W2Zo
+:K)J
+M} o
+$@91
+AHZ,
+jp&iXz
+Xci,
+"hmc^G=
+v58.ks
+*zV^+
+F-!7
+2Gs<A
+)@#.@X+
+3|@i]
+|>_zE
+cDJR
+Dqk:
+R5A:
+j\qK
+';B$
+7-X6P
+jV!P
+.x&E
+)f_6x
+_/g)
+wTr\]	a
+Pj^Q 
+1~1_
+*Eiz
+{vae
+2@oa
+,MBj
+-Mi%
+si#$
+]+AM'
+_^.4BV
+YR"4
+b+iz
+qw^O
+IT^i
+SKP6JGbp
+ '=l&PE5k
+RyX6.3
+bW{FtW1;B
+Pp!G
+P_`9
+'eE"7
+j7B,
+tZ\.v
+alyY
+u2K?c
+>#oA=fkpJ
+"O"!C)
+Z:7_
+F4aE
+d1NFa8O
+v4,[
+75f@?
+;>}h
+/c/r
+oG!H
+a6[w
+hm<8
+dX9n
+WH#e
+(;']K
+\5Q(
+io/L
+EJzw
+tBzB
+XpD:
+~=b hDi
+5/Q%
+P5-I
+w@gd
+VUq+
+UkTR
+Fd4R
+-gXj}c:
+jHPr
+MfIl
+l5T<=A
+$'A}
+V3Yk
+kiWhlp
+<IA6
+l/nA
+"'E:
+Id9o
+:e|X
+D7LO
+,4g4`
+xBzB]
+&DyN
+xzLi
+TfW6>
+H4pT
+=`RS
+;=D2
+[	SFM
+9n3g
+ql7i%
+/1gY5
+k@"/
+g	K9@P
+fVC5
+8QF-M
+^@A6
+(VD7
+H,Kz
+Rwl}
+F^lf
+5epa7
+W} [
+Hy3HGI
+YS [
+#8PN&
+L:t<
+)E_Y^
+`~SV
+T^#f
+pTMU
+H	Ata
+iJOG
+^WCT
+ri^s
+9qIS(
+d}'j
+_F3z
+3yyY
+d#V&
+}k-"
+o6\V
+pz<z
+89DCo;]2
+Giyz|
+A68W
+5)`?F
+,M!)g
+&	9g
+|P$~]d
+m+Nn
+_xdyM
+(R=xUl
+t7)u.V
+xLHp
+ u#>
+^s2+
+Y,$(
+U/7{
+K&&P
+O6?o
+vSFoZ
+4'{>
+\FwC3
+/RX&
+i|=tY
+	Yw,
+NYH:vP+0f
+IIbH=S
+>[{M
+,k]c
+EYgk
+N>{k
+>g}z)
+~k[Eq
+5{(i
+~QKX8
+z6S[r
+_Pd)
+m?aKy
+JO'wJu=,
+.sl7
+sl"KI
+C0;~$
+bgD~d
+UF9a
+3Gu#
+yw<M
+5$3OS
+i:56
+lWIes
+F(0b1
+xn&p
+q sbz
+IM398
+W?C5DK
+W}))S
+UU8\i
+0Ms>
+0bvY
+dlq!
+6Z~Nd9
+]vJD
+PEq#
+:33K
+wF=:A
+1nhw
+4mu+
+8#nh
+N$BT
+ bC6b*
+c[T3JD3-
+l#0xN\
+R'eK
+#Kyvb
+xkV(
+DS79]G
+j6F 
+YRr"
+%qw+"mm
+G\yn
+Lm#X
+.hS+ js
+g29!
+00 [
+m2"Y
+h"u>
+2gY6
+[K\BY
+z38.
+'tQa
+NA-:
+ H*=
+)$uP
+@.*0
+LiZ*
+]!6m
+$q"%
+2Ou}O5 
+5+h8
+J/bC
+o"o	
+v8xq
+2\#l
+ZYXWo_
+Kkjb)
+>:KH
+9WaN
+St5:
+";OnPg%@yI2
+TMOz
+2O'#v
+/BMR
+ydAh
+Q4nK#n
+$hb\
+E2 |
+qbSq
+un*+<.
+j/Ho
+n7><<
+Yc_\
+BA75H-
+y3'Vz
+=a6Z
+!e@s
+g>NyZ
+bwA:
+.2ZV\A&
+NdW<
+zMjD
+U r/Y
+Yl;I
+c$f&[
+ k>_
+c,57
+"8Tf
+cWg}3?$
+kfdfUw
+LOUF
+,Q$qq
+&%kU
+5CWN 
+uWF%
+H(1D
+5VPA
+?tpM
+';{p
+1z2>
+^p[UEbo
+Dd52f
+\"4W
+gjt>H
+~=@\
+9h>W
+@3C$
+2%9U
+[B\Gl
+pC{YA
+ZM1 H
+]\zjw
+wX!}J\
+m*_,,
+qacq;N
+oTBJ
+ualK
+#\ol
+wG1i'0
+t;9W
+buh}
+PF'+r0
+-J"	
+qiG>
+ %5e(
+l/L8J
+C#y!
+UXEb
+(Q6RA
+BD3I
+pKWpv
+t	Gg
+:Vfm
+oM)(f
+_|bm
+,>cF`
+bQbN
+G &p
+ioPzK
+F5[C'5
+2BN%B
+0	c[
+xq_M@M
+USWE
+.Z`k
+-$qQ1
+.AVlmUH
+N{f%
+F^E]
+8Yj 
+r{-^
+*n>:
+;E		|G
+F/$+
+!3Wa
+^>WC?!
+gICT
+wKSbZf
+k}l3
+!nY3
+_h^Z
+S& C*
+U4d,-
+oMAW
+Rf"Q
+>l-%
+z!bk5R
+s0RfQ#i
+:G0x
+yhGO
+<r64	
+7!Gv
+y&VN
+6AXn`
+q^ci<
+uKnv
+wX(S
+8Y3wM
+oCe*
+^.7?Z
+Z[Z&
+Mda7
+kUPY
+wb uO)
+2LO0H
+pABs
+Xup-
+zO<F?
+-bv2
+wUU>1A#W
+>IA!
+o"u:Y
+\<@S
+IoFEK
+tO;!
+BlLZ
+j#qz
+Z7=[=
+miK	
+,tf0T
+KUdW
+PEwD
+o)Tb
+j6*7E
+tpV)
+5d"JM8`
+x0EW
+/XtV
+]\]]
+2!@t
+afdIG
+d{!-,
+p,u 
+wl6?~|ol
+"vJ	vo
+,=k6
+KvI0LGiSU
+{!L3Jb
+DPvg
+:4*i
+W"Zd
+OSn} 
+I52$`
++B--
+>i)z
+$ex8
+n[n{
+>U@YK
+'s=58U
+,EKw
+S%h|
+ v 9\LMB
+/_ono
+5Qn$
+aCA:
+p4$F
+'C)#
+-`!P(
+&V&&
+{KKx}eJ
+^(Vk
+hH:Y
+~NEJj
+Jnxj
+M[BJ
+jRg#*
+IE x
+k+nP
+(c'@ 
+EgCFem
+s'^u
+jWMc^
+{>^6
+;y0	3
+*6YK
+)v*{
+:#~@
+9n'*|!
+0yeO
+)TJ&
+NZUt%
+R	pU
+U,u(
+IQ0f
+B$ LcP
+b:=v
+_HG`
+\,)0Mi
+cQgE
+s 9.^
+Pt_o
+B/V+CGlY
+:_/u
+HKWv
+LeDt
+B6n2
+b!V;
+l!C!W
+Z;"a`
+eacD
+}wwE&z-
+Wq6w
+zu}U]]I
+cm%d
+%:$.l
+X{!w
+9K-\
+9upM
+Y=L]
+}een
+0{TT
+xHt](qdR
+w*?\]
+' #(
+uTT!l
+=t]B!
+M`mFJ%$h
+.XM&7
+/DDqV
+`D<Q
+9pDM}i
+|*RC
+H)l:
+A6EU
+#<%v
+n7u@
+Q~PA
+!U	.1
+t4jipP
+8wjGw>^ad
+H/'K
+EnA)
+r|1X)
+Bh^.
+=&Xx,
+LBS5n
+n[7uC
+o~#1E
+4{d 1$
+uQv>
+NOvmO
+/ZNQ
+#UC3-
+*_at
+`\4_~
+pj<9
+Ka#12
+&hbG
+a8#]I5
+J]JJ
+I(T:
+GyRA_
+g15N
+FE7d
+\UG&
+YFPE
+=(p"
+(UIE^
+F+E-
+yr	p
+tU$9B
+f7T=
+C$b 
+;;B\	\
+@YdE
+eY5`
+_aZqO
+MBA$r
+';wM
+)R9r}d
+mY3E,
+%rv&
+n%st
+C3Sa
+vG?XeM
+<W~7G
+1R&w
+8%2H
+H&z1
+)!h=
+e1$)
+w*8BF?D
+BJG;
+0kp'
+OYLB
+UNDw
+0'|C
+rz?;#
+A.RcN
+@qH:
+R3e*
+[e]p
+	V!Z%
+s9XdIG 
+M|u;
+9?]tn
++V3z
+6/x/
+#H?vR
+:tDX{
+X>;S
+,?[Dfwp
+1'}TXqzo
+})n}
+6FTC
+Y^oj
+fNBK
+^G)4
+0l@X
+=5Wt
+|Vr	
+7s~1
+Z+E 
+&e.mV
+A|f-
+Vi5ec
+i]d{
+%>tf$>;$)7;h
+\qeD
+qb0q"
+m.7E
+bh~z
+x\dy=5a
+z_[N
+>s%OB
+g.vy
+]2rY
+yo?uz%
+t<f2
+{ydZ
+i_dJ
+^#3v}
+tI^,
+Nk'^
+1WCgN 
+IEND
+ag3GET /template/images/portfolio/item-8.png HTTP/1.1
+Host: 192.168.1.9
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0
+Accept: image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://192.168.1.9/template/portfolio.php
+HTTP/1.1 200 OK
+Date: Mon, 17 Jan 2022 15:53:34 GMT
+Server: Apache/2.4.52 (Unix)
+Last-Modified: Mon, 17 Jan 2022 15:18:12 GMT
+ETag: "6e5f-5d5c8a933f171"
+Accept-Ranges: bytes
+Content-Length: 28255
+Keep-Alive: timeout=5, max=97
+Connection: Keep-Alive
+Content-Type: image/png
+IHDR
+tEXtSoftware
+Adobe ImageReadyq
+&iTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmp:CreatorTool="Adobe Photoshop CC 2017 (Windows)" xmpMM:InstanceID="xmp.iid:73E1ABF159CA11E991B0DBD83C97637F" xmpMM:DocumentID="xmp.did:73E1ABF259CA11E991B0DBD83C97637F"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:73E1ABEF59CA11E991B0DBD83C97637F" stRef:documentID="xmp.did:73E1ABF059CA11E991B0DBD83C97637F"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>*
+IDATx
+eYV%v
+TTBA
+dH2k
+f[g6
+cks#
+G-IrM
+%)-q;\
+Fl,T
+xpOb
+C	9@
+U]bS
+A"!:
+9	SL`
+#S)]
+XHJ}
+a&C}e
+4?@3
+DCz 2
+[ZXFJ
+u"/ZQ
+STXA
+d)qj
+1Q*Q
+mjeUJ
+*ku\j
+,%Ng.D
+QNo&d
+dh2:
+d)qZ
+91S	
+d)qZ
+[Nxi
+i3d7
+|hSB
+9}Vi
+d)qJ
+/^>z
+STfI
+EeT\K
+b$9L
+\L4d
+z{Vm7);2[5
+jHoM
+LmUm11
+(i@G
+w*aA
+mA#h
+DF*~
+7k+hc
+ummv
+4	20
+ib16
+b}{lK
+"[pS
+q)%&|!@
+WGegf
+BJYL"
+Et3}
+dM3O
+n9SQ:`
+r#jX
+,%nOX
+4kAq
+/fNy
+i@^I
+66AI
+rst`
+,!MJ_
+&&<J
+*H 2Vd
+"gF0
+DiP!P6
+dcK.
+s&zC
+Z4U:
+-Idi
+'}~ 
+	j=3
+;6TI
+"O(G\
+'B/T
+i2(a
+/}7E
+qb	1
+vZm$L
+XC^*
+aXo+
+?/Usl
+5ULh
+UfQ?
+q/!LbT
+mh[G
+2"b1
+jey"
+n}LF
+06\m
+M"&"
+C e\
+2FMn
+Q*F9UbS
+.4d}8
+7:T:
+Bey?
+8`J~
+JTCC
+HYVm
+AW;o
+cmij
+`.r%)
+Djt\
+p{(D
+3[q,Za9
+ u[^k
+@>,tr1
+V:%c
+~,-0$t1$
+Eh/7u.i&r
+2?@R
+kX_4
+;,y%
+0$4q
+1znR
+no?"
+V"m)
+:A)!Z
+8j=hH
+kh:)
+[{$K
+y,/0
+>pcB
+ef64
+4O>{
+N_NwrQ
+qd U
+Uz&O,
+FT b%V	6o
+.7fF"
+5$nB?
+HL_9
+kF#9
+.Jye
+ R]?
+Zvs]
+m,5*
+4oYK
+rpxas#
+1#5b
+N2uUH~
+4qi@X
+Iov4
+e!\:
+UsQW	P
+FxjY
+BcAL[2_!
+!9\d
+#,Cj
+D@p4
+n,n4M
+#V\?4
+k{m=
+cp|_
+%c_uU[
+@Z2T2B
+N/{l]
+tPw~s
+,o#P
+@5&3
+l#KV
+^ef<
+h2rQ	F
+CovH
+hO+	v
+15%)
+Yt&e
+	tnb
+i}$Q
+];[A/
+2&cE
+q7\s"Gz
+jd_Z
+&;m=
+B~Tk
+r[Un
+YUU$ 
+%7)	2
+]m@*
+'6Q[
+b!O'
+fN+D
+lnKUE
+{{cgc
+dSVC
+@-X:
+A$EI
+G#B~0
+g>KL
+RFd,
+,)eb
+R2G+
+!:|m
+J!y	
+B>6(
+`bHU
+#iW:
+d\l4
+dG#L6}f
+$u;s
+^J'(
+$4YS
+Ynwp!
+aVCwqj
+XlsM	
+'H_V
+|Z0As4
+h?K(xP
+jjcj
+;{i9
+[ly5
+V*0*P
+6]o^k
+ib8Nwhn
+YeOL*
+_::;
+YRxK!?L
+3;C}1~
+jF\L
+D12 IOm
+jhJB
+o-)c
+4v4:
+k=p!C
+(:76
+0*2|s"~
+3<.t
+=A`D
+D	Ra
+#[-]
+eHxL
+69of
+j%TH
+DpC	
+Lb\?FS
+iC>-
+a@hB
+mIVKv
+EU3.Qx
+E2:Lmj|S
+10-U<
+J7Tc}U
+.f+|IR
+Y.jn	
+3=aI
+}Ld=
+YhbI
+LOPZ_
+5rr"
+f-;]
+1'My
+4!@\|
+6`X:'
+psdY
+:P<K
+nvj1
+"Q`WJ
+iLe8
+DZN`
+)h-;
+`UNf@
+q+}k}K
+:aK]
+!*6Q
+p7?;
+Vf-L
+MM*_Z~
+iQw5O
+FZeM
+H _J
+~[:I
+f//'
+5&^U
+gn=u|
+y:Hv
+`cvG
+I[N2
+NP6b
+T SG2"$3
+YV$[
+9HVuLr
+ HsY
+@{;m=
+%AcY
+5*X3
+@3%+k
+0r:9
+BwpQ
+DE+e
+OW>O
+_k@WA
+*^+(RI 8`
+6;Nu
+@)!z
+3%&GL9
+cXZ7
+&&:s
+7.1Z
+Yx3FQ"
+Rfq*7jR*
+?S6Fp
+&4lmt
+r>PZ3F>q
+"@8=
+rb1J`
+ZU]s
+YzC3
+6'tV>
+0Z|s
+N"E7
+E198/^
+lN`a',
+(<T:ODgWp
+i8SQ
+zf1j
+y6%o5SB:m
+Bu\3V
+3Wz6
+1j2K.
+nU%Y
+?Hi&
+RMNG
+[7onl
+Bp'u
+eQSb
+#yYeY
+OnM5Y
+wC-!
+\qs^
+U16T
+,_jzQ
+zh"u
+\>wz
+?UUv
+]Z\>|
+^VYY
+sO[5M
+QlV4
+&*f7
+L#&zu
+IEND
+agEGET /template/images/portfolio/item-7.png HTTP/1.1
+Host: 192.168.1.9
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0
+Accept: image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://192.168.1.9/template/portfolio.php
+HTTP/1.1 200 OK
+Date: Mon, 17 Jan 2022 15:53:34 GMT
+Server: Apache/2.4.52 (Unix)
+Last-Modified: Mon, 17 Jan 2022 15:18:12 GMT
+ETag: "d747-5d5c8a933f171"
+Accept-Ranges: bytes
+Content-Length: 55111
+Keep-Alive: timeout=5, max=96
+Connection: Keep-Alive
+Content-Type: image/png
+IHDR
+tEXtSoftware
+Adobe ImageReadyq
+&iTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmp:CreatorTool="Adobe Photoshop CC 2017 (Windows)" xmpMM:InstanceID="xmp.iid:5FB38B1359CA11E98008AA467EB4B1C3" xmpMM:DocumentID="xmp.did:5FB38B1459CA11E98008AA467EB4B1C3"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:5FB38B1159CA11E98008AA467EB4B1C3" stRef:documentID="xmp.did:5FB38B1259CA11E98008AA467EB4B1C3"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>"m
+IDATx
+ez4=
+wWOmw=
+}1s7
+s2#=<
+{6?\
+xMMQ
+<aiI
+8U:|
+M2@*
+;5b?
+n'^C
+C;n~
+gr4I
+]32F
+-,8Y@
+Q,|_/
+:zIX
+^eg~!"IO
+gfCNu
+OCXC
+4OilF
+!LBK
+OG(vl|
+~6"h
+0b7Z2
+hd+o
+S@Z?
+T2^a
+7Bg4#V
+j'dD
+CZ=}
+LpemH
+F BD
+P13 
+s rpl
+0@K!}
+C<(L[aZ
+hHXZ
+'^3z
+8a.4
+o@1+
+P+`[qJmd
+8Crr#O
+a_z=)d
+L	.@
+4m`k
+#//Z
+@e]B
+2KnN
+t$f?
+$b"*
+6';!
+iFS 
+Li/d
+:X*j?
+'*v/
+ 2$fl>F
+4/Y1-@y
+-iPA
+@g|?
+9N!d
+#T2At
+KL'cZ9
+k@J	
+Rln|
+j5Y^
+euQa
+W'I:
+wc',A
+-l![#tr
+T0^S	X
+ljY,
+[c<8
+}0YD
+$Ivs
+P|WC
+$L1t$W
+CFpdpB
+*	JM
+v)fQ
+pRyxV
+AHg/X
+7qX-
+fQT	
+z:X6~
+D>K$
+tXgg
+&83:
+7<Z9
+t>0t
+@x,o
+&a_] V
+A0s_&
+88ZpyQ
+iIk4
+OdrWv
+0LMZ
+e&N~
+1P"2
+WeEr,t
+pK)K
+j$8Z
+pUS{N
+GOx7
+ll]Vz
+	AWI]
+*LQ$
+HJBKn
+cun`
+8!pO
+\,{N}
+(c(Z
+4>rG
+w(T2
+'};U
+WJI})
+pd~G_
+O~Zpe
+9]=]k
+bduQ
+c{N2jQ
+Tro;
+w#]b
+n&%G
+ 4lVA
+HQ4(
+2(K:
+-PRI
+*4){
+~	W'
+qT8s
+LpU%N
+.&}"H
+S[D1
+LV7O
+Ln-8
+rhR}
+dBH6Nq
+\hh$*
+JyV*A&
+pWDO4
+MyLQ
+f<Ur
+zZ8kFT9*Q
+I:rH
+)<P^J
+;ule
+!	8D
+Xqk!
+`@YBa+
+T$REw$
+eG/+
+gcQU
+EgnT
+S+..
+-bu	i
+Zw>j
+H),z<
+z"4gYxd
+!L|?
+4~#L[
+E/>+
+CyqX
+P<P#H%I
+ER>]	C
+c%U'
+z=k^4
+;yxh
+A}V2;&)aPQ=
+]fie
+5!hH
+@pn'g
+d'Ld
+ [$ 
+6A:jRg0
+oF%zu'
+'0>$
+Ll`,pr
+Z`t5z
+jfn>
+aFft&;
+CCDf
+ay_A
+ych`
+luXT
+tUF+
+*VO5
+db:<L
+IgI]
+D-1O^
+W.nN
+%v#)
+47Bd
+@*6U
+1*vh
+$6nE
+smXs
+p)@9
+6eT"
+UM}B
+!Ufs
+I^=`
+&M J	
+wh,z
+9K-e
+	&0-
+|fZ}
+8SV[9	1
+`MbW
+slD^
+M4f)
+9 &"-x.9
+<&CeF
+p[(U
+'wH!y
+cuT?M
+~FN6
+H`:UY
+63Y5
+6c"('
+t;4+
+RQ5TXt
+ZaM8n0.:s
+VJXL%
+qbyuiG
+=9 h|
+xqQi
+=Sf 
+fv,<)
+\D,yz
+P:no
+3!{7C#"
+l])9
+s-|n
+Oqo<
+5=Gm3
+B"&q@Pe
+E-K	
+:5<-
+@Uce
+8<xI
+(mbA
+G8@l	
+A5e]H
+l3j>
+H2*O{
+-YyJ8
+M^{Du
+Q\FG
+OHT#u
+Q#n*!
+!+=1
+5@j{
+-rd3
+#W/!
+K%b=M
+m6F$E
+#K>e
+||&~
+M:Y0
+]$el
+ImLq
+<1,4$Y
+=Iqz
+xRG<>
+)i1U
+];oB
+aW}$$A-&E
+i.cj
+a,[/
+D}*k
+Zud]x:
+c/uF+
+)Lg*
+0PKY34IYI
+2z;:
+Ec0Ru
+u#2V
+rg)nZ
+>g&K
+pq0B
+:1D7
+NfvU1A
+=|+y
+5+ct
+~gFgL
+bt0y
+yQ;1+
+sN[N
+.cf!Iq
+"_pr=
+P: V
+&Nm?
+QeHhyU
+YcE.I
+>7z:@-`-w
+k-kp
+A4Jz
+,3GB7k
+|']p6
+]oXN
+u;}k
+jBIk%
+O*UT
+XW3y
+R	QJ
+WZ=XI
+$(F.
+L*@U
+|7B3
+t.8U
+>lQ*
+ {AE
+C=A<~
+"N|P
+Q4a(b
+Yf#"WS
+ST+xqf
+|^yNJ
+#y[/
+r*z'
+Ar(zk
+X[6S
+:4/#
+Ce`\
+Kz[#
+vh{/
+Y<t~
+]=Dj
+_=~~
+xDP?
+hw3Z
+G6SX6
+QeTU
+RK&-
+z3`4
+Xg=R
+y+Uw
+c#_Fe!
+g6yRw
+~dpq
+N"|(H
+-a,9
+m=)F
+2/.U
+q/c<
+U$>X
+wv1RD
+=j_^5
+Q^*bZ
+m:gbh
+jm;{
+>+HVt)
+q#i7
+nyWv
+4F	'gk
+(qgo
+0oa-
+$dYh
+4D4}
+.(*\
+HPVi_(
+@x3W
+aZ}w
+yNnQ\
+t^Lo
+ZXF(
+,Q1*
+twot
+W}-}
+Se_M
+?;{p
+OVR,
+O^mu
+n{}pF
+C^s 6#
+?SH'
+*(FZ|
+'/?h<T
+>M8u
+\ JYzH
+./F{
+f9_|
+6z^fi{
+Nuxg
+wRbzXG
+	F&E
+kZh[
+<BlA
+|MtRG
+s1jK]&
+G?ys
+h?~}
+KefU&
+UPPP@
+ec6m3f
+b+j_
+5eV!-u
+ooonln
+|VMts
+*\P5
+*J2$
+e%*Y
+\)i+
+>.\~>
+7jGj
+URhvZ4
+%gq8
+xkO/
+UgWt
+"J.\]kji
+3-v]
+[%Ii
+f:AU
+9-Zo
+urXDy
+,o;!
+*!V=hl&;:
+BqW$
+IuT&T
+z{BP
+msw^
+d9:k
+>-G#y
+<K!*
+mmc 
+ooA,d
+o;$JU
+Jw^94
+vmPGCJbj
+By@D
+v{R3
+(V\t8
+[=$V+
+/Wrwj
+b&>{*
+E-Y!P~
+E	lx
+vrD#X
+4y]z
+<Y-c
+;{m1Gl
+hv00
+x4>y
+)JR[
+qqbK
+b&%S8
+!(B_`
+J^6<rt
+ejXhjD
+XD=}HI
+{8g	
+?/DY
+gLP@
+mk[j_
+	irF|s<y
+?qjOiV
+F&w8v3D
+A~42
+2H3c
+0OgtT
+.4'%
+\t/8{
+j&RH
+DuO:~
+TxeCh(
+e	@n}m
+J	A	;
+cU%T[
+t6=w
+jO3y
+%5X"
+4i $
+<7ft
+[nlNF
+CIV^
+r |o
+I@0 
+}(u}9
+ALy2
+Nn.W
+9^Ao
+D[A/
+/]B#
+z]JG9g
+y:}BL%^s
+d"DBB
+`:s`
+j!m:
+m>[6
+9@Aia
+L'm|
+P@/s
+)`7ZLVU
+M^}^
+BVGA
+DmWx
+dwoz
+vLsd
+BrK(
+8(EV
+3Be%
+l6?vT=t
+[#zb
+)5(EF
+5O<r
+!+jf
+x;8!
+09lo
+(y3-
+~sw<
+CfTA
+d^D_
+|F%(
+Kn$?
+^,O1y
+/\9C
+uE2Q
+n rsV
+d6YQ
+C|a6b
+C$>#
+,j>,9
+;R$M
+&y_O'hm
+oQh4
+]DS1
+XCnS!Q
+8&DfOp
+!vv/
+YYLhh
+0B6uTii
+}n5t
+oG9:
+8Y>[
+Q%~^9r
+G'6F:rd
+UMFL
+w'qS
+NUJHM
+.`zG
+&{('
+"H#Z
+k9O'
+n4e*
+>tXD
+t;mF
+lH~{
+fUM&3
+8RV\
+!NQe
+vILe\gb
+Hm\F
+-`U}KL2I
+`<a$c
+jgb~v:
+~mh*
+<`GA
+I5IP1=-"
+S*a{6}
+G8/U-
+Q=hsN
+~@F]
+~O	Y.
+ng3Q
+i#;"
+Sfs[
+AH7Js
+e*h<
+rD:q
+iE'kc
+bu6H
+_j.e
+v^@F5M
+[m.$a
++a=g`)T
+khOW3
+`m8Jo
+Pr#q,
+<4A%
+B<)Iu
+TZ|k&b
+@5Y}QV
+4*$?
+gSQU
+	qut
+m!dp
+PTPKa
+(:Z3
+MWH_
+MMQ;-L
+7BKL
+.:k[=
+BY.E
+(.NGO
+#w=)
+E9?.%
+uv(eT
+~R<uavvG
+'&bs
+	]c#
+)vLTx
+)/p4
+sNU"
+V]lh
+8lp;
+>-Ch
+\R5m
+dY[%*&
+z3Ku
+g5!y
+XEJu#
+@IdU1)}v
+m(+sX
+F0~h
+ ()(
+1c#V
+Q>N&
+4a<Z~
+%QB*
+dggo{{R
+(#ME
+U'_z
+`\H4
+%91y4
+|:q2
+OMYMl
+-	tI
+Rmqx
+->[8
+6|B4
+ISE@#B}
+dk\\
+"U)KY)&
++wfrg
+?FZB
+ry!S
+q]/ D
+C#N.t
+(,p4/
+j:%O
+,0$4t
+Db:-Z
+jL5I
+eSSN
+>y|2
+xQb{
+(%O2
+UIft
+adqi
+UZm_i
+3M6uPM
+@#)8R
+PIQ"v
+"$)a
+kg9R
+oPbC
+5+<m
+s6&n
+)xe/-
+rLd#
+<	`)
+q1aZ
+mtbi
+>sl	
+V)Z'
+e2[q
+xpYmC
+&$P]
+EFer
+Hpn<D
+!4kK
+b*Mu;B[
+w^4u
+}K;{4%
+O!i^
+E;(z	U
++'Y-
+Zv?T
+`MA'
+I3Z?
+ WXF
+}f+0
+p{>Fn 3
+.FG6
+@Cc4
+cu2mv,
+	K2R
+l	Vc
+$cXE
+$u: 
+w#A3/
+Zx:qc
+l.F"vl
+?mS4
+:5]r
+WLbx
+:}@m
+YFiKf
+Fd\}
+pm]N
+Is{ 
+[0N|
+ik7C
+'Wo&
+J	a>
++V:|
+^8j_
+~IbX(T
+iQao
+}AFg
+>80l
+0m1sg
+_(Fm7
+t}_D
+XiTa
+P~:D
+}'rD
+5Mw\
+As|8i
+@F,f
+1tw@1
+Jo/k
+|)To
+u7Gw
+[7.T
+|=&?
+j\!#
+SY$hG
+-Zp|E
+	B.|
+&0,R
+s=Ya
+Gb*_
+2%[x
++]R3
+IEND
+fonts
+googleapis
+fonts
+googleapis
+fonts
+googleapis
+fonts
+googleapis
+\%-#d
+2wq"
+2gB0
+[UrK
+Z.`m
+kK&%
+@6KN
+fonts
+gstatic
+fonts
+gstatic
+fonts
+gstatic
+gstaticadssl
+google
+fonts
+gstatic
+gstaticadssl
+google
+mDO>
+{@^f
+u^|<
+-/<@]A-)j
+}*wCp
+UC*~
+`>\)
+kR0(
+'=Jq@
+6be2%
+4q\i
+'e*g
+mas"
+W7#e
+gR\!
+8_^0}
+H%Y$ 
+"Vj3
+/I$N
+Z3@()
+aTu9
+0U=_	
+BA@N
+!	ab/
+@+5:P
+icaV
+9?>v
+wB!b
+@>Gw|
+CXm/
+m~	7
+$_c\
+Of$>
+]@k+
+wPiI+
+eR%V
+JBzb
+^$)I7
+b$"w
+T%5f
+:K(k
+mwwB
+9\_e
+A1]eV
+V(tr
+FVi)
+zW[&
+"29V
+|)t>
+sI2J
+=4PYg
+CQP	)b
+<0=R-)
+9&bX
+(,nL
+^5UkS\
+{h-!v
+%Pe,
+A~XA^
+W9rvJY
+_Oyxl
+kPewk
+|.C{
+3Mj9
+67=m
+3#"~
+}9W?
+Y^}4
++ob"
+q~0Z
+Aysd
+.;YV
+mG.B
+S{vm
+/12N
+(7T7&1
+[~n@
+[	Me
+LmI[
+	gGaU,/
+UnS_
+7]	I
+I@-S8
+<H]a
+xRTJ:<
+!8w` B
+$&mY
+]St5
+#PL#
+.\fFL
+15D},
+K;O>0
+#1C/>
+DOVO?=
++#@}p
+"l]:
+G#oT
+Vd8%
+|G`3
+&rAM
+(!!#
+QWNt
+{/H1
+-2cT
+8!J~
+wS:4	:
+6hfq
+$FcP~
+Q>X<#ZT
+"8`.}
+qW{8
+/Bh,
+QubT
+`ZglL
+yK?-"
+E ML
++HgQS
+{jtM
+pm6~
+N{@A
+/DPZ
+eG-c
+;jI]
+D|&5h
+kR2~
+>kg%0
+Kq{n)<)
+p	dF
+@9L#
+A0|X
+lNJF-
++|Fz
+}lW_
+$)LH6
+jIm 
+t=`D
+KU]y
+\PDy
+vwL$t
++Cqe
+Sg\A
+o5a@
+o^-,
+rq1Bd
+GL7~
+K|3z
+ =Snd
+zCz9
+jBAz
+b4q>8F5!
+twDt
+%cl@`w
+#!u|
+#z:i
+"bK$
+"bK$
+"bK$
+"bK$
+"bK$
+"bK$
+"bK$
+$?>B
++%?>B
+2@>B
+W0r aM
+Pj<j{
+bcX]
+FCdv
+5s<s+
+tyc1
+Sabryi
+$@v`<.
+j7]<d
+$*,u
+22M&
+.1>#
+.S%#
+`]lo
+#B1`
+nh	:
++bU{
+=^nJ
+zRAwg
+U}a&mJ!-
+#b`\
+<08m2gwJ
+~%1]
+w/z$O
+3K:y
+'~Ff
+&AQ%:dh
+O?i(
+_ftp
+_tcp
+local
+_nfs
+_afpovertcp
+_smb
+	_sftp-ssh
+_webdavs
+_webdav
+_ftp
+_tcp
+local
+_nfs
+_afpovertcp
+_smb
+	_sftp-ssh
+_webdavs
+_webdav
+sTchuWf-
+,`(Q3
+o;PU
+KvGl
+"	!X
+UP`4
+_]cI
+~G..
+u>-{
+m>`U+
+Hsn~B\
+lp[%o}n
+KK4P
+]GET /template/portfolio.php?name=KCTF%7BFake_FLAG_L0L%7D&email=a%40gmail.com&message=KCTF%7BFake_FLAG_L0L%7D HTTP/1.1
+Host: 192.168.1.9
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://192.168.1.9/template/portfolio.php
+Upgrade-Insecure-Requests: 1
+HTTP/1.1 200 OK
+Date: Mon, 17 Jan 2022 15:53:50 GMT
+Server: Apache/2.4.52 (Unix)
+Last-Modified: Mon, 17 Jan 2022 15:18:12 GMT
+ETag: "34fa-5d5c8a933fe78"
+Accept-Ranges: bytes
+Content-Length: 13562
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+<!DOCTYPE html>
+<html lang="zxx">
+<head>
+  <meta charset="utf-8">
+  <title>Portfolio Template</title>
+  <!-- mobile responsive meta -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <!-- ** Plugins Needed for the Project ** -->
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="plugins/bootstrap/bootstrap.min.css">
+  <!-- slick slider -->
+  <link rel="stylesheet" href="plugins/slick/slick.css">
+  <!-- themefy-icon -->
+  <link rel="stylesheet" href="plugins/themify-icons/themify-icons.css">
+  <!-- Main Stylesheet -->
+  <link href="css/style.css" rel="stylesheet">
+  <!--Favicon-->
+  <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+</head>
+<body>
+<header class="navigation fixed-top">
+  <nav class="navbar navbar-expand-lg navbar-dark">
+    <a class="navbar-brand font-tertiary h3" href="index.php">Tareq</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
+      aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse text-center" id="navigation">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item active">
+          <a class="nav-link" href="index.php">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="about.php">about</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="blog.php">Blog</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="portfolio.php">Portfolio</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="contact.php">Contact</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+</header>
+<!-- page title -->
+<section class="page-title bg-primary position-relative">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h1 class="text-white font-tertiary">Portfolio</h1>
+      </div>
+    </div>
+  </div>
+  <!-- background shapes -->
+  <img src="images/illustrations/page-title.png" alt="illustrations" class="bg-shape-1 w-100">
+  <img src="images/illustrations/leaf-pink-round.png" alt="illustrations" class="bg-shape-2">
+  <img src="images/illustrations/dots-cyan.png" alt="illustrations" class="bg-shape-3">
+  <img src="images/illustrations/leaf-orange.png" alt="illustrations" class="bg-shape-4">
+  <img src="images/illustrations/leaf-yellow.png" alt="illustrations" class="bg-shape-5">
+  <img src="images/illustrations/dots-group-cyan.png" alt="illustrations" class="bg-shape-6">
+  <img src="images/illustrations/leaf-cyan-lg.png" alt="illustrations" class="bg-shape-7">
+</section>
+<!-- /page title -->
+<!-- portfolio -->
+<section class="section">
+  <div class="container">
+    <div class="row mb-5">
+      <div class="col-12">
+        <div class="btn-group btn-group-toggle justify-content-center d-flex" data-toggle="buttons">
+          <label class="btn btn-sm btn-primary active">
+            <input type="radio" name="shuffle-filter" value="all" checked="checked" />All
+          </label>
+          <label class="btn btn-sm btn-primary">
+            <input type="radio" name="shuffle-filter" value="design" />UI/UX Design
+          </label>
+          <label class="btn btn-sm btn-primary">
+            <input type="radio" name="shuffle-filter" value="branding" />BRANDING
+          </label>
+          <label class="btn btn-sm btn-primary">
+            <input type="radio" name="shuffle-filter" value="illustration" />ILLUSTRATION
+          </label>
+        </div>
+      </div>
+    </div>
+    <div class="row shuffle-wrapper">
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;design&quot;,&quot;illustration&quot;]">
+        <div class="position-relative rounded hover-wrapper">
+          <img src="images/portfolio/item-1.png" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
+          <div class="hover-overlay">
+            <div class="hover-content">
+              <a class="btn btn-light btn-sm" href="project-single.html">view project</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;branding&quot;]">
+        <div class="position-relative rounded hover-wrapper">
+          <img src="images/portfolio/item-2.png" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
+          <div class="hover-overlay">
+            <div class="hover-content">
+              <a class="btn btn-light btn-sm" href="project-single.html">view project</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;illustration&quot;]">
+        <div class="position-relative rounded hover-wrapper">
+          <img src="images/portfolio/item-3.png" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
+          <div class="hover-overlay">
+            <div class="hover-content">
+              <a class="btn btn-light btn-sm" href="project-single.html">view project</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;design&quot;,&quot;branding&quot;]">
+        <div class="position-relative rounded hover-wrapper">
+          <img src="images/portfolio/item-6.png" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
+          <div class="hover-overlay">
+            <div class="hover-content">
+              <a class="btn btn-light btn-sm" href="project-single.html">view project</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;illustration&quot;]">
+        <div class="position-relative rounded hover-wrapper">
+          <img src="images/portfolio/item-8.png" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
+          <div class="hover-overlay">
+            <div class="hover-content">
+              <a class="btn btn-light btn-sm" href="project-single.html">view project</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;design&quot;]">
+        <div class="position-relative rounded hover-wrapper">
+          <img src="images/portfolio/item-5.png" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
+          <div class="hover-overlay">
+            <div class="hover-content">
+              <a class="btn btn-light btn-sm" href="project-single.html">view project</a>
+            </
+div>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;branding&quot;]">
+        <div class="position-relative rounded hover-wrapper">
+          <img src="images/portfolio/item-1.png" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
+          <div class="hover-overlay">
+            <div class="hover-content">
+              <a class="btn btn-light btn-sm" href="project-single.html">view project</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;design&quot;,&quot;illustration&quot;,&quot;branding&quot;]">
+        <div class="position-relative rounded hover-wrapper">
+          <img src="images/portfolio/item-3.png" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
+          <div class="hover-overlay">
+            <div class="hover-content">
+              <a class="btn btn-light btn-sm" href="project-single.html">view project</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-6 mb-4 shuffle-item illustration" data-groups="[&quot;illustration&quot;]">
+        <div class="position-relative rounded hover-wrapper">
+          <img src="images/portfolio/item-7.png" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
+          <div class="hover-overlay">
+            <div class="hover-content">
+              <a class="btn btn-light btn-sm" href="project-single.html">view project</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /portfolio -->
+<!-- clients -->
+<section class="section bg-light">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h2 class="section-title">My Clients</h2>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12">
+        <div class="client-logo-slider d-flex align-items-center">
+          <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+              src="images/clients-logo/client-logo-1.png" alt="client-logo"></a>
+          <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+              src="images/clients-logo/client-logo-2.png" alt="client-logo"></a>
+          <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+              src="images/clients-logo/client-logo-3.png" alt="client-logo"></a>
+          <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+              src="images/clients-logo/client-logo-4.png" alt="client-logo"></a>
+          <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+              src="images/clients-logo/client-logo-5.png" alt="client-logo"></a>
+          <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+              src="images/clients-logo/client-logo-1.png" alt="client-logo"></a>
+          <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+              src="images/clients-logo/client-logo-2.png" alt="client-logo"></a>
+          <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+              src="images/clients-logo/client-logo-3.png" alt="client-logo"></a>
+          <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+              src="images/clients-logo/client-logo-4.png" alt="client-logo"></a>
+          <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+              src="images/clients-logo/client-logo-5.png" alt="client-logo"></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /clients -->
+<!-- contact -->
+<section class="section section-on-footer" data-background="images/backgrounds/bg-dots.png">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h2 class="section-title">Contact Info</h2>
+      </div>
+      <div class="col-lg-8 mx-auto">
+        <div class="bg-white rounded text-center p-5 shadow-down">
+          <h4 class="mb-80">Contact Form</h4>
+          <form action="#" class="row">
+            <div class="col-md-6">
+              <input type="text" id="name" name="name" placeholder="Full Name" class="form-control px-0 mb-4">
+            </div>
+            <div class="col-md-6">
+              <input type="email" id="email" name="email" placeholder="Email Address" class="form-control px-0 mb-4">
+            </div>
+            <div class="col-12">
+              <textarea name="message" id="message" class="form-control px-0 mb-4"
+                placeholder="Type Message Here"></textarea>
+            </div>
+            <div class="col-lg-6 col-10 mx-auto">
+              <button class="btn btn-primary w-100">send</button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /contact -->
+<!-- footer -->
+<footer class="bg-dark footer-section">
+  <div class="section">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4">
+          <h5 class="text-light">Email</h5>
+          <p class="text-white paragraph-lg font-secondary">steve.fruits@email.com</p>
+        </div>
+        <div class="col-md-4">
+          <h5 class="text-light">Phone</h5>
+          <p class="text-white paragraph-lg font-secondary">+880 2544 658 256</p>
+        </div>
+        <div class="col-md-4">
+          <h5 class="text-light">Address</h5>
+          <p class="text-white paragraph-lg font-secondary">125/A, CA Commercial Area, California, USA</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="border-top text-center border-dark py-5">
+    <p class="mb-0 text-light">Copyright 
+<script>
+        var CurrentYear = new Date().getFullYear()
+        document.write(CurrentYear)
+      </script> a theme by <a href="https://themefisher.com">themefisher.com</a></p>
+  </div>
+</footer>
+<!-- /footer -->
+<!-- jQuery -->
+<script src="plugins/jQuery/jquery.min.js"></script>
+<!-- Bootstrap JS -->
+<script src="plugins/bootstrap/bootstrap.min.js"></script>
+<!-- slick slider -->
+<script src="plugins/slick/slick.min.js"></script>
+<!-- filter -->
+<script src="plugins/shuffle/shuffle.min.js"></script>
+<!-- Main Script -->
+<script src="js/script.js"></script>
+</body>
+</html>
+#|$5
+`h$i
+6z+;
+i$G3KC:
+Ps66+P&
+!>j:
+A0IM
+c1Y~#?
+Les@
+#|$5
+`h$i
+6z+;
+i$G3KC:
+Ps66+P&
+!>j:
+A0IM
+c1Y~#?
+$|mC
+qO)w
+>=?E
+}-PBm
+ozbh
+zC#[
+\s+W*
+4de@
+}us$-
+--iujF
+kkfUL
+;%w8wH7E
+>x@|8
+YXypt-	Wg
+(sJ>
+,vBE
+cnCytF
+xqgX
+Q9"v
+Ldk@
+nqBf
+sXG:0U
+'x{w
+$9S1
+MHj4^
+V%P&i
+2.Ug
+c$_Ov
+fq~q
+,/SNr
+i0'gR
+1M?JuX
+4k/@
+- /yW
+=Ewh
+'cUS6
+PD}2D~[
+F>xf
+?Fts
+`	y.7y
+XJ<.
+8i#p
+4oA8
+<PM#
+rm^l
+pm^l
+pm^l
+\GET /template/something%20something.png HTTP/1.1
+Host: 192.168.1.9
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+rm^l
+rm^l
+HTTP/1.1 200 OK
+Date: Mon, 17 Jan 2022 15:54:02 GMT
+Server: Apache/2.4.52 (Unix)
+Last-Modified: Mon, 17 Jan 2022 15:18:12 GMT
+ETag: "26b01-5d5c8a933fe78"
+Accept-Ranges: bytes
+Content-Length: 158465
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: image/png
+IHDR
+sRGB
+	pHYs
+ciTXtXML:com.adobe.xmp
+<?xpacket begin='
+' id='W5M0MpCehiHzreSzNTczkc9d'?>
+<x:xmpmeta xmlns:x='adobe:ns:meta/'>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+ <rdf:Description rdf:about=''
+  xmlns:Attrib='http://ns.attribution.com/ads/1.0/'>
+  <Attrib:Ads>
+   <rdf:Seq>
+    <rdf:li rdf:parseType='Resource'>
+     <Attrib:Created>2022-01-14</Attrib:Created>
+     <Attrib:ExtId>92326d56-5e36-455b-af59-bf2bbd999519</Attrib:ExtId>
+     <Attrib:FbId>525265914179580</Attrib:FbId>
+     <Attrib:TouchType>2</Attrib:TouchType>
+    </rdf:li>
+   </rdf:Seq>
+  </Attrib:Ads>
+ </rdf:Description>
+ <rdf:Description rdf:about=''
+  xmlns:dc='http://purl.org/dc/elements/1.1/'>
+  <dc:title>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>something</rdf:li>
+   </rdf:Alt>
+  </dc:title>
+ </rdf:Description>
+ <rdf:Description rdf:about=''
+  xmlns:pdf='http://ns.adobe.com/pdf/1.3/'>
+  <pdf:Author>Hackar</pdf:Author>
+ </rdf:Description>
+ <rdf:Description rdf:about=''
+  xmlns:xmp='http://ns.adobe.com/xap/1.0/'>
+  <xmp:CreatorTool>Canva</xmp:CreatorTool>
+ </rdf:Description>
+</rdf:RDF>
+</x:xmpmeta>
+<?xpacket end='r'?>v
+IDATx
+09O/
+l3!W
+9C[~
+a{_e
+{z5e
+!SU5
+l_[J75iCiS
+&m(kJ
+09+p)
+c_W2|P
+: So?<
+{W'}
+N21nD
+t]XVH
+WU	/s
+/*Z~
+%u	-
+<P_<7I
+k3x%I
+ Is?
+$.{l_`{{uM
+l{_{
+<.W[
+xm=>
+eegyu
+4adb=
+Gf_%
+t.qZ
+q^2kp
++p*#t*
+mN,I
+wUmNv
+nydm
+{ViS
+mo]w
+b_Brl
+T<fz
+W@6d
+B-^Y
+C~]\
+.TuM
+7[euM@
+._m=
+sJ[z
+xg()k
+Vo}V
+QWoC
+46G3
+JiiH  =
+TYE|3y
+Gd+/7
+jlt~r
+Sw^<L^
+`	`I
+}nQS
+0C{N)
+fhdn
+G^,I
+Odfkq/
+~ucR
+^=34m
+)ZaA
+iLRJq2}
+KKCJ
+y] `
+	FSS@
+Fo|X
+[#MB
+{ViS
+XFQ[22
+^4<)
+2=wk
+USS@
+}#?;cG
+J75%=x%
+IYV$S7]0
+YW,n
+3Mm=>O
+m3uI
+04er
+R56Z_
+{CTi
+.2~D
+b-Yi
+DKKC
+^hN3^
+,M~V
+]@EU@_
+eYWo?h
+u&ZZ
+ASS@
+:-^a
+|PRB
+m3!O
+IDATp
+:fZq
+~ug_
+w^<\
+-7_9
+}0+'
+jhG;
+/Yl{_
+35|P
+GYKq
+v  -^Qo
+:m?)O7
+#kc^
+{f[,&
+8*7-
+y==l
+^m(m
+\(<x%
+;wNY
+n6OI
+~U}z
+0m{s
+n=5jH|'
+2;>V
+*k64
+_o]n;3cF
+,%Q;N.
+7Sw^<\G]
+|b]R
+0;o[
+e~s>*
+Jm7)
+]I:~
+~Kk_
+)6']
+l:fz
+cqwTS
+uq]R
+];J;me
+G~:|
+x`\\
+Wo|T
+9$[{L
+q"JL~]\g{
+]eeyt
+)UUur
+Z:rj
+\egYO
+Mbii
+X3X{
+ VMm@
+o,kTiy
+63HJ
+WuH9[Mm@
+Z--}=9
+hl45oI
+V$g6
+WgJv	
+'7&M
+}f~"
+6hXR
+Vccr
+]Dim
+'_)QC
+5H8e
+ 9ZuM
+02[S&[gT
+*-]e
+fR2s
+r$[Yy
+klLN
+{VvU
+*)kL
+2Bb>
+&b3qT
+<=IE
+@rl9.Ww_2L
+8*GKV
+bdFmH<
+aKi	
+lR[Z}
+8/2<
+"J	S
+Z6Qt
+DgQ5
+Vn^x(
+f	uL
+IDAT
+xN+/
+~pCO
+2R0x
+Sq<5M3
+&{lnS
+Q(8e(Y
+9d3E
+.C*t
+~6gY
+vSd&
+w3Cft
+?Wfb
+-'e-
+1dx<
+7#C^
+ecb8
+ eZN
+Lyd*x
+WI	G
+'#C2
+F544
+USS#
+PK2zb
+1M3"{ 
+@RMM
+9S+tU
+222"
+fNPt
+k	^eggKRK
+)+;KYYY
+i*77W
+jhhP}}}
+<2d(`
+jhhPUU
+{`UW
+Z2F333
+:566
+(77W
+G ]%
+g96e
+|>ege)333
+~UUUI
+g*4[2)
+,SRSc
+jkjZ&
+fVE/
+(;;[
+9pi?
+Gfs9
+=++K
+)566J
+T~~~p
+lUUU
+\999
+5e4?
+7mm9m
+I9uV
+{-eF
+9MSPJ
+KKPJ
+Q TW
+V/=K
+G`988
+8MS|
+x<6f
+A(CvM
+pppp
+?J)(!@QF
+f8;;
+q||l
+h<)w
+Zpppx
+899A
+S`!I
+	BUb
+d7i"
+Hk9S
+#l qem
+NoW/
+	G`988
+^JY0
+nBb]
+jNI^5TX
+	q`o
+Fb7j]Cy
+G`988<8
+C3~p
+G`988<8PB
+!*J'Mp
+wrk(5
+R]QBA!
+y8::
+W6!/
+tuty
+:888
+rppxp
+IVu@
+.4A@0
+Q&%(s
+.7\o
+m_(!`
+j&MB
+`7&M
+zGxl
+ynTYZ
+rppx
+~XB"
+,q	yu
+]8_%
+sSMUWVM
+K!@(
+)%da*
+k\\\
+v^n7
+rppxp
+@(1A
+pppx| 
+t]{j
+>x;\
+IDATY
+qOW 
+pppx
+	%`E
+#Ms$I
+GA*^
+5\.W%
+;88<h8
+3EhqI@
+^J)!
+UWU%V	HQ!1(
+uvEq`<`|
+VTl::
+UEdw
+\pDa
+YM4z
+wppx
+.]50
+A`98T
+H	Bi
+^z]Z
+7%x7
+rppxp0i4
+iR[M%0l
+1L{U
+T%U]
+UWZ=)
+jW+m
+v6%D
+KtM[mh
+qppp
+{=<{
+cx{~
+PjL]@
+;8888<,
+{{{H
+C,WK
+zjd[X
+Vy#t
+mtsy
+L@AQ'
+PZ15Vp
+n888<R8
+Ng988
+A{Yo
+<V(I
+Kuz4
+qSWe
+sDQdH~
+=KkP
+BHPZ
++@ysEQ
+QR1[vp
+!xe:
+J:4i!/nr
+'''&
+ahH'
+5YU'
+1bW/
+S7o/:ZI
+qppp
+04>/I
+G`988<8hC`
+di~L
+tF[)
+7)E-
+1NOO
+? (|
+2dy9
+7=	R
+MHe^
+pI`jG{
+E.QJ
+(c V
+rppx
+-t'%:|
+	qkja
+I	T~[U_
+},W+
+u:%$@	
+G`988<bT
+>"k{Z
+2+MS,
+IR~)
+S&1*
+h[k)
+G`988<*
+^#KS
+$)!$L
+L5VJ)
+hcv{
+QzSNq
+rppxd
+Scd<
+eZ)f
+Vyj?
+wKQZW
+oqqq
+.Yx,t
+IDAT*
+OvETJ)@(
+rppx|0ow
+;Z!5
+<%E &%
+ph|gl
+1JAh
+j[]Q]yU7
+ppp`
+f&%QC+
+VuBh
+f3dY
+pppx
+S\\\
+[dYjL
+(@5J
+\yec
+rppx
+>X(,
+L&X,
+QxP	
+8>9F
+YJ	Q
+Fn'|
+W+Z~
+$	"	D
+%ki~
+V-iUhE
+8EXx
+io>[
+T*9KU
+# ` 
+\.1_.
+TLkI
+Q!A{
+aQcC
+[RWm
+M+$*8
+G`9888
+N1R><
+sDp7
+e8>9
+T*)i
+rppp
+I[ZWwz
+d{hEq
+qBTI,
++M@U
+CF%I
+UgOk
+'89=
+e+Iu
+lV%}.#a7
+G`9888
+E-wE
+Z3YlO
+ixeq
+Ln'SG
+495_.
+(	l[
+rppp
+K0k]
+K	}n
+qpppp
+Yxu5<
+0=?G
+PPsn
+w8<<
++C6?
+"OUeA)%<
+G`9888
+Nqrr
+rppp
+S~8Y
+@M^U
+B)<_y^
+J#d`
+0>Wy
+CRiB
+BFYY
+By`Q
+	 ISP
+$7&<
+-w-W
+weF=
++:	{
+Uim:m
+hk'!,
+2w-bg
+$Jq:;
+$	FkL
+/g$i
+]v(<
+h4b<
+WQ`7
+IDAT
+	E1`0(
+Z7^N
+n5q=!
+:hc]
+r<]?
+c~L|S
+\\\pzz
+d2A)
+rO	s
+Zvr@c"
+8>>f
+K:][:
+V!:?>
+u~?:
+4S	@
+#%%J
+snnnX,
+:>>f8
+*Kw_
+vAJd
+tFUU
+RUUd
+`0`6
+LR)"
+p0d8
+':?"
+c#MS
+<g<v
+y`uA
+iY,W
+BPUU,
+V<>>
+,K.//Y
+ "*'
+0;)cX^
+r[F`l0
+-eY2
+5X<c
+yH%I
+mZ_%
+BFi`Y
+$evrB
+'O8??
+jR;i
+R5www
+NOO)
+bAUU
+oPk'1
+Uz"n
+(M"D
+rm_!
+[rs}
+3k-uUc~ z
+GGGN
+ldpt
+3]0J
+S&0R~I
+cdu}
+s)a8
+ i0\
+i4UU!
+1f,*q
+8;;C
+VXk9
+~X7u
+w~[y
++Pq}}
+(~`C
+=777$i
+{mwss
+$TuM
+Z{O)
+=FX]
+p~vz
+$$*a
+knon
+&K3_}OS75
+i5JIT
+z-J%
+W%3Tg
+TUEk4m
++,&IB
+q+@H?
+,0(	
+>/.a
+7%%R
+Knoo
+^sww
+Kk0&
+P 0Q
+c,GGG
+Yk999a8
+N9::b2
+o8==
+V+nooy
+=IdUUTU
+Y/UU
+`8`qw
+XKYV
+-6$IB~<&/2
+R@p _UU
+I`b9#
+IDATT
+,(,	
+_\'H
+QBq||
+=&^R
+XkY.
+/>X!
+)eUQ
+,&Oy
+!I$Rf
+G``i
+)$*Ih[
+,EHI
+9	,`
+Qn#}
+PM.M3
+_`MK
+l6%77
+c4''3
+Rrrr
+$ru]
+BJK]
+(01QF
+H$J(F
+zpN;s
+777,
+:`+OS
+=_.X
+*>@I
+GZ`*
+"AII
+e4MMYU$I
+^s{{
+K.//I
+	c4UUF
+Md_Z
+r.aH)
+dQx`HyC
+,amLz
+RW5Y
+eYF@1T
+ruuMQ
+E)I1
+kc5B
+;6kW
+w,%w
+	mhicu/c
+gg$i
+enu]
+lr~#^N
+D0!T
+5WWW\__
+	ggg$
+@3!D
+yd#Y
+"^_]
+Zn=a=+
+4-BHF
+2{},
+wwwn
+`6k4
+a1p"=c
+[noo
+>)1Z
+s.//
+8::b
+)y> 
+;)V1
+'v+'*
+r[F&
+\__3
+8c,M
+]5-uU
+>>>a>
+H_Ar
+Njm"C
+prc+
+:&I;
+mCYU
+F]U4Z
+RJ...
+O9>>a
+vc:m
+Nrf-;
+TeI"
+XKc4Z8
+*'+\
+x	{KQ
+^vbg
+a]	wc
+/8==c
+xuc;H
+	~X?
+vr=W
+CNOO
+!}U;
+&Z;sr
+_k-F
+bPl7[
+m57774M
+p=Q&j9
+NNN"
+Y`K$I
+)%i*
+$MqU
+/^<w
+Td5	
+]]]Q
+~X;i
+K~<v
+cNOf
+C&V`;H))
+GGGL&
+t)pu
+UY9VA]
+5www
+kAj):
+P+xtEf
+IDAT"
+kL&	R%
+X-WJg
++XkM[W
+4M9??g
+%$Rz
+*/?L
+	M]S7
+l6c<
+t2%I
+Oe	e
+m0FD9V`
+@J`cu
+IY;FP
+UYKo
+c P(
+yfa'
+U ,|
+uUA)S-
+<Gm}
+J\^*
+N'PZ
+A=3%4
+Q_:`B)
+Yx^!
+_Ji4m
+h JRS
+e+Ay
+{&d.
+ex"<w
+'cLF#L&
+x$Eu
+]__c2
+Zpl+
+j{BJ
+$Ipww
+IjXqUS
+qnnV
+^\Oj	O
+gI!}
+O?EQ
+g>d9
+Y^nL
+yx]:fS
+F#tB@k
+XS|!
+Tqr"{
+\;?&
+\\\`2
+#ML5
+L?hh
+s\_]
+_nCk
+^TVZh
+N	"B
+1^VZ
+R)+IJ=
+tq	q
+JlrJq
+dF)M
+rm_e
+_b>_`6
+2V55
+sf+f
+gmqH
+0NYY
+_e17
+~]RA
+AJS	
+z\!ISD
+)0uz
+G7\~
+c&8?
+$H-;
+G#LF
+hJ+/a
+@geTu
+~\)! 1<
+8??GUU
+@FL)\2
+5o7L
+\{CO/
+OXm2
+(Kl6[l7[t
+*EvH
+~=y~:
+ Ibp:
+...0
+!0~W
+@!3H
+m;4M
+@2kT
+sJ)4
+q#?m
+gg  
+"CId
+iqqw
+`Xz1
+\I<Wi
+h%!m
+$M@(E
+x||D
+eQb~v
+t;vL
+!:4]
+Yj.aN
+ePJ!
+s<<<`
+R*4M
+Ns=;
+Phc5
+ !O&
+v;_!
+cOJc
+t21>l
+IDAT
+*?~]
+\;	!
+ZCXS
+lw;\^^b
+NC{C}Xp
+8BUW
+8]cB
+N7>y
+ye$&Ff
+(!(+#w
+p8`2
+O{Sn
+8r~^!
+!$@]
+ik(-
+3\]_cyy
+_]8G
+H)pww
+SB@h_
+9./.0
+#(! 
+s[=l
+Lqm<-pp
+...puu
+VhT 
+<>>b
+qPj${a;)!
+Rkhb
+TQJy@
+O8-#
+1xv@
+|rRH7
+w4f!
+,wM9
+v7Nn
+I>BQ7
+_c	%`v}
+\^^z
+s\\\
+TFC		
+h(M!%
+PRyVF
+{\]-
+U]a>
+Ih*H:6
+7RJ_
+I(y,[<f`
+>1?ba
+W(9}
+sFrig
+#.//
+X,pyy
+}YBJ
+./.1
+4Mqvv
+2"(v
+,p{{
+mp~~n
+|>7f
+?]?TU
+-LEDw]
+B IRd
+=Sr:5E)
+1huj0}
+,K$I
+../Q
+	jm|
+,S-P
+32#c
+sTUed%
+8Y`h
+~MaB
+reQBJ
+hqyy
+Q=`u\
+VI)E
+V+H)1
+J+\\.
+h<F+:
+Ri(3
+^vn}
+~?O`
+Z)((
+N88(48
+)E5PU
+s\]]
+HJkTM
+-(aG
+(puu
+N]?)[YO[
+OF`TC
+$`6PJ-
+v{/A
+|dYY#t
+7oP7-
+d21Is
+juZ#O3
+aZ)H-
+FUV(
+:!{p1
+N2rDM
+gR)4mc
+RJB{
++<<>b
+IDAT
+H>>>
++s-7]
+[p]w
+U:](
+0fXqJ
+Jx`:d
+/q~vn
+9O,g,
+5f?C
+Sv`oBo
+H!La
+Sm*W
+eUB)
+4M\o
+opww
+gggx
+$92h
+gggG
+a+3*
+Kw=eY
+G\]]
+k<<>
+RL&c\^,
+X,p~~
+SoA3
+mZTU
+3D<2
+W8??GUU(
+'Hei
+1(5,
+ p	*
+xXFUU
+m{Py
+A]f`
+^Nn,<
+b[EQh_
+DP{|
+,ab`
+f3\^^b
+OOO!
+!.W+
+ 3i%
+RAkc
+,-SV
+ip}}
+OH^X-
+RH+[f
+aA[c
+U(y7
+J)J6-
+FUUx
+.//1
+qL>VA
+i|yHUU
+ MSDa
+uM^R>
+\!P@Y
+ 0&4
+T5o2
+q~DBJ
+a4a'uU
+um+3
+@<t`
+aY%>
+t;K3
+eUy}
+JNI.
+3}x=
+78=9
+cGIfDJ
+yN2GC
+l6GY
+|SnR
+lPIk
+Ox]KX
+-nnn
+NOOqqq
+=u]#
+g%;9
+>++3
+OUu,
+"_#!
+b?3n
+=noo
+~O^w
+,{>>
+=;;sr
+_W)	
+uBI,
+(p}u
+RUP*
+IDAT
+mGO!
+nqzz
+@74C?
+YeY8
+L&8??
+nq}}E
+N!4U
+14)b
++>U.
+_UUV
+1@S7$u
+EUWh
+hZb<
+JBHE
+3	?=4
+9NON
+l[W	Q
+-Ijl
+b2a)
+cBEq
+,k-IS
+v^5]
+EYbv2G
+lq}E l^
+jC^nq
+`08X
+v;\]]
+	NOOqvvF
+w~(a
+|>G6
+uqhf
+GC$q
+DS[)]
+Oaod$I
+Y@RvRx
+Ju^_
+gTk C
+-[ar/il4
+F]5H
+w]Dq
+Jk~5
+t4%9
+nQXf
+nnn`L
+XfQ*;
+;\^^
+;@1ISg
+@$E 
+gsTU
+ D"c
+yYb_
+x}o:
+'Opvz
+v9|n0n
+$TY3v
+>Jg''
+~H*s
+bq{1
+~1@'
+`0@Y
+AF[I
+@{]Wh
+vZ@(
+[FkQE)
+!LWF
+,{@k
+Zk<y
+4I-PAR6
+*K(!`Z
+#$qB
+G#H!
+^-QU5
+!p{{
+o53n
+JIh=r
+4Ab@m
+D>MS
+|}fu
+7+lw
+&2pc
+yL!c
+i*DQ
+p	VY
+bCpR!
+CEQ 
+$sJ)(
+IDAT
+8Nqrr
+M-#o
+v[\__
+o,h2
+OaX}l
+zaiTu
+YTylp`LM
+8p|=
+#<:{
+u]a>
+ nSfL}
+/|3xc
+A pS7v
+/pzz
+@*dI
+p0D0
+8i,a
+%iMmY>
+o{_F
+4M]ob
+9nuK
+G+)0
+AUU8=9
+YY]?
+'O.0
+'pFXF
+ ya 
+j46	u	
+p i{
+C~)yf[
+*kTe
+,W+,
+*ZXO'
+KKX`L
+yQXi
+eY7Kp
+jq(o
+t,0ba
+83nN
+_-HF
+]K\ ``
+.^/n
+	YB&
+XfB1pHF
+~UUX
+-J7~
+E899AUU
+!v&_
+YOM}
+dVmM
+{WeY
+/^<G
+[FDn
+T[VUfT
+\]9!yF
+"@E2
+c\\\
+sUUY
+,K4M
+{OUU(
+GGGX
+!~oq
+NfdO
+U.@C
+%bnB
+G IYj
+XH^;
+8n{u
+C\\^b
+d V_Q
+VUeX
+XcK^
+`!Q7
+g}p:
+DUU(
+4&ul
+s\^^ZY
+[\]]a
+eTeY
+:>gH
+=if;
+c]UF
+km<m<
+(*L'3\
+zP	c
+k\^^Zp.
+IDAT
+pvvfA^n
+S75Z%
+,CS7h
+%=$qO
+,Kl6k
+A/K1
+Z.$$
+I;14
+zb]T9V
+2^]iI
+6b+M
+``%AY
+5|E 
+bqiF
+QCHc
+u^Xcz
+8	!0
+m[4e
+Rr@5
+%!L%
+qttd=E
+?{AFE
+R%H)%D+
+=gEQ`
+e3Ij'm
+Yj{4
+VUPj
+t-iAB
+aO1l
+,Q75|_
+,XBl
+ML&J
+kdYf
+mZDa
+zv|+
+z&QE
+V5V.% 
+!:3W
+PbAF
+@2?b
+a*!O&
+.xrvv
+70fd^
+x&E1
++[,P
+Ik4u
+6r'Cq
+'GGxf
+lPV%
+X^n"
+{\Mn[
+4H2E
+M#,XF
+VK\^^
+JITue
+J!M{
+E7t(
+XSJa0
+n*p%
+S)Da
+RrXW
+&={~
+[)5l
+)JH)
++#u"
+s-Cf
+0@/M
+LPWD
+g899
+!2~xuYAH
+ OEZ0p
+5"b-
+Su]z
+gI1et
+Qx>4
+9u][
+A3yL
+p@*[m
+$ Dk
+8;;C
+6PWJ!
+:>F/N
+<NlMS}
+,xl=
+u]c2
+eQVU
+@LMb
+MJ)()
+2R;N3
+v~e;O
+'&Ih<i
+Nf%8i
+@'rR)xm
+ I"(p0
+*JTy
+KDQd
+eYb8
+i*H)
+Q2MB
+D8o2
+V	t7\
+,)$Z
+B)]]k
+GL7+
+cB2f
+`ZW#
+c6{@^
+YO"%
+PJZV
+IDATOJ
+,q{s
+TRW&
+,:MS
+&HOM
+pj7H
+@`	m
+%Z7776
+o	JF
+$IPW
+\^\ t
+3DQd<
+G1B##
+$PU5
+Lp{{
+\'f$
+*wFd
+qJ)P
+{]	l
+J)e$
+J@H]
+Opr|
+?\.p
+Ln/d
+b17 I
+!;iK
+Y	TU
+&dFN
+fJL	P
+962v
+\w}5
+lG)b
+eiYw
+qxaW
+v@,F
+`}{V
+V9v:?
+^+wO
+\ 0r:
+TMp:
+mqqq
+~CRZjO.
+K<;=
+999A
+$89=
+\.qvv
+e6qnk$j
+S20m
+Ke$yz
+bx$md
+~m)<
+427%
+899AY
+5@~}}
+TP0 
+v# E
+Nq{{
+C<;{
+K<<<
+M\'Da
+?'|j
+Ge<d
+Ya.k
+RSJu	
+HI?=
+wLJ)1
+/./1
+(69D
+"Ibx
+mkB(pS
+g8??GU
+L/FY
+/z]v
+)0r79
+N`[]G
+a1_`
+.`P;v
+]Ys7
+_teL
+Jl$o!
+q{{k
+i0{x
+9NOOq|r
+EQ I
+z=DQ
+UHz	
+"\__
+O!9CQj
+_pvz
+5MS<
+a[i?+
+?wt$
+EQ NbDA
+)B?@/
+/rGb'
+Z]]]
+Ew,=c
+}	,@
+Wpss
+)@xbo
+i%@J
+44aH)
+\_syy
+DJI/
+d2a4
+j$=Hr}4
+X)t'R
+n9Ji
+[...\
+0lIiT\
+)ggg
+:[HJ
+IDATg>
+!U]S
+_),Ie
+l6\^^
+S45MB
+rm`3
+GL&G
+`	/G`
+.@-%
+/9>>
+}CK`
+-EQ 
+&9pH
+\,Y.
+y,W+
+mv\]
+~g+,*
+=_+#
+/8;;
+-Z|O
+4V?eTW
+`s.L
+8hm!
+,vGi
+oUYQU
+\ryy
+<9=%y
+\.Y-
+4%MS
+UUNm
+oUUQV%u
+5GGG
+9::b|4f
+>lV%
+fb!(
+Jru~
+eYFQ
+h4"Nt
+N'e0
+g*Oz
+M%as
+oTJ[
+l2c:9"M
+GO8:
+tJWO
+=@K`
+ M\Y
+r7PV
+"JI|
+n7f 
+Xpyu
+9RJnoo9??
+PW5''
+''<>9
+q}}M-
+o^ruu
+99yD
+a~{c
+]Y4IS
+OO9;;#
+d2a2
+7\\\
+DIBV
+x^`B
+wdSS
+'{=m
+'Lb\v
+R(%4i&4
+Zr}}M
+aH(<
+MSNNNy
+S>6D
+:eB`
+V)mW
+9yQpyuMU
+.//5
+DK)Qe	
+t2BI
+ZuNbTr
+h@t;G)
+O>a2
+=/I]+m
+{KbY5
+T+U]
+ryyI
+z=g-
+t:e0
+v9>>
+}kQP
+\>V3
+p9|A
+GG#|
+5/_|C]K
+`0`0
+NB'I
+5GUiUPQ
+*@W%
+y|zB
+s{sC
+&/k7
+CYoM
+rrzJ7M
+NG[LsCF
+3?%B
+-Z|04
+cGZY
+!NbmkS
+V]3j/
+IDAT
+0"	#
+!UYq
+O?e6
+D)[8CgK
+	TUi5
+0"H}
++ N:N5X
+x|zJ
+	GGG
+f(>5B*
+XXKT
+upYA
+zBg -
+UU!<A
+?"I:
+s<;f:
+>BVZ
+-Z|0
+$IBUjb
+Yu}}
+\uCk9s
+_?kc
+?~LQ
+n9??
+olw`
+coHy
+:T|0`
+'O>"4D
+6nI=
+Xvno
+i[Bh
+bAUj
+^s}}
+x<f2
+]^3_IJ
+V<	t
+E\^^
+$IP@
+Spqq
+<GBY
+^<p.
+9ytB'I
+TDqL
+6)<c
+Rr70
+?`-l
+"d`	
+t899q$
+* JBG:m7
+/^pvv
+N8::
+Af5mu
+u5AuXX
+...x
+`8BI]
+nUUl
+l6#MS]
+3?|h
+,1ea
+$C8fYFUU
+%WWWDQ
+PU5i
+dIUU{
+G`5I
+`Mb	
+mYX?
+_MR&I
+nnnL
+^s{}Kb
+%v9Y
+s$qY
+tXxY
+TUiB
+,3\[
+B5Dn
+,uEQ8
+S+I)
+s.//
+"/rnnn(
+k6+]
+s:iJ
+BV["G
+vd_m
+x^H'M
+$qDUW(Y
+<~_4I
+nUQz 
+HM4I$
+V+YB
+,Jnnn
+,pE^P
+,'Nb
+./.9
+s_IIm
+I@o{
+M\Id
+ZBG+R
+N5UU
+W=n>
+en`o
+<^>a
+U*E-k
+GDQL-k
+-Z|8
+/vpiC
+x<vU
+if/5
+v nI
+I;Lg3
+lQJQ
+{.GI
+B)<[
+eQ K
+T#kS
+z\^^rqq
+n+&K
+	.ofQY
+p8d:
+5yQ 
+dBUU
+aH'I
+d:cr4!
+\s}uE
+IbC.
+bA%k
+iRTR
+(8;;
+Ay3k
+	!H::/
+\^^r~~
+RZ%g,
+W_q{{
+l6c4
+IDAT,
+-Z|0
+O?%'
+cUW6W
+&GG|
+jCvm
+H&}<*
+$/2..
+*Dk1
+la!d
+/ !1
+P+<ZQ
+dt)8
+($D-
+a)zb
+/prr
+h`mm-
+mszz
+looc
+8::B
+qt|d
+Ble.
+8<<D
+5i]v
+z+ YGV
+2?NH
+NONqxp`
+t`,\
+f3K0
+D+4U98<
+rm`}\Mg
+F8<<
+)+<Y!
+]^k It
+nDKi
+"O"op
+JZ_vse
+h`}}
+<QRz
+Pn^)
+>n^+
+&i?::
+	 Bz
+E8<x
+oaoo
+s6<6
+L\NT:P
+@J@z
+\wfI
+u*XG
+9lC*-
+Q)76
+Y)$*A
+OJ@+
+LlO-
+!c\n(
+sWM[
++fYQ
+]v=w
+jass
+[hw:F<jw
+$*Ao
+Mt{=$i
+'88:
+nFOT
+[7nd
+<\V@v
+#d(hH-2'
+8:>6
+sHkt:m
+p4Dr
+49? d
+''888
+!{v=+
+J]UV
+&/V#h 
+5*#XA+@
+agg;
+	(%S
+ln))3
+"wX)
+ZJ#n 
+'8<>
+aO)4R
+Z+$	2
+L7qyy
+	! =
+6qmF
+<I	<?
+Mt:m
+@%	t
+v+uti
+YXc{
+[o`kg
+SJa4
+~F._
+3%s'$
+0Ib$
+l@k`
+BkmFKL4
+lckc
+*Ip|t
+r[7M
+.Q}y
+IDAT
+2bC*
+8J`L?
+2m+R7]
+pD*7
+4[qF
+Z]Hdn
+QRJH
+_IdD
+OJ$J
+us%I
+Lr*S
+RT^7
+b&'T
+.7Mb2
+N3mP
+y&/T
+/$d*
+;)L(
+FPZAj 
+3Li 1[
+Ubt0
+VA@H
+	!%b
+\%tU
+%Y9V
+rIMO
+SK9bc
+$P"m
+cJ'i(
+A@(e
+n?T}
+y0bT
+rMY\
+*a|]
+j.jU3m
+nME.+F
+sWC^b
+xWK)
+84l.
+q]8y
+Mr=i
+z^h+V
+vrOYa
+c ue
+<n}n
+]l}t^],
+iRv	
+h{5,K
+LLv0	OB
+2$\o
+:!t@
+=	!d
+!D~\
+Eq=k+K
+"^]7G
+ariX
+`rW	m
+a0-SZ
+n[9a~
+P9w:
+"LL[
+%w_U
+(#d	- 
+k|[S
+4t]m
+\A\)
+!dih]
+x?)L
+[t Z
+a!G^MX
+`=FckgS
+&uaU
+p2M;/
+YwFY
+Oy-\
+XOTL
+5QHgj
+<oS.
+/,Jb
+z]WY~
+q&]$
+T-Zg
+2K(W
+zcB3
+/ZxH
++g5"EV
+2)4t
+JtAp
+U%\U
+Rn.*
+4.J\
+|_damB@
+mV~_~5
+RjL|
+UQ%0
+D3o4
+yX$)
+\:u7
+ke+ 
+.7`y
+)w$A
+=j`U
+0)aw
+_7dv
+	!e."
+$'L9t
+"^uM
+*2% f6
+}z?i
+[^fQg
+ck|Z
+	)|$
+dqqR
+IDAT
+qa,O
+KVUrU6
+|7Wy
+e7WU
+NLmby
+`-sb
+JPg\w2B
+kZM/
+qdN,r
+_KJ#
+!d)h
+)[V:
+mk9a
+Yi(`
+Yi(`
+Yi(`
+Yi(`
+Yi(`
+Yi(`
+Yi(`
+Yi(`
+Yi(`
+Yi(`
+Yi(`
+Yi(`
+Yi(`
+Yi(`
+Yi(`
+Yi(`
+Yi(`
+Yi(`
+Yi(`
+Yi(`
+Yi(`
+Yi(`
+Yi(`
+Yi(`
+Yi(`
+Yi(`
+Yi(`
+Yi(`
+Yi(`
+Yi(`
+Yi(`
+Yi(`
+Yi(`
+Yi(`
+GWR3
+ <4[
+h47q
+A4|6
+@@%#
+vLk' 
+?D8x
+u4:7
+zf>(`
+ ho#hn
+Q&^9e
+?XC4:@
+ hmapZ-^
+Z!IF
+}t7>
+hB.fA@
+BJ@k<
+Jk`}
+*N^|
+,kid
+rb|?
+3FJ];
+Tf__
+s@ f
+Rptcz
+.<C._
+$I[(F(
+^R!Dz
+q+!S
+dD"1.
+,UQm
+m`}\
+dIcy
+{D"Y
+&f)c{
+<I{~+
+\(00
+g.?K
+iT/l
+$I[(FH
+J];hT
+Uf.?
+,m/5
+z!@e
+!iWi5
+WN3{
+>DhT/
+!G._
+&I*4*
+I;u:
+01yx
+nNS[x{
+kL_xf
+$iSe
+[!W`d
+	f.~
+^W%n
+$iKdYB
+ij7g
+zw1y
+SIDAT
+M 2u
+/tQ,
+<iR%_
+^zv[
+YV`I
+Wi5.-Wi
+Ircxu
+?OLZ
+}#GiT
+Zoo=
+[+R(
+OS[8I._
+$i[3
+$i[3
+$i[3
+IEND
+L^O@
+DTadO
+<<>K
+=MOwH
+Ap$`
+~_GQJ
+mf(L
+}?+7
+QRr5'
+.eKD{x
+M5-~
+	kW1
+=2#Y
+mlH:"O
+K=t7
+!4V~
+04J6
+ FHFAEBEECACACACACACACACACACACAAA
+wpad
+local
+wpad
+local
+wpad
+local
+wpad
+local
+wpad
+wpad
+wpad
+wpad
+wpad
+local
+wpad
+local
+wpad
+local
+i0vZ
+wpad
+local
+wpad
+wpad
+wpad
+wpad
+ FHFAEBEECACACACACACACACACACACAAA
+wpad
+local
+wpad
+local
+wpad
+local
+wpad
+local
+wpad
+local
+wpad
+local
+wpad
+local
+wpad
+local
+ FHFAEBEECACACACACACACACACACACAAA
+Counters provided by dumpcap
